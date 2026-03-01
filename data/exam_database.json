@@ -1,0 +1,260 @@
+{
+  "exams": [
+    {
+      "id": "sample-ml-001",
+      "title": "Đề thi Machine Learning - Cơ bản",
+      "subject": "Machine Learning",
+      "difficulty": "co_ban",
+      "questions": [
+        {
+          "id": "q-ml-001",
+          "content": "Machine Learning là gì?",
+          "options": [
+            "A. Một nhánh của trí tuệ nhân tạo cho phép máy tính học từ dữ liệu",
+            "B. Một ngôn ngữ lập trình",
+            "C. Một loại cơ sở dữ liệu",
+            "D. Một hệ điều hành"
+          ],
+          "answer": "A",
+          "question_type": "trac_nghiem"
+        },
+        {
+          "id": "q-ml-002",
+          "content": "Supervised Learning (Học có giám sát) khác Unsupervised Learning (Học không giám sát) ở điểm nào?",
+          "options": [
+            "A. Supervised Learning không cần dữ liệu",
+            "B. Supervised Learning sử dụng dữ liệu có nhãn (label), Unsupervised Learning thì không",
+            "C. Unsupervised Learning luôn cho kết quả tốt hơn",
+            "D. Không có sự khác biệt"
+          ],
+          "answer": "B",
+          "question_type": "trac_nghiem"
+        },
+        {
+          "id": "q-ml-003",
+          "content": "Overfitting xảy ra khi nào?",
+          "options": [
+            "A. Mô hình quá đơn giản",
+            "B. Mô hình học quá tốt trên tập training nhưng kém trên tập test",
+            "C. Dữ liệu training quá lớn",
+            "D. Learning rate quá nhỏ"
+          ],
+          "answer": "B",
+          "question_type": "trac_nghiem"
+        },
+        {
+          "id": "q-ml-004",
+          "content": "Gradient Descent được sử dụng để làm gì trong Machine Learning?",
+          "options": [
+            "A. Tạo dữ liệu mới",
+            "B. Tối ưu hóa hàm mất mát (loss function) bằng cách cập nhật tham số",
+            "C. Phân loại ảnh",
+            "D. Tiền xử lý dữ liệu"
+          ],
+          "answer": "B",
+          "question_type": "trac_nghiem"
+        },
+        {
+          "id": "q-ml-005",
+          "content": "Cross-validation là kỹ thuật dùng để làm gì?",
+          "options": [
+            "A. Tăng tốc quá trình training",
+            "B. Đánh giá hiệu quả mô hình một cách tin cậy hơn bằng cách chia dữ liệu thành nhiều fold",
+            "C. Giảm kích thước dữ liệu",
+            "D. Mã hóa dữ liệu"
+          ],
+          "answer": "B",
+          "question_type": "trac_nghiem"
+        }
+      ],
+      "source_file": "sample",
+      "created_at": "2026-02-20T10:00:00Z"
+    },
+    {
+      "id": "sample-nlp-001",
+      "title": "Đề thi NLP - Xử lý Ngôn ngữ Tự nhiên",
+      "subject": "NLP",
+      "difficulty": "trung_binh",
+      "questions": [
+        {
+          "id": "q-nlp-001",
+          "content": "Tokenization trong NLP là gì?",
+          "options": [
+            "A. Quá trình tách văn bản thành các đơn vị nhỏ hơn (token) như từ hoặc câu",
+            "B. Quá trình dịch ngôn ngữ",
+            "C. Quá trình mã hóa bảo mật",
+            "D. Quá trình nén dữ liệu"
+          ],
+          "answer": "A",
+          "question_type": "trac_nghiem"
+        },
+        {
+          "id": "q-nlp-002",
+          "content": "Word Embedding là gì và tại sao nó quan trọng trong NLP?",
+          "options": [],
+          "answer": "Word Embedding là cách biểu diễn từ dưới dạng vector số thực trong không gian nhiều chiều, giúp máy tính hiểu được ngữ nghĩa và mối quan hệ giữa các từ.",
+          "question_type": "tu_luan"
+        },
+        {
+          "id": "q-nlp-003",
+          "content": "Mô hình Transformer có ưu điểm gì so với RNN truyền thống?",
+          "options": [
+            "A. Transformer xử lý tuần tự nên nhanh hơn",
+            "B. Transformer sử dụng cơ chế Attention để xử lý song song, giải quyết vấn đề long-range dependency",
+            "C. Transformer không cần dữ liệu training",
+            "D. Transformer chỉ hoạt động với tiếng Anh"
+          ],
+          "answer": "B",
+          "question_type": "trac_nghiem"
+        },
+        {
+          "id": "q-nlp-004",
+          "content": "Named Entity Recognition (NER) là tác vụ gì?",
+          "options": [
+            "A. Nhận dạng và phân loại các thực thể có tên (người, địa điểm, tổ chức) trong văn bản",
+            "B. Tạo văn bản mới từ dữ liệu",
+            "C. Dịch văn bản sang ngôn ngữ khác",
+            "D. Kiểm tra chính tả"
+          ],
+          "answer": "A",
+          "question_type": "trac_nghiem"
+        },
+        {
+          "id": "q-nlp-005",
+          "content": "Giải thích cơ chế Self-Attention trong mô hình Transformer.",
+          "options": [],
+          "answer": "Self-Attention cho phép mỗi token trong chuỗi chú ý đến tất cả các token khác, tính toán mức độ liên quan thông qua Query, Key, Value vectors và tạo ra biểu diễn ngữ cảnh phong phú.",
+          "question_type": "tu_luan"
+        }
+      ],
+      "source_file": "sample",
+      "created_at": "2026-02-22T14:30:00Z"
+    },
+    {
+      "id": "sample-dl-001",
+      "title": "Đề thi Deep Learning - Neural Networks",
+      "subject": "Deep Learning",
+      "difficulty": "nang_cao",
+      "questions": [
+        {
+          "id": "q-dl-001",
+          "content": "Backpropagation hoạt động như thế nào trong neural network?",
+          "options": [
+            "A. Lan truyền tín hiệu từ input đến output",
+            "B. Tính gradient của loss function theo từng weight bằng chain rule, sau đó cập nhật weights theo hướng giảm loss",
+            "C. Xóa các neuron không cần thiết",
+            "D. Tăng số lượng layer"
+          ],
+          "answer": "B",
+          "question_type": "trac_nghiem"
+        },
+        {
+          "id": "q-dl-002",
+          "content": "Dropout là kỹ thuật regularization hoạt động bằng cách nào?",
+          "options": [
+            "A. Thêm noise vào dữ liệu",
+            "B. Ngẫu nhiên tắt một số neuron trong quá trình training để tránh overfitting",
+            "C. Giảm learning rate",
+            "D. Tăng batch size"
+          ],
+          "answer": "B",
+          "question_type": "trac_nghiem"
+        },
+        {
+          "id": "q-dl-003",
+          "content": "So sánh CNN và RNN. Khi nào nên sử dụng kiến trúc nào?",
+          "options": [],
+          "answer": "CNN phù hợp cho dữ liệu có cấu trúc không gian (ảnh, video) nhờ convolution layer phát hiện đặc trưng cục bộ. RNN phù hợp cho dữ liệu tuần tự (văn bản, chuỗi thời gian) nhờ khả năng nhớ thông tin trước đó qua hidden state.",
+          "question_type": "tu_luan"
+        },
+        {
+          "id": "q-dl-004",
+          "content": "Batch Normalization giúp cải thiện training neural network như thế nào?",
+          "options": [
+            "A. Tăng kích thước batch",
+            "B. Chuẩn hóa input của mỗi layer, giúp training ổn định hơn và cho phép dùng learning rate lớn hơn",
+            "C. Giảm số lượng parameters",
+            "D. Loại bỏ activation function"
+          ],
+          "answer": "B",
+          "question_type": "trac_nghiem"
+        },
+        {
+          "id": "q-dl-005",
+          "content": "Vanishing Gradient Problem là gì và cách khắc phục?",
+          "options": [],
+          "answer": "Vanishing Gradient xảy ra khi gradient trở nên rất nhỏ qua nhiều layer, khiến các layer đầu gần như không được cập nhật. Khắc phục bằng: sử dụng ReLU thay sigmoid, Residual connections (ResNet), LSTM/GRU thay RNN thường, Batch Normalization.",
+          "question_type": "tu_luan"
+        }
+      ],
+      "source_file": "sample",
+      "created_at": "2026-02-25T09:15:00Z"
+    },
+    {
+      "id": "sample-python-001",
+      "title": "Đề thi Python cơ bản",
+      "subject": "Python",
+      "difficulty": "co_ban",
+      "questions": [
+        {
+          "id": "q-py-001",
+          "content": "Trong Python, kiểu dữ liệu nào sau đây là immutable (không thể thay đổi)?",
+          "options": [
+            "A. List",
+            "B. Dictionary",
+            "C. Tuple",
+            "D. Set"
+          ],
+          "answer": "C",
+          "question_type": "trac_nghiem"
+        },
+        {
+          "id": "q-py-002",
+          "content": "List comprehension trong Python là gì? Cho ví dụ.",
+          "options": [],
+          "answer": "List comprehension là cú pháp ngắn gọn để tạo list mới từ iterable. Ví dụ: squares = [x**2 for x in range(10)] tạo list các số bình phương từ 0 đến 9.",
+          "question_type": "tu_luan"
+        },
+        {
+          "id": "q-py-003",
+          "content": "Kết quả của đoạn code sau là gì: print(type([1, 2, 3]))?",
+          "options": [
+            "A. <class 'tuple'>",
+            "B. <class 'list'>",
+            "C. <class 'dict'>",
+            "D. <class 'set'>"
+          ],
+          "answer": "B",
+          "question_type": "trac_nghiem"
+        },
+        {
+          "id": "q-py-004",
+          "content": "Decorator trong Python dùng để làm gì?",
+          "options": [
+            "A. Trang trí giao diện",
+            "B. Bọc (wrap) một hàm để mở rộng chức năng mà không thay đổi code gốc",
+            "C. Xóa một hàm",
+            "D. Import thư viện"
+          ],
+          "answer": "B",
+          "question_type": "trac_nghiem"
+        },
+        {
+          "id": "q-py-005",
+          "content": "Sự khác nhau giữa '==' và 'is' trong Python là gì?",
+          "options": [
+            "A. Không có sự khác biệt",
+            "B. '==' so sánh giá trị, 'is' so sánh identity (cùng object trong bộ nhớ)",
+            "C. 'is' so sánh giá trị, '==' so sánh identity",
+            "D. Cả hai đều so sánh kiểu dữ liệu"
+          ],
+          "answer": "B",
+          "question_type": "trac_nghiem"
+        }
+      ],
+      "source_file": "sample",
+      "created_at": "2026-02-28T16:00:00Z"
+    }
+  ],
+  "total_searches": 0
+}
