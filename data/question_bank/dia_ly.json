@@ -1,0 +1,1471 @@
+{
+  "subject": "Địa lý",
+  "total": 100,
+  "questions": [
+    {
+      "id": "dialy-06-cb-001",
+      "content": "Trái Đất có hình dạng như thế nào?",
+      "options": [
+        "A. Hình tròn",
+        "B. Hình cầu",
+        "C. Hình vuông",
+        "D. Hình elip"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Trái Đất",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-06-cb-002",
+      "content": "Đường Xích đạo chia Trái Đất thành hai bán cầu nào?",
+      "options": [
+        "A. Đông và Tây",
+        "B. Bắc và Nam",
+        "C. Trên và Dưới",
+        "D. Trái và Phải"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Trái Đất",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-06-cb-003",
+      "content": "Đại dương nào có diện tích lớn nhất thế giới?",
+      "options": [
+        "A. Đại Tây Dương",
+        "B. Ấn Độ Dương",
+        "C. Bắc Băng Dương",
+        "D. Thái Bình Dương"
+      ],
+      "answer": "D",
+      "question_type": "trac_nghiem",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Đại dương",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-06-cb-004",
+      "content": "Đỉnh núi nào được mệnh danh là \"nóc nhà của thế giới\"?",
+      "options": [
+        "A. Fansipan",
+        "B. Everest",
+        "C. Phú Sĩ",
+        "D. K2"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Địa hình",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-06-cb-005",
+      "content": "Hiện tượng Trái Đất tự quay quanh trục sinh ra hệ quả nào?",
+      "options": [
+        "A. Các mùa trong năm",
+        "B. Ngày và đêm luân phiên",
+        "C. Nhật thực",
+        "D. Nguyệt thực"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Trái Đất",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-06-cb-006",
+      "content": "Bản đồ là hình ảnh thu nhỏ tương đối chính xác về một khu vực.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Bản đồ",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-06-cb-007",
+      "content": "Mặt Trời quay quanh Trái Đất.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Trái Đất",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-06-cb-008",
+      "content": "Khoảng cách 1cm trên bản đồ tỉ lệ 1:100.000 tương ứng bao nhiêu km ngoài thực địa?",
+      "options": [],
+      "answer": "1 km",
+      "question_type": "tu_luan",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Bản đồ",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-06-cb-009",
+      "content": "Các hành tinh trong hệ Mặt Trời quay quanh vật thể nào?",
+      "options": [],
+      "answer": "Mặt Trời",
+      "question_type": "tu_luan",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Trái Đất",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-06-tb-001",
+      "content": "Kinh tuyến đi qua đài thiên văn Greenwich gọi là kinh tuyến ____.",
+      "options": [],
+      "answer": "Gốc/Số 0",
+      "question_type": "tu_luan",
+      "grade": 6,
+      "difficulty": "trung_binh",
+      "topic": "Bản đồ",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-07-cb-001",
+      "content": "Quốc gia nào có diện tích lớn nhất thế giới?",
+      "options": [
+        "A. Trung Quốc",
+        "B. Mỹ",
+        "C. Nga",
+        "D. Canada"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 7,
+      "difficulty": "co_ban",
+      "topic": "Địa lý thế giới",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-07-cb-002",
+      "content": "Sa mạc Sahara nằm ở Châu Phi.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 7,
+      "difficulty": "co_ban",
+      "topic": "Địa lý thế giới",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-07-cb-003",
+      "content": "Tên hòn đảo lớn nhất thế giới là gì?",
+      "options": [],
+      "answer": "Greenland",
+      "question_type": "tu_luan",
+      "grade": 7,
+      "difficulty": "co_ban",
+      "topic": "Địa lý thế giới",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-07-cb-004",
+      "content": "Thủ đô của nước Nhật Bản là thành phố nào?",
+      "options": [],
+      "answer": "Tokyo",
+      "question_type": "tu_luan",
+      "grade": 7,
+      "difficulty": "co_ban",
+      "topic": "Địa lý thế giới",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-07-tb-001",
+      "content": "Tầng ozon nằm ở lớp nào của khí quyển?",
+      "options": [
+        "A. Tầng đối lưu",
+        "B. Tầng bình lưu",
+        "C. Tầng giữa",
+        "D. Tầng nhiệt"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 7,
+      "difficulty": "trung_binh",
+      "topic": "Khí quyển",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-07-tb-002",
+      "content": "Hiện tượng \"thủy triều\" chủ yếu do lực hút của vật thể nào gây ra?",
+      "options": [
+        "A. Mặt Trời",
+        "B. Mặt Trăng",
+        "C. Các hành tinh khác",
+        "D. Trái Đất tự quay"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 7,
+      "difficulty": "trung_binh",
+      "topic": "Thủy quyển",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-07-tb-003",
+      "content": "Châu lục nào lạnh nhất thế giới?",
+      "options": [],
+      "answer": "Châu Nam Cực",
+      "question_type": "tu_luan",
+      "grade": 7,
+      "difficulty": "trung_binh",
+      "topic": "Địa lý thế giới",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-08-cb-001",
+      "content": "Việt Nam nằm ở châu lục nào?",
+      "options": [
+        "A. Châu Âu",
+        "B. Châu Phi",
+        "C. Châu Á",
+        "D. Châu Mỹ"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Địa lý Việt Nam",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-08-cb-002",
+      "content": "Việt Nam nằm trong đới khí hậu nhiệt đới gió mùa.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Khí hậu",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-08-cb-003",
+      "content": "Sông Mê Công chỉ chảy qua lãnh thổ Việt Nam.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Thủy văn",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-08-cb-004",
+      "content": "Nước ta có đường bờ biển dài 3260 km.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Địa lý Việt Nam",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-08-cb-005",
+      "content": "Các nước Đông Nam Á đều là đảo quốc.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Đông Nam Á",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-08-cb-006",
+      "content": "Nghệ An là tỉnh có diện tích lớn nhất Việt Nam.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Địa lý Việt Nam",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-08-cb-007",
+      "content": "Đảo Phú Quốc thuộc tỉnh Kiên Giang.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Địa lý Việt Nam",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-08-cb-008",
+      "content": "Gió Tín phong hoạt động mạnh nhất vào mùa đông ở miền Bắc nước ta.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Khí hậu",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-08-cb-009",
+      "content": "Đỉnh núi cao nhất Việt Nam tên là gì?",
+      "options": [],
+      "answer": "Fansipan",
+      "question_type": "tu_luan",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Địa hình Việt Nam",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-08-cb-010",
+      "content": "Việt Nam có bao nhiêu dân tộc anh em?",
+      "options": [],
+      "answer": "54",
+      "question_type": "tu_luan",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Dân cư Việt Nam",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-08-cb-011",
+      "content": "Điền tên quốc gia láng giềng phía Tây của Việt Nam (có đường biên giới dài nhất):",
+      "options": [],
+      "answer": "Lào",
+      "question_type": "tu_luan",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Địa lý Việt Nam",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-08-cb-012",
+      "content": "Hai quần đảo lớn ngoài khơi xa của Việt Nam là Hoàng Sa và ____.",
+      "options": [],
+      "answer": "Trường Sa",
+      "question_type": "tu_luan",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Biển đảo Việt Nam",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-08-cb-013",
+      "content": "Khu vực Đông Nam Á gồm bao nhiêu quốc gia?",
+      "options": [],
+      "answer": "11",
+      "question_type": "tu_luan",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Đông Nam Á",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-08-tb-001",
+      "content": "Gió mùa Đông Bắc thổi vào nước ta theo hướng nào?",
+      "options": [
+        "A. Đông Bắc",
+        "B. Tây Bắc",
+        "C. Đông Nam",
+        "D. Tây Nam"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "trung_binh",
+      "topic": "Khí hậu",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-08-tb-002",
+      "content": "Đặc điểm nổi bật của địa hình Việt Nam là:",
+      "options": [
+        "A. Đồng bằng chiếm phần lớn diện tích",
+        "B. Đồi núi chiếm 3/4 diện tích",
+        "C. Địa hình chủ yếu là cao nguyên",
+        "D. Không có núi cao"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "trung_binh",
+      "topic": "Địa hình Việt Nam",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-08-tb-003",
+      "content": "Quốc gia nào ở Đông Nam Á không giáp biển?",
+      "options": [
+        "A. Thái Lan",
+        "B. Campuchia",
+        "C. Lào",
+        "D. Myanmar"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "trung_binh",
+      "topic": "Đông Nam Á",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-08-tb-004",
+      "content": "Sông ngòi nước ta có đặc điểm:",
+      "options": [
+        "A. Ít nước, hàm lượng phù sa thấp",
+        "B. Mạng lưới dày đặc, nhiều nước, nhiều phù sa",
+        "C. Chỉ có một mùa nước chảy",
+        "D. Chủ yếu là sông dài và lớn"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "trung_binh",
+      "topic": "Thủy văn",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-08-tb-005",
+      "content": "Khí hậu miền Bắc có mùa đông lạnh, khí hậu miền Nam nóng quanh năm.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "trung_binh",
+      "topic": "Khí hậu",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-08-tb-006",
+      "content": "Biển Đông là một biển tương đối kín, nằm trong vùng nhiệt đới.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "trung_binh",
+      "topic": "Biển Đông",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-08-tb-007",
+      "content": "Điền tên tỉnh nằm ở điểm cực Bắc của Việt Nam:",
+      "options": [],
+      "answer": "Hà Giang",
+      "question_type": "tu_luan",
+      "grade": 8,
+      "difficulty": "trung_binh",
+      "topic": "Địa lý Việt Nam",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-08-tb-008",
+      "content": "Điền tên tỉnh nằm ở điểm cực Nam của Việt Nam:",
+      "options": [],
+      "answer": "Cà Mau",
+      "question_type": "tu_luan",
+      "grade": 8,
+      "difficulty": "trung_binh",
+      "topic": "Địa lý Việt Nam",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-08-tb-009",
+      "content": "Hệ thống sông lớn nhất ở miền Bắc nước ta là hệ thống sông nào?",
+      "options": [],
+      "answer": "Sông Hồng",
+      "question_type": "tu_luan",
+      "grade": 8,
+      "difficulty": "trung_binh",
+      "topic": "Thủy văn",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-08-tb-010",
+      "content": "Ngã ba Đông Dương là điểm tiếp giáp giữa Việt Nam, Lào và quốc gia nào?",
+      "options": [],
+      "answer": "Campuchia",
+      "question_type": "tu_luan",
+      "grade": 8,
+      "difficulty": "trung_binh",
+      "topic": "Đông Nam Á",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-09-cb-001",
+      "content": "Nước ta có bao nhiêu tỉnh và thành phố trực thuộc Trung ương?",
+      "options": [
+        "A. 61",
+        "B. 62",
+        "C. 63",
+        "D. 64"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "co_ban",
+      "topic": "Địa lý Việt Nam",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-09-cb-002",
+      "content": "Loại đất nào chiếm diện tích lớn nhất ở vùng Đồng bằng sông Cửu Long?",
+      "options": [
+        "A. Đất phèn, đất mặn",
+        "B. Đất phù sa ngọt",
+        "C. Đất feralit",
+        "D. Đất xám"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "co_ban",
+      "topic": "Thổ nhưỡng",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-09-cb-003",
+      "content": "Thành phố nào là trung tâm kinh tế lớn nhất Việt Nam?",
+      "options": [
+        "A. Hà Nội",
+        "B. Đà Nẵng",
+        "C. Cần Thơ",
+        "D. TP. Hồ Chí Minh"
+      ],
+      "answer": "D",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "co_ban",
+      "topic": "Kinh tế Việt Nam",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-09-cb-004",
+      "content": "Tỉ lệ che phủ rừng ở nước ta hiện nay khoảng bao nhiêu phần trăm (làm tròn)?",
+      "options": [],
+      "answer": "42%",
+      "question_type": "tu_luan",
+      "grade": 9,
+      "difficulty": "co_ban",
+      "topic": "Tài nguyên",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-09-tb-001",
+      "content": "Vùng kinh tế nào sau đây của nước ta được mệnh danh là \"vựa lúa\" lớn nhất?",
+      "options": [
+        "A. Đồng bằng sông Hồng",
+        "B. Duyên hải miền Trung",
+        "C. Đồng bằng sông Cửu Long",
+        "D. Tây Nguyên"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Kinh tế Việt Nam",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-09-tb-002",
+      "content": "Loại khoáng sản có trữ lượng lớn nhất ở vùng Tây Nguyên là:",
+      "options": [
+        "A. Than đá",
+        "B. Sắt",
+        "C. Bô-xit",
+        "D. Vàng"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Tài nguyên",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-09-tb-003",
+      "content": "Cây công nghiệp lâu năm quan trọng nhất của vùng Tây Nguyên là:",
+      "options": [
+        "A. Cao su",
+        "B. Cà phê",
+        "C. Chè",
+        "D. Điều"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Nông nghiệp",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-09-tb-004",
+      "content": "Vùng trọng điểm sản xuất lương thực, thực phẩm lớn nhất cả nước là:",
+      "options": [
+        "A. Đồng bằng sông Hồng",
+        "B. Bắc Trung Bộ",
+        "C. Đồng bằng sông Cửu Long",
+        "D. Đông Nam Bộ"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Kinh tế Việt Nam",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-09-tb-005",
+      "content": "Nước ta có bao nhiêu cửa khẩu quốc tế đường bộ chính giáp với Trung Quốc?",
+      "options": [
+        "A. 3",
+        "B. 5",
+        "C. 7",
+        "D. 9"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Giao thông",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-09-tb-006",
+      "content": "Loại gió nào gây mưa lớn cho Nam Bộ vào mùa hạ?",
+      "options": [
+        "A. Gió mùa Đông Bắc",
+        "B. Gió Tín phong",
+        "C. Gió mùa Tây Nam",
+        "D. Gió Tây khô nóng"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Khí hậu",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-09-tb-007",
+      "content": "Dầu mỏ và khí đốt là tài nguyên năng lượng không tái tạo.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Tài nguyên",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-09-tb-008",
+      "content": "Đà Lạt là thành phố nằm trên cao nguyên Lâm Viên.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Địa hình Việt Nam",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-09-tb-009",
+      "content": "Đường ven biển ngắn nhất nước ta thuộc tỉnh Nam Định.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Địa lý Việt Nam",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-09-tb-010",
+      "content": "Vùng Trung du và miền núi Bắc Bộ có tiềm năng thủy điện lớn nhất cả nước.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Năng lượng",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-09-tb-011",
+      "content": "Đất Feralit là loại đất chính ở vùng đồng bằng.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Thổ nhưỡng",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-09-tb-012",
+      "content": "Cửa khẩu quốc tế Hữu Nghị thuộc tỉnh nào?",
+      "options": [],
+      "answer": "Lạng Sơn",
+      "question_type": "tu_luan",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Giao thông",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-09-tb-013",
+      "content": "Di sản thiên nhiên thế giới Vịnh Hạ Long thuộc tỉnh nào?",
+      "options": [],
+      "answer": "Quảng Ninh",
+      "question_type": "tu_luan",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Du lịch",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-09-tb-014",
+      "content": "Điền tên loại khoáng sản \"vàng đen\" của tỉnh Quảng Ninh:",
+      "options": [],
+      "answer": "Than đá",
+      "question_type": "tu_luan",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Tài nguyên",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-10-tb-001",
+      "content": "Nhật Bản thường xuyên xảy ra động đất và núi lửa do nằm trên:",
+      "options": [
+        "A. Vành đai lửa Thái Bình Dương",
+        "B. Đường Xích đạo",
+        "C. Nội địa châu Á",
+        "D. Vành đai Đại Tây Dương"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Địa lý thế giới",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-10-tb-002",
+      "content": "Hiệp hội các quốc gia Đông Nam Á (ASEAN) hiện có bao nhiêu thành viên chính thức?",
+      "options": [
+        "A. 9",
+        "B. 10",
+        "C. 11",
+        "D. 12"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Đông Nam Á",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-10-tb-003",
+      "content": "Nước Mỹ nằm hoàn toàn ở bán cầu Đông.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Địa lý thế giới",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-10-tb-004",
+      "content": "Trung Quốc là quốc gia đông dân nhất thế giới tính đến năm 2024.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Dân cư thế giới",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-10-tb-005",
+      "content": "Ngành kinh tế đóng góp tỉ trọng lớn nhất vào GDP của các nước phát triển là ____.",
+      "options": [],
+      "answer": "Dịch vụ",
+      "question_type": "tu_luan",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Kinh tế thế giới",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-10-tb-006",
+      "content": "Tên viết tắt của Tổ chức Thương mại Thế giới là gì?",
+      "options": [],
+      "answer": "WTO",
+      "question_type": "tu_luan",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Kinh tế thế giới",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-10-tb-007",
+      "content": "Hiện tượng nóng lên toàn cầu chủ yếu do hiệu ứng ____.",
+      "options": [],
+      "answer": "Nhà kính",
+      "question_type": "tu_luan",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Môi trường",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-11-nc-001",
+      "content": "Quốc gia nào có chỉ số phát triển con người (HDI) rất cao nhờ xuất khẩu dầu mỏ ở Trung Đông?",
+      "options": [
+        "A. Yemen",
+        "B. Iraq",
+        "C. Qatar",
+        "D. Syria"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 11,
+      "difficulty": "nang_cao",
+      "topic": "Kinh tế thế giới",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-12-tb-001",
+      "content": "Đặc điểm dân số Việt Nam hiện nay là:",
+      "options": [
+        "A. Tỉ lệ sinh tăng cao",
+        "B. Cơ cấu dân số trẻ đang chuyển sang già hóa",
+        "C. Dân số đang giảm",
+        "D. Phân bố dân cư rất đồng đều"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "trung_binh",
+      "topic": "Dân cư",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-12-tb-002",
+      "content": "Hoạt động công nghiệp của nước ta tập trung cao nhất ở Đông Nam Bộ.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "trung_binh",
+      "topic": "Công nghiệp",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-12-tb-003",
+      "content": "Nước ta có bao nhiêu vùng kinh tế - xã hội?",
+      "options": [],
+      "answer": "6",
+      "question_type": "tu_luan",
+      "grade": 12,
+      "difficulty": "trung_binh",
+      "topic": "Kinh tế Việt Nam",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-12-tb-004",
+      "content": "Vùng nào có mật độ dân số cao nhất nước ta?",
+      "options": [],
+      "answer": "Đồng bằng sông Hồng",
+      "question_type": "tu_luan",
+      "grade": 12,
+      "difficulty": "trung_binh",
+      "topic": "Dân cư",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-12-tb-005",
+      "content": "Cây công nghiệp nào của Việt Nam có sản lượng xuất khẩu đứng đầu thế giới nhiều năm liền?",
+      "options": [],
+      "answer": "Hạt điều / Tiêu",
+      "question_type": "tu_luan",
+      "grade": 12,
+      "difficulty": "trung_binh",
+      "topic": "Nông nghiệp",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-12-nc-001",
+      "content": "Tại sao ở các vùng núi cao, nhiệt độ lại thấp hơn ở vùng đồng bằng?",
+      "options": [
+        "A. Do áp suất khí quyển tăng",
+        "B. Càng lên cao không khí càng loãng, khả năng hấp thụ nhiệt kém",
+        "C. Do gần Mặt Trời hơn",
+        "D. Do gió thổi mạnh hơn"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Khí hậu",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-12-nc-002",
+      "content": "Nguyên nhân chính làm cho đất đai ở miền Trung bị thoái hóa, bạc màu nhanh là:",
+      "options": [
+        "A. Sử dụng quá nhiều phân bón",
+        "B. Địa hình dốc, mưa lớn gây rửa trôi mạnh",
+        "C. Do khai thác khoáng sản",
+        "D. Do triều cường"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Thổ nhưỡng",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-12-nc-003",
+      "content": "Trong cơ cấu ngành công nghiệp nước ta hiện nay, ngành nào chiếm tỉ trọng lớn nhất?",
+      "options": [
+        "A. Công nghiệp khai thác",
+        "B. Công nghiệp chế biến, chế tạo",
+        "C. Công nghiệp sản xuất điện",
+        "D. Công nghiệp xây dựng"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Công nghiệp",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-12-nc-004",
+      "content": "Ý nghĩa lớn nhất của việc đẩy mạnh đánh bắt hải sản xa bờ ở nước ta là:",
+      "options": [
+        "A. Thu được nhiều tôm cá hơn",
+        "B. Bảo vệ nguồn lợi ven bờ và khẳng định chủ quyền biển đảo",
+        "C. Tạo việc làm cho ngư dân",
+        "D. Giảm ô nhiễm môi trường biển"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Thủy sản",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-12-nc-005",
+      "content": "Tại sao khu vực Tây Nguyên lại có tiềm năng lớn về cây công nghiệp dài ngày?",
+      "options": [
+        "A. Khí hậu nóng ẩm điều hòa",
+        "B. Đất đỏ feralit trên đá ba-zan màu mỡ và diện tích rộng",
+        "C. Nguồn nước tưới dồi dào từ sông ngòi",
+        "D. Trình độ thâm canh của người dân cao"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Nông nghiệp",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-12-nc-006",
+      "content": "Hiện tượng \"Phơn Tây Nam\" (gió Lào) ở dải đồng bằng ven biển Miền Trung là do tác động của:",
+      "options": [
+        "A. Dãy núi Hoàng Liên Sơn",
+        "B. Dãy núi Trường Sơn",
+        "C. Gió mùa Đông Bắc",
+        "D. Bão nhiệt đới"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Khí hậu",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-12-nc-007",
+      "content": "Nội dung nào không đúng với xu hướng chuyển dịch cơ cấu kinh tế theo ngành ở nước ta?",
+      "options": [
+        "A. Giảm tỉ trọng nông - lâm - ngư nghiệp",
+        "B. Tăng tỉ trọng công nghiệp - xây dựng",
+        "C. Tăng tỉ trọng dịch vụ",
+        "D. Tăng tỉ trọng kinh tế nhà nước"
+      ],
+      "answer": "D",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Kinh tế Việt Nam",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-12-nc-008",
+      "content": "Sự phân hóa thiên nhiên giữa miền Bắc và miền Nam nước ta chủ yếu do:",
+      "options": [
+        "A. Sự khác biệt về độ cao địa hình",
+        "B. Sự tác động của gió mùa và vị trí địa lý theo vĩ độ",
+        "C. Do con người tàn phá rừng",
+        "D. Do ảnh hưởng của dòng hải lưu"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Tự nhiên",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-12-nc-009",
+      "content": "Tại sao Đồng bằng sông Cửu Long đang phải đối mặt với tình trạng xâm nhập mặn nghiêm trọng?",
+      "options": [
+        "A. Do nước biển dâng và lưu lượng nước sông Mê Công giảm xuống",
+        "B. Do người dân đào quá nhiều kênh rạch",
+        "C. Do trồng nhiều lúa",
+        "D. Do triều cường đột ngột"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Môi trường",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-12-nc-010",
+      "content": "Việt Nam là một quốc gia nằm ở trung tâm của khu vực Đông Nam Á.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Vị trí địa lý",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-12-nc-011",
+      "content": "Ngành chăn nuôi nước ta hiện nay đang chuyển dịch theo hướng từ chăn nuôi nhỏ lẻ sang chăn nuôi trang trại tập trung.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Nông nghiệp",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-12-nc-012",
+      "content": "Tất cả các thành phố trực thuộc Trung ương của nước ta đều giáp biển.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Địa lý Việt Nam",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-12-nc-013",
+      "content": "Vùng nội thủy của nước ta nằm ở phía ngoài của đường cơ sở.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Biển đảo",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-12-nc-014",
+      "content": "Toàn cầu hóa kinh tế giúp rút ngắn khoảng cách giàu nghèo giữa các nước.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Kinh tế thế giới",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-12-nc-015",
+      "content": "Hiện tượng \"đất mặn\" ở đồng bằng sông Cửu Long chủ yếu xuất hiện vào mùa khô.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Thổ nhưỡng",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-12-nc-016",
+      "content": "Việt Nam đã hoàn thành mục tiêu trở thành nước công nghiệp hiện đại vào năm 2020.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Kinh tế Việt Nam",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-12-nc-017",
+      "content": "Gió mùa mùa hạ mang lại lượng mưa lớn nhất cho cả nước.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Khí hậu",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-12-nc-018",
+      "content": "Rừng ngập mặn lớn nhất Việt Nam nằm ở tỉnh Cà Mau.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Tài nguyên",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-12-nc-019",
+      "content": "Biểu đồ đường thường được dùng để thể hiện cơ cấu của một đối tượng địa lý.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Kỹ năng địa lý",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-12-nc-020",
+      "content": "Tên dự án đường bộ xuyên Việt lớn nhất đi qua các vùng đồi núi phía Tây nước ta là gì?",
+      "options": [],
+      "answer": "Đường Hồ Chí Minh",
+      "question_type": "tu_luan",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Giao thông",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-12-nc-021",
+      "content": "Điền tên cảng biển nước sâu lớn nhất miền Bắc hiện nay:",
+      "options": [],
+      "answer": "Lạch Huyện / Hải Phòng",
+      "question_type": "tu_luan",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Giao thông",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-12-nc-022",
+      "content": "Tỉ lệ dân thành thị ở nước ta hiện nay chiếm khoảng bao nhiêu phần trăm?",
+      "options": [],
+      "answer": "~38 - 40%",
+      "question_type": "tu_luan",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Dân cư",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-12-nc-023",
+      "content": "Nhóm đất chiếm diện tích lớn nhất ở nước ta là đất gì?",
+      "options": [],
+      "answer": "Feralit",
+      "question_type": "tu_luan",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Thổ nhưỡng",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-12-nc-024",
+      "content": "Trong cơ cấu sử dụng đất ở Tây Nguyên, loại cây công nghiệp nào chiếm diện tích hàng đầu?",
+      "options": [],
+      "answer": "Cà phê",
+      "question_type": "tu_luan",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Nông nghiệp",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-12-nc-025",
+      "content": "Khu kinh tế cửa khẩu quốc tế Cầu Treo thuộc tỉnh nào?",
+      "options": [],
+      "answer": "Hà Tĩnh",
+      "question_type": "tu_luan",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Kinh tế Việt Nam",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-12-nc-026",
+      "content": "Hiện tượng cát chảy, cát lấn xảy ra nghiêm trọng nhất ở vùng ven biển nào?",
+      "options": [],
+      "answer": "Cực Nam Trung Bộ / Duyên hải miền Trung",
+      "question_type": "tu_luan",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Môi trường",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-12-nc-027",
+      "content": "Vùng kinh tế nào có số lượng tỉnh/thành phố nhiều nhất nước ta?",
+      "options": [],
+      "answer": "Đồng bằng sông Cửu Long - 13 tỉnh",
+      "question_type": "tu_luan",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Kinh tế Việt Nam",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-12-nc-028",
+      "content": "Chỉ số dùng để đo lường tổng giá trị hàng hóa và dịch vụ được tạo ra trong một quốc gia trong 1 năm là ____.",
+      "options": [],
+      "answer": "GDP",
+      "question_type": "tu_luan",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Kinh tế",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "dialy-12-nc-029",
+      "content": "Điền tên vịnh biển được UNESCO công nhận là một trong những vịnh đẹp nhất thế giới tại tỉnh Khánh Hòa:",
+      "options": [],
+      "answer": "Vịnh Nha Trang / Vân Phong",
+      "question_type": "tu_luan",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Du lịch",
+      "solution": null,
+      "comment": null
+    }
+  ]
+}

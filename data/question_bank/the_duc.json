@@ -1,0 +1,298 @@
+{
+  "subject": "Thể dục",
+  "total": 21,
+  "questions": [
+    {
+      "id": "theduc-06-cb-001",
+      "content": "Trước khi tập luyện thể dục, cần làm gì?",
+      "options": [
+        "A. Khởi động (làm nóng cơ thể)",
+        "B. Ăn thật no",
+        "C. Uống nước đá",
+        "D. Ngủ trước"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Lý thuyết TDTT",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "theduc-06-cb-002",
+      "content": "Chạy ngắn (chạy nhanh) là cự ly bao nhiêu mét?",
+      "options": [
+        "A. 50-100m",
+        "B. 1500m",
+        "C. 5000m",
+        "D. 42km"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Điền kinh",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "theduc-06-tb-001",
+      "content": "Nêu lợi ích của việc tập thể dục thường xuyên?",
+      "options": [],
+      "answer": "Tăng cường sức khỏe, nâng cao thể lực, phòng bệnh, giảm stress, cải thiện giấc ngủ, phát triển chiều cao",
+      "question_type": "tu_luan",
+      "grade": 6,
+      "difficulty": "trung_binh",
+      "topic": "Lý thuyết TDTT",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "theduc-07-cb-001",
+      "content": "Trong bóng đá, phạm lỗi trong vùng cấm thì đội kia được hưởng gì?",
+      "options": [
+        "A. Phạt góc",
+        "B. Penalty (phạt đền)",
+        "C. Ném biên",
+        "D. Phạt gián tiếp"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 7,
+      "difficulty": "co_ban",
+      "topic": "Bóng đá",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "theduc-07-cb-002",
+      "content": "Trong bóng rổ, một quả ném rổ từ ngoài vạch 3 điểm được tính mấy điểm?",
+      "options": [
+        "A. 1",
+        "B. 2",
+        "C. 3",
+        "D. 4"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 7,
+      "difficulty": "co_ban",
+      "topic": "Bóng rổ",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "theduc-07-tb-001",
+      "content": "Nêu kỹ thuật cơ bản của nhảy xa kiểu ngồi?",
+      "options": [],
+      "answer": "Chạy đà → giậm nhảy bằng chân mạnh → bay trên không (co 2 chân về phía trước) → tiếp đất bằng 2 chân",
+      "question_type": "tu_luan",
+      "grade": 7,
+      "difficulty": "trung_binh",
+      "topic": "Điền kinh",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "theduc-08-cb-001",
+      "content": "Cự ly chạy bền phổ biến ở trường THCS là bao nhiêu?",
+      "options": [
+        "A. 100m",
+        "B. 400m",
+        "C. 800m-1500m",
+        "D. 10000m"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Điền kinh",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "theduc-08-tb-001",
+      "content": "Nêu nguyên nhân và cách xử lý khi bị chuột rút khi tập?",
+      "options": [],
+      "answer": "Nguyên nhân: thiếu khởi động, mất nước, thiếu khoáng chất. Xử lý: ngừng tập, kéo giãn cơ bị chuột rút, xoa bóp nhẹ, uống nước",
+      "question_type": "tu_luan",
+      "grade": 8,
+      "difficulty": "trung_binh",
+      "topic": "Lý thuyết TDTT",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "theduc-08-tb-002",
+      "content": "Kỹ thuật chạy tiếp sức gồm mấy giai đoạn chính?",
+      "options": [],
+      "answer": "4 giai đoạn: Xuất phát, chạy giữa quãng, trao-nhận tín gậy, về đích. Khu vực trao gậy dài 20m",
+      "question_type": "tu_luan",
+      "grade": 8,
+      "difficulty": "trung_binh",
+      "topic": "Điền kinh",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "theduc-08-nc-001",
+      "content": "Lập kế hoạch tập luyện thể dục cho học sinh lớp 8 trong 1 tuần?",
+      "options": [],
+      "answer": "T2: Chạy bền 800m + bài tập bụng. T4: Nhảy xa + bài tập tay. T6: Bóng chuyền/bóng rổ + chạy ngắn. T7: Bơi hoặc đạp xe. Mỗi buổi 45-60 phút, khởi động 10 phút, thả lỏng 5 phút",
+      "question_type": "tu_luan",
+      "grade": 8,
+      "difficulty": "nang_cao",
+      "topic": "Lý thuyết TDTT",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "theduc-09-cb-001",
+      "content": "Sân bóng chuyền có kích thước bao nhiêu?",
+      "options": [
+        "A. 9m × 18m",
+        "B. 11m × 22m",
+        "C. 20m × 40m",
+        "D. 5m × 10m"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "co_ban",
+      "topic": "Bóng chuyền",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "theduc-09-tb-001",
+      "content": "Nêu các kỹ thuật cơ bản trong bóng chuyền?",
+      "options": [],
+      "answer": "Chuyền bóng (chuyền 2), đệm bóng (chuyền 1), phát bóng, đập bóng (tấn công), chắn bóng",
+      "question_type": "tu_luan",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Bóng chuyền",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "theduc-09-tb-002",
+      "content": "Tại sao vận động viên chạy cự ly dài cần phân phối sức hợp lý?",
+      "options": [],
+      "answer": "Nếu chạy nhanh ngay từ đầu sẽ hết sức sớm (tích tụ axit lactic), cần giữ tốc độ ổn định và tăng dần ở cuối",
+      "question_type": "tu_luan",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Điền kinh",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "theduc-10-cb-001",
+      "content": "BMI (Body Mass Index) được tính bằng công thức nào?",
+      "options": [
+        "A. Cân nặng (kg) / Chiều cao² (m²)",
+        "B. Chiều cao / Cân nặng",
+        "C. Cân nặng × Chiều cao",
+        "D. Tuổi / Cân nặng"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "co_ban",
+      "topic": "Sức khỏe",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "theduc-10-tb-001",
+      "content": "Phân loại mức BMI theo WHO?",
+      "options": [],
+      "answer": "< 18,5: thiếu cân. 18,5-24,9: bình thường. 25-29,9: thừa cân. ≥ 30: béo phì",
+      "question_type": "tu_luan",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Sức khỏe",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "theduc-10-nc-001",
+      "content": "Xây dựng chế độ dinh dưỡng hợp lý cho vận động viên trước trận đấu?",
+      "options": [],
+      "answer": "3-4 giờ trước: bữa giàu carbohydrate (cơm, mì, bánh mì), ít chất béo. 1 giờ trước: trái cây, nước. Tránh đồ chiên rán, thức ăn lạ. Uống đủ nước",
+      "question_type": "tu_luan",
+      "grade": 10,
+      "difficulty": "nang_cao",
+      "topic": "Sức khỏe",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "theduc-11-cb-001",
+      "content": "Trong cầu lông, mỗi set đấu đến bao nhiêu điểm?",
+      "options": [
+        "A. 15",
+        "B. 21",
+        "C. 25",
+        "D. 30"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 11,
+      "difficulty": "co_ban",
+      "topic": "Cầu lông",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "theduc-11-tb-001",
+      "content": "Nêu lợi ích của việc tập yoga?",
+      "options": [],
+      "answer": "Tăng linh hoạt, cải thiện tư thế, giảm stress, tăng sức bền cơ, cải thiện hô hấp, tốt cho tim mạch",
+      "question_type": "tu_luan",
+      "grade": 11,
+      "difficulty": "trung_binh",
+      "topic": "Thể dục thể hình",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "theduc-11-nc-001",
+      "content": "So sánh bài tập aerobic và anaerobic? Cho ví dụ mỗi loại?",
+      "options": [],
+      "answer": "Aerobic (hiếu khí): cường độ vừa, thời gian dài, đốt mỡ. VD: chạy bộ, bơi, đạp xe. Anaerobic (yếm khí): cường độ cao, thời gian ngắn, tăng cơ. VD: cử tạ, chạy sprint, nhảy",
+      "question_type": "tu_luan",
+      "grade": 11,
+      "difficulty": "nang_cao",
+      "topic": "Lý thuyết TDTT",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "theduc-12-tb-001",
+      "content": "Nêu nguyên tắc tập luyện tăng cường sức bền?",
+      "options": [],
+      "answer": "Tăng dần cường độ (progressive overload), tập đều đặn 3-5 buổi/tuần, mỗi buổi 30-60 phút, nghỉ ngơi đủ, dinh dưỡng hợp lý",
+      "question_type": "tu_luan",
+      "grade": 12,
+      "difficulty": "trung_binh",
+      "topic": "Lý thuyết TDTT",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "theduc-12-nc-001",
+      "content": "Lập chương trình tập gym cơ bản cho người mới bắt đầu (3 buổi/tuần)?",
+      "options": [],
+      "answer": "Buổi 1: Ngực + Vai (bench press, shoulder press, fly). Buổi 2: Lưng + Tay (deadlift, row, curl). Buổi 3: Chân + Bụng (squat, lunge, plank). Mỗi bài 3 set × 10-12 rep. Khởi động + cardio nhẹ 10 phút",
+      "question_type": "tu_luan",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Thể dục thể hình",
+      "solution": null,
+      "comment": null
+    }
+  ]
+}

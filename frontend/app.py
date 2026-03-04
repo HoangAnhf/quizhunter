@@ -8,8 +8,6 @@ if str(root_path) not in sys.path:
     sys.path.append(str(root_path))
 
 from frontend.utils.ui_helpers import load_css
-from frontend.components.search_bar import render_search_bar
-from backend.database.exam_store import ExamStore
 
 st.set_page_config(
     page_title="QuizHunter - Trợ lý Tìm Đề Thi AI",
@@ -29,9 +27,13 @@ st.markdown("<p style='text-align: center; font-size: 1.2em; color: #616161;'>Tr
 st.write("---")
 
 # Fetch Stats
+@st.cache_resource(show_spinner=False)
+def _get_store():
+    from backend.database.mysql_store import MySQLExamStore
+    return MySQLExamStore()
+
 try:
-    store = ExamStore()
-    stats = store.get_stats()
+    stats = _get_store().get_stats()
 except Exception:
     stats = {"total_exams": 0, "total_questions": 0, "subjects": {}, "difficulties": {}, "total_searches": 0}
 
@@ -48,11 +50,26 @@ with c4:
 
 st.write("---")
 
-# Search Bar centered
-st.markdown("<h3 style='text-align: center;'>Tìm kiếm ngữ nghĩa thông minh</h3>", unsafe_allow_html=True)
-search_col1, search_col2, search_col3 = st.columns([1, 2, 1])
-with search_col2:
-    query = render_search_bar()
-    if query:
-        st.session_state.search_query = query
+# Quick navigation
+st.markdown("<h3 style='text-align: center;'>Truy cập nhanh</h3>", unsafe_allow_html=True)
+nav1, nav2, nav3 = st.columns(3)
+with nav1:
+    if st.button("🔍 Tìm kiếm đề thi", use_container_width=True):
         st.switch_page("pages/1_🔍_Tim_kiem.py")
+with nav2:
+    if st.button("📚 Kho đề thi", use_container_width=True):
+        st.switch_page("pages/3_📚_Kho_de.py")
+with nav3:
+    if st.button("🤖 Tạo đề bằng AI", use_container_width=True):
+        st.switch_page("pages/6_🤖_Tao_de.py")
+
+nav4, nav5, nav6 = st.columns(3)
+with nav4:
+    if st.button("📝 Làm đề thi", use_container_width=True):
+        st.switch_page("pages/8_📝_Lam_de.py")
+with nav5:
+    if st.button("📈 Tiến trình học tập", use_container_width=True):
+        st.switch_page("pages/9_📈_Tien_trinh.py")
+with nav6:
+    if st.button("📊 Dashboard", use_container_width=True):
+        st.switch_page("pages/7_📊_Dashboard.py")

@@ -5,13 +5,15 @@ from datetime import datetime
 DIFFICULTY_LABELS = {
     "co_ban": "Cơ bản",
     "trung_binh": "Trung bình",
-    "nang_cao": "Nâng cao"
+    "nang_cao": "Nâng cao",
+    "hon_hop": "Hỗn hợp",
 }
 
 QUESTION_TYPE_LABELS = {
     "trac_nghiem": "Trắc nghiệm",
     "tu_luan": "Tự luận",
-    "bai_tap": "Bài tập"
+    "bai_tap": "Bài tập",
+    "noi_cot": "Nối cột",
 }
 
 def load_css():

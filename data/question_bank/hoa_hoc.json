@@ -1,0 +1,2741 @@
+{
+  "subject": "Hóa học",
+  "total": 186,
+  "questions": [
+    {
+      "id": "hoahoc-06-cb-001",
+      "content": "Quá trình nào cần khí oxygen?",
+      "options": [
+        "A. Sự hô hấp",
+        "B. Sự quang hợp",
+        "C. Sự lặn",
+        "D. Sự đông đặc"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Oxygen",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-06-cb-002",
+      "content": "Oxygen là khí duy trì sự cháy.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Oxygen",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-06-cb-003",
+      "content": "Nước cất là một chất tinh khiết.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Chất tinh khiết",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-06-cb-004",
+      "content": "Nhiệt độ nóng chảy của nước đá ở áp suất thường là bao nhiêu độ C?",
+      "options": [],
+      "answer": "0°C",
+      "question_type": "tu_luan",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Sự chuyển thể",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-06-cb-005",
+      "content": "Sự chuyển từ thể lỏng sang thể hơi gọi là gì?",
+      "options": [
+        "A. Sự nóng chảy",
+        "B. Sự đông đặc",
+        "C. Sự bay hơi",
+        "D. Sự ngưng tụ"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Sự chuyển thể",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-06-cb-006",
+      "content": "Khối lượng riêng của nước là bao nhiêu g/ml?",
+      "options": [],
+      "answer": "1",
+      "question_type": "tu_luan",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Tính chất của nước",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-06-cb-007",
+      "content": "Vật thể nào sau đây là vật thể nhân tạo?",
+      "options": [
+        "A. Cây mía",
+        "B. Con suối",
+        "C. Cái bàn gỗ",
+        "D. Quặng sắt"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Vật thể tự nhiên và nhân tạo",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-06-cb-008",
+      "content": "Sắt bị nam châm hút là một tính chất hóa học.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Tính chất vật lý và hóa học",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-06-tb-001",
+      "content": "Nhiệt độ sôi của nước (H₂O) là bao nhiêu?",
+      "options": [],
+      "answer": "100°C",
+      "question_type": "tu_luan",
+      "grade": 6,
+      "difficulty": "trung_binh",
+      "topic": "Nhiệt độ sôi",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-07-cb-001",
+      "content": "Hạt nhân nguyên tử cấu tạo bởi hạt nào?",
+      "options": [
+        "A. Electron và Proton",
+        "B. Proton và Neutron",
+        "C. Electron và Neutron",
+        "D. Chỉ Proton"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 7,
+      "difficulty": "co_ban",
+      "topic": "Cấu tạo nguyên tử",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-07-cb-002",
+      "content": "Nguyên tử có 6 proton thì có bao nhiêu electron?",
+      "options": [
+        "A. 12",
+        "B. 8",
+        "C. 6",
+        "D. 4"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 7,
+      "difficulty": "co_ban",
+      "topic": "Cấu tạo nguyên tử",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-07-cb-003",
+      "content": "Nguyên tử khối của Carbon là 14.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 7,
+      "difficulty": "co_ban",
+      "topic": "Nguyên tử khối",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-07-cb-004",
+      "content": "Nguyên tố nào có kí hiệu là P?",
+      "options": [],
+      "answer": "Photpho",
+      "question_type": "tu_luan",
+      "grade": 7,
+      "difficulty": "co_ban",
+      "topic": "Nguyên tố hóa học",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-07-cb-005",
+      "content": "Viết kí hiệu hóa học của nguyên tố Canxi.",
+      "options": [],
+      "answer": "Ca",
+      "question_type": "tu_luan",
+      "grade": 7,
+      "difficulty": "co_ban",
+      "topic": "Nguyên tố hóa học",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-07-cb-006",
+      "content": "Trong nguyên tử, hạt mang điện tích âm là gì?",
+      "options": [
+        "A. Proton",
+        "B. Neutron",
+        "C. Electron",
+        "D. Hạt nhân"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 7,
+      "difficulty": "co_ban",
+      "topic": "Cấu tạo nguyên tử",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-07-cb-007",
+      "content": "Nguyên tố nào có số hiệu nguyên tử bằng 1?",
+      "options": [],
+      "answer": "Hydro",
+      "question_type": "tu_luan",
+      "grade": 7,
+      "difficulty": "co_ban",
+      "topic": "Nguyên tố hóa học",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-07-cb-008",
+      "content": "Kí hiệu hóa học của nguyên tố Magnesium là gì?",
+      "options": [
+        "A. Ma",
+        "B. Mg",
+        "C. Mn",
+        "D. Ag"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 7,
+      "difficulty": "co_ban",
+      "topic": "Nguyên tố hóa học",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-07-cb-009",
+      "content": "Thành phần chính của không khí gồm gì?",
+      "options": [
+        "A. 78% Nitrogen, 21% Oxygen",
+        "B. 78% Oxygen, 21% Nitrogen",
+        "C. 50% Oxygen, 50% Nitrogen",
+        "D. 100% Oxygen"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 7,
+      "difficulty": "co_ban",
+      "topic": "Không khí",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-07-cb-010",
+      "content": "Nguyên tử trung hòa về điện.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 7,
+      "difficulty": "co_ban",
+      "topic": "Cấu tạo nguyên tử",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-07-cb-011",
+      "content": "Số electron tối đa ở lớp thứ nhất (lớp K) là bao nhiêu?",
+      "options": [],
+      "answer": "2",
+      "question_type": "tu_luan",
+      "grade": 7,
+      "difficulty": "co_ban",
+      "topic": "Cấu tạo nguyên tử",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-07-cb-012",
+      "content": "Nguyên tố phổ biến nhất trong vỏ Trái Đất là gì?",
+      "options": [],
+      "answer": "Oxygen (O)",
+      "question_type": "tu_luan",
+      "grade": 7,
+      "difficulty": "co_ban",
+      "topic": "Nguyên tố hóa học",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-07-cb-013",
+      "content": "Kí hiệu hóa học của Sắt là gì?",
+      "options": [],
+      "answer": "Fe",
+      "question_type": "tu_luan",
+      "grade": 7,
+      "difficulty": "co_ban",
+      "topic": "Nguyên tố hóa học",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-07-cb-014",
+      "content": "Kí hiệu hóa học của Đồng là gì?",
+      "options": [],
+      "answer": "Cu",
+      "question_type": "tu_luan",
+      "grade": 7,
+      "difficulty": "co_ban",
+      "topic": "Nguyên tố hóa học",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-07-cb-015",
+      "content": "Kí hiệu hóa học của Vàng là gì?",
+      "options": [],
+      "answer": "Au",
+      "question_type": "tu_luan",
+      "grade": 7,
+      "difficulty": "co_ban",
+      "topic": "Nguyên tố hóa học",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-07-cb-016",
+      "content": "Kí hiệu hóa học của Nhôm là gì?",
+      "options": [],
+      "answer": "Al",
+      "question_type": "tu_luan",
+      "grade": 7,
+      "difficulty": "co_ban",
+      "topic": "Nguyên tố hóa học",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-07-cb-017",
+      "content": "Kí hiệu hóa học của Thủy ngân là gì?",
+      "options": [],
+      "answer": "Hg",
+      "question_type": "tu_luan",
+      "grade": 7,
+      "difficulty": "co_ban",
+      "topic": "Nguyên tố hóa học",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-07-tb-001",
+      "content": "Nguyên tố hóa học là tập hợp các nguyên tử có cùng số gì?",
+      "options": [
+        "A. Neutron",
+        "B. Proton",
+        "C. Electron lớp ngoài cùng",
+        "D. Khối lượng"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 7,
+      "difficulty": "trung_binh",
+      "topic": "Nguyên tố hóa học",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-08-cb-001",
+      "content": "Công thức hóa học của axit clohydric là gì?",
+      "options": [],
+      "answer": "HCl",
+      "question_type": "tu_luan",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Axit",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-08-cb-002",
+      "content": "Độ pH của nước tinh khiết ở 25°C là bao nhiêu?",
+      "options": [],
+      "answer": "7",
+      "question_type": "tu_luan",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Dung dịch",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-08-cb-003",
+      "content": "Khí nào chiếm khoảng 78% thể tích không khí?",
+      "options": [],
+      "answer": "N₂ (Nitơ)",
+      "question_type": "tu_luan",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Không khí",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-08-cb-004",
+      "content": "Sản phẩm của phản ứng giữa axit và bazơ là muối và gì?",
+      "options": [],
+      "answer": "Nước",
+      "question_type": "tu_luan",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Phản ứng trung hòa",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-08-cb-005",
+      "content": "Quỳ tím trong môi trường axit có màu gì?",
+      "options": [],
+      "answer": "Màu đỏ",
+      "question_type": "tu_luan",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Chỉ thị",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-08-cb-006",
+      "content": "Quỳ tím trong môi trường bazơ có màu gì?",
+      "options": [],
+      "answer": "Màu xanh",
+      "question_type": "tu_luan",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Chỉ thị",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-08-cb-007",
+      "content": "Quỳ tím trong môi trường trung tính có màu gì?",
+      "options": [],
+      "answer": "Không đổi màu (tím)",
+      "question_type": "tu_luan",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Chỉ thị",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-08-cb-008",
+      "content": "Không khí là gì?",
+      "options": [
+        "A. Một đơn chất",
+        "B. Một hợp chất",
+        "C. Một hỗn hợp",
+        "D. Một kim loại"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Không khí",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-08-cb-009",
+      "content": "Hóa trị của nhóm (SO₄) là bao nhiêu?",
+      "options": [
+        "A. I",
+        "B. II",
+        "C. III",
+        "D. IV"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Hóa trị",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-08-cb-010",
+      "content": "Muối ăn (NaCl) có thể tan tốt trong nước.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Độ tan",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-08-cb-011",
+      "content": "Tên gọi của CO là gì?",
+      "options": [],
+      "answer": "Cacbon monoxit",
+      "question_type": "tu_luan",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Danh pháp",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-08-cb-012",
+      "content": "Phân tử khối của NaOH là bao nhiêu?",
+      "options": [],
+      "answer": "40",
+      "question_type": "tu_luan",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Phân tử khối",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-08-cb-013",
+      "content": "Sắt bị gỉ trong không khí là hiện tượng vật lý hay hóa học?",
+      "options": [],
+      "answer": "Hiện tượng hóa học",
+      "question_type": "tu_luan",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Hiện tượng hóa học",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-08-cb-014",
+      "content": "Cồn bay hơi là hiện tượng vật lý hay hóa học?",
+      "options": [],
+      "answer": "Hiện tượng vật lý",
+      "question_type": "tu_luan",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Hiện tượng hóa học",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-08-cb-015",
+      "content": "Đường cháy thành than là hiện tượng vật lý hay hóa học?",
+      "options": [],
+      "answer": "Hiện tượng hóa học",
+      "question_type": "tu_luan",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Hiện tượng hóa học",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-08-cb-016",
+      "content": "Thành phần của phân tử axit gồm gì?",
+      "options": [
+        "A. Kim loại và gốc axit",
+        "B. Hydro và gốc axit",
+        "C. Kim loại và nhóm OH",
+        "D. Phi kim và Oxygen"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Axit",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-08-cb-017",
+      "content": "Nồng độ mol được kí hiệu là gì?",
+      "options": [],
+      "answer": "CM",
+      "question_type": "tu_luan",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Nồng độ dung dịch",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-08-cb-018",
+      "content": "Sắt (Fe) có vai trò sinh học gì?",
+      "options": [],
+      "answer": "Thành phần Hemoglobin máu",
+      "question_type": "tu_luan",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Vai trò nguyên tố",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-08-cb-019",
+      "content": "Canxi (Ca) có vai trò sinh học gì?",
+      "options": [],
+      "answer": "Cấu tạo xương, răng",
+      "question_type": "tu_luan",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Vai trò nguyên tố",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-08-cb-020",
+      "content": "Iot (I) có vai trò sinh học gì?",
+      "options": [],
+      "answer": "Ngăn ngừa bướu cổ",
+      "question_type": "tu_luan",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Vai trò nguyên tố",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-08-cb-021",
+      "content": "Axit nào có trong dạ dày người?",
+      "options": [],
+      "answer": "HCl",
+      "question_type": "tu_luan",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Axit",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-08-cb-022",
+      "content": "Hiện tượng nào sau đây là hiện tượng hóa học?",
+      "options": [
+        "A. Băng tan",
+        "B. Muối ăn hòa tan vào nước",
+        "C. Củi cháy thành tro bếp",
+        "D. Thủy tinh nóng chảy"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Hiện tượng hóa học",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-08-cb-023",
+      "content": "Phản ứng giữa Acid và Base luôn tạo ra muối và nước.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Phản ứng trung hòa",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-08-cb-024",
+      "content": "Tất cả các kim loại đều ở thể rắn ở điều kiện thường.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Tính chất kim loại",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-08-cb-025",
+      "content": "Nước vôi trong là dung dịch của Ca(OH)₂.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Bazơ",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-08-cb-026",
+      "content": "Tính khối lượng mol (M) của H₂SO₄.",
+      "options": [],
+      "answer": "98 g/mol",
+      "question_type": "tu_luan",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Khối lượng mol",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-08-cb-027",
+      "content": "Kim loại duy nhất ở thể lỏng ở điều kiện thường là gì?",
+      "options": [],
+      "answer": "Thủy ngân (Hg)",
+      "question_type": "tu_luan",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Tính chất kim loại",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-08-cb-028",
+      "content": "Viết hệ số cân bằng của O₂ trong phản ứng: 2H₂ + ?O₂ → 2H₂O.",
+      "options": [],
+      "answer": "1",
+      "question_type": "tu_luan",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Cân bằng PTHH",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-08-cb-029",
+      "content": "Công thức hóa học của một Acid tiêu biểu là gì?",
+      "options": [],
+      "answer": "H₂SO₄",
+      "question_type": "tu_luan",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Phân loại hợp chất",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-08-cb-030",
+      "content": "Công thức hóa học của một Base tiêu biểu là gì?",
+      "options": [],
+      "answer": "KOH",
+      "question_type": "tu_luan",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Phân loại hợp chất",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-08-cb-031",
+      "content": "Công thức hóa học của một Oxide tiêu biểu là gì?",
+      "options": [],
+      "answer": "CaO",
+      "question_type": "tu_luan",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Phân loại hợp chất",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-08-cb-032",
+      "content": "Công thức hóa học của một Muối tiêu biểu là gì?",
+      "options": [],
+      "answer": "KNO₃",
+      "question_type": "tu_luan",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Phân loại hợp chất",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-08-tb-001",
+      "content": "Phản ứng phân hủy là phản ứng nào?",
+      "options": [
+        "A. 2H₂ + O₂ → 2H₂O",
+        "B. CaCO₃ → CaO + CO₂",
+        "C. Zn + 2HCl → ZnCl₂ + H₂",
+        "D. NaOH + HCl → NaCl + H₂O"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "trung_binh",
+      "topic": "Phản ứng hóa học",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-08-tb-002",
+      "content": "Tỉ khối của khí O₂ đối với H₂ là bao nhiêu?",
+      "options": [
+        "A. 16",
+        "B. 32",
+        "C. 8",
+        "D. 4"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "trung_binh",
+      "topic": "Tỉ khối",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-08-tb-003",
+      "content": "Để dập tắt đám cháy do xăng dầu, người ta KHÔNG dùng chất nào?",
+      "options": [
+        "A. Cát",
+        "B. Nước",
+        "C. Bình chữa cháy CO₂",
+        "D. Chăn ướt"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "trung_binh",
+      "topic": "An toàn hóa chất",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-08-tb-004",
+      "content": "Tính số mol của 5,6 gam sắt (Fe = 56).",
+      "options": [],
+      "answer": "0,1 mol",
+      "question_type": "tu_luan",
+      "grade": 8,
+      "difficulty": "trung_binh",
+      "topic": "Mol",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-08-tb-005",
+      "content": "Phản ứng giữa Fe và dung dịch HCl tạo ra khí gì?",
+      "options": [
+        "A. O₂",
+        "B. Cl₂",
+        "C. H₂",
+        "D. CO₂"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "trung_binh",
+      "topic": "Phản ứng kim loại",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-08-tb-006",
+      "content": "Đốt cháy carbon luôn tạo ra khí độc CO.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "trung_binh",
+      "topic": "Phản ứng cháy",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-08-tb-007",
+      "content": "Số Avogadro có giá trị xấp xỉ là bao nhiêu?",
+      "options": [],
+      "answer": "6,022 × 10²³",
+      "question_type": "tu_luan",
+      "grade": 8,
+      "difficulty": "trung_binh",
+      "topic": "Mol",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-08-tb-008",
+      "content": "Khi nhiệt độ tăng, độ tan của chất khí trong nước tăng hay giảm?",
+      "options": [],
+      "answer": "Giảm",
+      "question_type": "tu_luan",
+      "grade": 8,
+      "difficulty": "trung_binh",
+      "topic": "Độ tan",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-08-tb-009",
+      "content": "Chất nào làm quỳ tím hóa đỏ và tác dụng với Mg giải phóng H₂?",
+      "options": [],
+      "answer": "Axit (VD: HCl, H₂SO₄ loãng)",
+      "question_type": "tu_luan",
+      "grade": 8,
+      "difficulty": "trung_binh",
+      "topic": "Nhận biết chất",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-08-tb-010",
+      "content": "Công thức hóa học của hợp chất tạo bởi Al (hóa trị III) và O (hóa trị II) là gì?",
+      "options": [
+        "A. AlO",
+        "B. Al₂O",
+        "C. AlO₂",
+        "D. Al₂O₃"
+      ],
+      "answer": "D",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "trung_binh",
+      "topic": "Công thức hóa học",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-08-tb-011",
+      "content": "Khối lượng mol của khí CO₂ là bao nhiêu?",
+      "options": [
+        "A. 28 g/mol",
+        "B. 32 g/mol",
+        "C. 44 g/mol",
+        "D. 12 g/mol"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "trung_binh",
+      "topic": "Khối lượng mol",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-08-tb-012",
+      "content": "Nồng độ phần trăm của dung dịch chứa 10g muối trong 90g nước là bao nhiêu?",
+      "options": [],
+      "answer": "10%",
+      "question_type": "tu_luan",
+      "grade": 8,
+      "difficulty": "trung_binh",
+      "topic": "Nồng độ dung dịch",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-08-nc-001",
+      "content": "Đốt cháy 3,1g Photpho trong bình chứa 5g Oxygen. Chất còn dư là gì?",
+      "options": [
+        "A. Photpho",
+        "B. Oxygen",
+        "C. Cả hai cùng hết",
+        "D. Không xác định được"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "nang_cao",
+      "topic": "Bài toán lượng dư",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-09-cb-001",
+      "content": "Công thức của vôi sống là gì?",
+      "options": [
+        "A. Ca(OH)₂",
+        "B. CaCO₃",
+        "C. CaO",
+        "D. CaSO₄"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "co_ban",
+      "topic": "Hợp chất vô cơ",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-09-cb-002",
+      "content": "Hợp chất hữu cơ nhất thiết phải chứa nguyên tố Carbon.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "co_ban",
+      "topic": "Hóa hữu cơ",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-09-cb-003",
+      "content": "Dung dịch NH₃ làm quỳ tím hóa xanh.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "co_ban",
+      "topic": "Bazơ",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-09-cb-004",
+      "content": "Chất nào được gọi là 'vàng đen'?",
+      "options": [],
+      "answer": "Dầu mỏ",
+      "question_type": "tu_luan",
+      "grade": 9,
+      "difficulty": "co_ban",
+      "topic": "Nhiên liệu",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-09-cb-005",
+      "content": "Tên gọi của CH₄ là gì?",
+      "options": [],
+      "answer": "Metan",
+      "question_type": "tu_luan",
+      "grade": 9,
+      "difficulty": "co_ban",
+      "topic": "Hóa hữu cơ",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-09-cb-006",
+      "content": "Tên gọi của C₂H₄ là gì?",
+      "options": [],
+      "answer": "Etilen",
+      "question_type": "tu_luan",
+      "grade": 9,
+      "difficulty": "co_ban",
+      "topic": "Hóa hữu cơ",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-09-cb-007",
+      "content": "Phenolphthalein chuyển sang màu hồng khi gặp bazơ.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "co_ban",
+      "topic": "Chỉ thị",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-09-cb-008",
+      "content": "Nước cứng là nước chứa nhiều ion Ca²⁺ và Mg²⁺.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "co_ban",
+      "topic": "Nước cứng",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-09-cb-009",
+      "content": "Viết công thức hóa học của thuốc muối (natri hydrocarbonat).",
+      "options": [],
+      "answer": "NaHCO₃",
+      "question_type": "tu_luan",
+      "grade": 9,
+      "difficulty": "co_ban",
+      "topic": "Hợp chất vô cơ",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-09-cb-010",
+      "content": "Dãy phi kim nào ở trạng thái khí ở điều kiện thường?",
+      "options": [
+        "A. C, S, P",
+        "B. O₂, Cl₂, N₂",
+        "C. Br₂, I₂",
+        "D. Si, C"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "co_ban",
+      "topic": "Phi kim",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-09-cb-011",
+      "content": "CO₂ làm đục nước vôi trong.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "co_ban",
+      "topic": "Phi kim",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-09-cb-012",
+      "content": "Tên gọi của C₂H₂ là gì?",
+      "options": [],
+      "answer": "Axetilen",
+      "question_type": "tu_luan",
+      "grade": 9,
+      "difficulty": "co_ban",
+      "topic": "Hóa hữu cơ",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-09-cb-013",
+      "content": "Khí nào nhẹ hơn không khí?",
+      "options": [
+        "A. CO₂",
+        "B. O₂",
+        "C. H₂",
+        "D. SO₂"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "co_ban",
+      "topic": "Tính chất khí",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-09-cb-014",
+      "content": "Methane (CH₄) là thành phần chính của khí thiên nhiên.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "co_ban",
+      "topic": "Hóa hữu cơ",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-09-cb-015",
+      "content": "Tên gọi của hợp chất CH₃COOH là gì?",
+      "options": [],
+      "answer": "Axit axetic",
+      "question_type": "tu_luan",
+      "grade": 9,
+      "difficulty": "co_ban",
+      "topic": "Hóa hữu cơ",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-09-cb-016",
+      "content": "Hóa trị của Carbon trong các hợp chất hữu cơ thường là mấy?",
+      "options": [],
+      "answer": "IV (4)",
+      "question_type": "tu_luan",
+      "grade": 9,
+      "difficulty": "co_ban",
+      "topic": "Hóa hữu cơ",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-09-tb-001",
+      "content": "Dãy kim loại nào tác dụng được với dung dịch CuSO₄?",
+      "options": [
+        "A. Ag, Au",
+        "B. Mg, Fe",
+        "C. Cu, Pt",
+        "D. Hg, Ag"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Dãy hoạt động kim loại",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-09-tb-002",
+      "content": "Phi kim nào ở thể lỏng ở điều kiện thường?",
+      "options": [
+        "A. Carbon",
+        "B. Lưu huỳnh",
+        "C. Brom",
+        "D. Photpho"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Phi kim",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-09-tb-003",
+      "content": "Kim loại nhôm dẫn điện tốt hơn đồng.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Kim loại",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-09-tb-004",
+      "content": "Để làm sạch khí CO₂ có lẫn SO₂, ta dẫn hỗn hợp qua đâu?",
+      "options": [
+        "A. Nước vôi trong dư",
+        "B. Dung dịch Brom dư",
+        "C. Dung dịch NaOH",
+        "D. H₂SO₄ đặc"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Tinh chế khí",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-09-tb-005",
+      "content": "Kim loại nào được dùng làm dây dẫn điện trong nhà phổ biến nhất?",
+      "options": [
+        "A. Sắt",
+        "B. Nhôm",
+        "C. Đồng",
+        "D. Bạc"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Ứng dụng kim loại",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-09-tb-006",
+      "content": "Chất nào dùng để khử trùng nước sinh hoạt?",
+      "options": [],
+      "answer": "Clo (Cl₂)",
+      "question_type": "tu_luan",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Ứng dụng phi kim",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-09-tb-007",
+      "content": "Dung dịch nào hòa tan được bột nhôm?",
+      "options": [
+        "A. HCl",
+        "B. NaOH",
+        "C. Cả A và B",
+        "D. Không có chất nào"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Kim loại lưỡng tính",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-09-tb-008",
+      "content": "Kim loại đồng tác dụng được với dung dịch HCl.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Dãy hoạt động kim loại",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-09-tb-009",
+      "content": "Để nhận biết ion Cl⁻, ta dùng dung dịch nào?",
+      "options": [],
+      "answer": "AgNO₃",
+      "question_type": "tu_luan",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Nhận biết ion",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-09-tb-010",
+      "content": "Dung dịch nào làm quỳ tím chuyển sang màu đỏ?",
+      "options": [
+        "A. NaOH",
+        "B. NaCl",
+        "C. HCl",
+        "D. Ca(OH)₂"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Axit - Bazơ",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-09-tb-011",
+      "content": "Để phân biệt dung dịch Na₂SO₄ và NaCl, ta dùng thuốc thử nào?",
+      "options": [
+        "A. BaCl₂",
+        "B. HCl",
+        "C. NaOH",
+        "D. KNO₃"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Nhận biết chất",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-09-tb-012",
+      "content": "Kim loại nào phản ứng được với nước ở nhiệt độ thường?",
+      "options": [
+        "A. Fe",
+        "B. Cu",
+        "C. Na",
+        "D. Ag"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Kim loại kiềm",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-09-tb-013",
+      "content": "Khí nào được gọi là 'khí cười'?",
+      "options": [],
+      "answer": "N₂O (Dinitơ monoxit)",
+      "question_type": "tu_luan",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Hợp chất nitơ",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-09-nc-001",
+      "content": "Khi cho Na vào nước, hiện tượng quan sát được là gì?",
+      "options": [
+        "A. Na chìm xuống, có khí thoát ra",
+        "B. Na chạy trên mặt nước, có khí thoát ra",
+        "C. Không có hiện tượng",
+        "D. Có kết tủa trắng"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "nang_cao",
+      "topic": "Kim loại kiềm",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-09-nc-002",
+      "content": "Thủy phân tinh bột thu được sản phẩm cuối cùng là gì?",
+      "options": [
+        "A. Glucozo",
+        "B. Fructozo",
+        "C. Saccarozo",
+        "D. Mantozo"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "nang_cao",
+      "topic": "Hóa hữu cơ",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-10-cb-001",
+      "content": "Bảng tuần hoàn hiện nay có bao nhiêu chu kì?",
+      "options": [
+        "A. 5",
+        "B. 6",
+        "C. 7",
+        "D. 8"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "co_ban",
+      "topic": "Bảng tuần hoàn",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-10-cb-002",
+      "content": "Kim loại kiềm thổ thuộc nhóm nào?",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "co_ban",
+      "topic": "Bảng tuần hoàn",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-10-cb-003",
+      "content": "Liên kết trong phân tử N₂ là liên kết đơn, đôi hay ba?",
+      "options": [],
+      "answer": "Ba",
+      "question_type": "tu_luan",
+      "grade": 10,
+      "difficulty": "co_ban",
+      "topic": "Liên kết hóa học",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-10-cb-004",
+      "content": "Đồng vị là các nguyên tử có cùng số Proton nhưng khác số Neutron.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "co_ban",
+      "topic": "Cấu tạo nguyên tử",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-10-cb-005",
+      "content": "O₃ có tên gọi là gì?",
+      "options": [],
+      "answer": "Ozon",
+      "question_type": "tu_luan",
+      "grade": 10,
+      "difficulty": "co_ban",
+      "topic": "Phi kim",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-10-cb-006",
+      "content": "Chu kì là dãy các nguyên tố có cùng số gì?",
+      "options": [
+        "A. Lớp electron",
+        "B. Electron hóa trị",
+        "C. Proton",
+        "D. Neutron"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "co_ban",
+      "topic": "Bảng tuần hoàn",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-10-tb-001",
+      "content": "Nguyên tố Halogen có độ âm điện lớn nhất là gì?",
+      "options": [
+        "A. Clo",
+        "B. Iot",
+        "C. Flo",
+        "D. Brom"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Halogen",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-10-tb-002",
+      "content": "Axit sunfuric đặc có tính háo nước mạnh.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Axit H₂SO₄",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-10-tb-003",
+      "content": "Liên kết cộng hóa trị thường hình thành giữa các nguyên tố nào?",
+      "options": [
+        "A. Kim loại và phi kim",
+        "B. Phi kim và phi kim",
+        "C. Kim loại và kim loại",
+        "D. Khí hiếm"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Liên kết hóa học",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-10-tb-004",
+      "content": "Lưu huỳnh có bao nhiêu electron ở lớp ngoài cùng?",
+      "options": [
+        "A. 4",
+        "B. 5",
+        "C. 6",
+        "D. 7"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Cấu hình electron",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-10-tb-005",
+      "content": "Trong phản ứng oxi hóa - khử, chất oxi hóa là chất nào?",
+      "options": [
+        "A. Cho electron",
+        "B. Nhận electron",
+        "C. Làm tăng số oxi hóa",
+        "D. Không thay đổi electron"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Oxi hóa khử",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-10-tb-006",
+      "content": "Kim loại sắt không phản ứng với H₂SO₄ đặc nguội.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Tính thụ động hóa",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-10-tb-007",
+      "content": "Phản ứng giữa H₂ và Cl₂ cần điều kiện gì?",
+      "options": [
+        "A. Nhiệt độ thấp",
+        "B. Ánh sáng",
+        "C. Xúc tác MnO₂",
+        "D. Áp suất cao"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Halogen",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-10-tb-008",
+      "content": "Số oxi hóa của Mn trong KMnO₄ là bao nhiêu?",
+      "options": [],
+      "answer": "+7",
+      "question_type": "tu_luan",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Số oxi hóa",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-10-tb-009",
+      "content": "Liên kết trong phân tử NaCl là liên kết gì?",
+      "options": [
+        "A. Cộng hóa trị",
+        "B. Ion",
+        "C. Kim loại",
+        "D. Hydrogen"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Liên kết hóa học",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-10-tb-010",
+      "content": "Trong bảng tuần hoàn, các nguyên tố cùng nhóm có cùng số lớp electron.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Bảng tuần hoàn",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-10-nc-001",
+      "content": "Số oxi hóa của Lưu huỳnh (S) trong H₂SO₄ là bao nhiêu?",
+      "options": [
+        "A. +4",
+        "B. -2",
+        "C. +6",
+        "D. 0"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "nang_cao",
+      "topic": "Số oxi hóa",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-10-nc-002",
+      "content": "Cấu hình electron của nguyên tử Na (Z=11) là gì?",
+      "options": [
+        "A. 1s²2s²2p⁶3s¹",
+        "B. 1s²2s²2p⁶3s²",
+        "C. 1s²2s²2p⁵",
+        "D. 1s²2s²2p⁶"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "nang_cao",
+      "topic": "Cấu hình electron",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-10-nc-003",
+      "content": "Liên kết Hydrogen xuất hiện mạnh nhất giữa các phân tử nào?",
+      "options": [
+        "A. CH₄",
+        "B. H₂O",
+        "C. PH₃",
+        "D. H₂S"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "nang_cao",
+      "topic": "Liên kết hydrogen",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-10-nc-004",
+      "content": "Nguyên tử X có cấu hình electron lớp ngoài cùng là 3s²3p⁵. Vị trí của X trong bảng tuần hoàn là?",
+      "options": [
+        "A. Chu kì 3, nhóm VA",
+        "B. Chu kì 3, nhóm VIIA",
+        "C. Chu kì 4, nhóm VIIA",
+        "D. Chu kì 3, nhóm VIIB"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "nang_cao",
+      "topic": "Bảng tuần hoàn",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-10-nc-005",
+      "content": "Phản ứng nào sau đây là phản ứng oxi hóa - khử?",
+      "options": [
+        "A. CaO + H₂O → Ca(OH)₂",
+        "B. NaOH + HCl → NaCl + H₂O",
+        "C. 2H₂ + O₂ → 2H₂O",
+        "D. CaCO₃ → CaO + CO₂"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "nang_cao",
+      "topic": "Oxi hóa khử",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-11-cb-001",
+      "content": "Nhóm OH trong hóa hữu cơ gọi là nhóm chức gì?",
+      "options": [],
+      "answer": "Hydroxyl",
+      "question_type": "tu_luan",
+      "grade": 11,
+      "difficulty": "co_ban",
+      "topic": "Nhóm chức",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-11-cb-002",
+      "content": "Công thức hóa học của Amoniac là gì?",
+      "options": [
+        "A. NH₄⁺",
+        "B. NH₃",
+        "C. NO₂",
+        "D. HNO₃"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 11,
+      "difficulty": "co_ban",
+      "topic": "Hợp chất nitơ",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-11-cb-003",
+      "content": "Công thức phân tử của Benzen là gì?",
+      "options": [],
+      "answer": "C₆H₆",
+      "question_type": "tu_luan",
+      "grade": 11,
+      "difficulty": "co_ban",
+      "topic": "Hidrocacbon thơm",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-11-cb-004",
+      "content": "Methane có cấu trúc hình học là hình vuông phẳng.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 11,
+      "difficulty": "co_ban",
+      "topic": "Cấu trúc phân tử",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-11-cb-005",
+      "content": "Nhiệt độ sôi của ancol etylic (C₂H₅OH) là bao nhiêu?",
+      "options": [],
+      "answer": "78,3°C",
+      "question_type": "tu_luan",
+      "grade": 11,
+      "difficulty": "co_ban",
+      "topic": "Ancol",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-11-cb-006",
+      "content": "Trong liên kết ba, có mấy liên kết sigma (σ) và mấy liên kết pi (π)?",
+      "options": [],
+      "answer": "1σ và 2π",
+      "question_type": "tu_luan",
+      "grade": 11,
+      "difficulty": "co_ban",
+      "topic": "Liên kết hóa học",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-11-cb-007",
+      "content": "Công thức hóa học của một Alcohol đơn giản nhất là gì?",
+      "options": [],
+      "answer": "CH₃OH",
+      "question_type": "tu_luan",
+      "grade": 11,
+      "difficulty": "co_ban",
+      "topic": "Ancol",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-11-tb-001",
+      "content": "Chất nào là chất điện li mạnh?",
+      "options": [
+        "A. CH₃COOH",
+        "B. H₂O",
+        "C. NaCl",
+        "D. C₂H₅OH"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 11,
+      "difficulty": "trung_binh",
+      "topic": "Điện li",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-11-tb-002",
+      "content": "Khí nào gây ra hiện tượng hiệu ứng nhà kính chủ yếu?",
+      "options": [
+        "A. O₂",
+        "B. N₂",
+        "C. CO₂",
+        "D. H₂"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 11,
+      "difficulty": "trung_binh",
+      "topic": "Môi trường",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-11-tb-003",
+      "content": "Phản ứng đặc trưng của Ankan là gì?",
+      "options": [
+        "A. Phản ứng cộng",
+        "B. Phản ứng thế",
+        "C. Phản ứng trùng hợp",
+        "D. Phản ứng thủy phân"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 11,
+      "difficulty": "trung_binh",
+      "topic": "Hidrocacbon no",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-11-tb-004",
+      "content": "Ancol etylic có công thức là gì?",
+      "options": [
+        "A. CH₃OH",
+        "B. C₂H₅OH",
+        "C. C₃H₇OH",
+        "D. CH₃COOH"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 11,
+      "difficulty": "trung_binh",
+      "topic": "Ancol",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-11-tb-005",
+      "content": "Axit axetic có tính axit mạnh hơn axit clohydric.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 11,
+      "difficulty": "trung_binh",
+      "topic": "So sánh axit",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-11-tb-006",
+      "content": "Nguyên tố nào dùng để sản xuất phân bón?",
+      "options": [],
+      "answer": "Nitơ (N₂)",
+      "question_type": "tu_luan",
+      "grade": 11,
+      "difficulty": "trung_binh",
+      "topic": "Ứng dụng phi kim",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-11-tb-007",
+      "content": "Chất nào sau đây là chất lưỡng tính?",
+      "options": [
+        "A. Al(OH)₃",
+        "B. NaOH",
+        "C. HCl",
+        "D. NaCl"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 11,
+      "difficulty": "trung_binh",
+      "topic": "Chất lưỡng tính",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-11-tb-008",
+      "content": "Benzen không tan trong chất nào?",
+      "options": [
+        "A. Nước",
+        "B. Xăng",
+        "C. Dầu hỏa",
+        "D. Axeton"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 11,
+      "difficulty": "trung_binh",
+      "topic": "Tính chất vật lý",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-11-tb-009",
+      "content": "Độ dinh dưỡng của phân đạm được đánh giá bằng % khối lượng nguyên tố nào?",
+      "options": [
+        "A. N",
+        "B. P₂O₅",
+        "C. K₂O",
+        "D. NH₃"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 11,
+      "difficulty": "trung_binh",
+      "topic": "Phân bón",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-11-tb-010",
+      "content": "Dung dịch Na₂CO₃ có pH > 7.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 11,
+      "difficulty": "trung_binh",
+      "topic": "pH dung dịch muối",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-11-tb-011",
+      "content": "Hợp chất nào sau đây là hydrocarbon no (alkane)?",
+      "options": [
+        "A. C₂H₂",
+        "B. C₂H₄",
+        "C. C₃H₈",
+        "D. C₆H₆"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 11,
+      "difficulty": "trung_binh",
+      "topic": "Hidrocacbon no",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-11-tb-012",
+      "content": "Công thức phân tử của Benzen là gì?",
+      "options": [
+        "A. C₆H₁₂",
+        "B. C₆H₆",
+        "C. C₂H₂",
+        "D. CH₄"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 11,
+      "difficulty": "trung_binh",
+      "topic": "Hidrocacbon thơm",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-11-nc-001",
+      "content": "Công thức tổng quát của Anken là gì?",
+      "options": [
+        "A. CₙH₂ₙ₊₂",
+        "B. CₙH₂ₙ",
+        "C. CₙH₂ₙ₋₂",
+        "D. CₙH₂ₙ₋₆"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 11,
+      "difficulty": "nang_cao",
+      "topic": "Hidrocacbon không no",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-11-nc-002",
+      "content": "Cho Cu tác dụng với HNO₃ đặc, nóng sinh ra khí màu nâu đỏ là gì?",
+      "options": [
+        "A. NO",
+        "B. N₂O",
+        "C. NO₂",
+        "D. NH₃"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 11,
+      "difficulty": "nang_cao",
+      "topic": "Axit nitric",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-11-nc-003",
+      "content": "Giá trị pH của dung dịch HCl 0,01M là bao nhiêu?",
+      "options": [
+        "A. 1",
+        "B. 2",
+        "C. 12",
+        "D. 7"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 11,
+      "difficulty": "nang_cao",
+      "topic": "pH",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-12-cb-001",
+      "content": "Saccarozơ thuộc loại đường nào?",
+      "options": [
+        "A. Monosaccarit",
+        "B. Disaccarit",
+        "C. Polysaccarit",
+        "D. Protein"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "co_ban",
+      "topic": "Cacbohidrat",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-12-cb-002",
+      "content": "Kim loại nào sau đây là kim loại kiềm?",
+      "options": [
+        "A. Ca",
+        "B. Mg",
+        "C. K",
+        "D. Al"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "co_ban",
+      "topic": "Kim loại kiềm",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-12-cb-003",
+      "content": "Gang có hàm lượng carbon thấp hơn thép.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "co_ban",
+      "topic": "Hợp kim sắt",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-12-cb-004",
+      "content": "Polyme nào sau đây là polyme thiên nhiên?",
+      "options": [
+        "A. Nilon-6",
+        "B. Cao su buna",
+        "C. Xenlulozo",
+        "D. Nhựa PE"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "co_ban",
+      "topic": "Polyme",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-12-cb-005",
+      "content": "Chất béo là trieste của glycerol với gì?",
+      "options": [
+        "A. Axit vô cơ",
+        "B. Axit béo",
+        "C. Amino axit",
+        "D. Ancol đơn chức"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "co_ban",
+      "topic": "Este - Lipit",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-12-cb-006",
+      "content": "Kim loại dẻo nhất là Vàng (Au).",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "co_ban",
+      "topic": "Tính chất kim loại",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-12-cb-007",
+      "content": "Polyme dùng làm ống dẫn nước phổ biến nhất là gì?",
+      "options": [],
+      "answer": "PVC",
+      "question_type": "tu_luan",
+      "grade": 12,
+      "difficulty": "co_ban",
+      "topic": "Polyme",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-12-cb-008",
+      "content": "Kim loại nào sau đây cứng nhất?",
+      "options": [
+        "A. Kim cương",
+        "B. Crom",
+        "C. Sắt",
+        "D. Đồng"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "co_ban",
+      "topic": "Tính chất kim loại",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-12-cb-009",
+      "content": "Protein bị đông tụ khi đun nóng.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "co_ban",
+      "topic": "Protein",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-12-cb-010",
+      "content": "Tơ tằm là tơ thiên nhiên.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "co_ban",
+      "topic": "Vật liệu polyme",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-12-cb-011",
+      "content": "Thành phần chính của quặng Boxit là gì?",
+      "options": [],
+      "answer": "Al₂O₃·2H₂O",
+      "question_type": "tu_luan",
+      "grade": 12,
+      "difficulty": "co_ban",
+      "topic": "Quặng kim loại",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-12-cb-012",
+      "content": "Thành phần chính của quặng Magnetit là gì?",
+      "options": [],
+      "answer": "Fe₃O₄",
+      "question_type": "tu_luan",
+      "grade": 12,
+      "difficulty": "co_ban",
+      "topic": "Quặng kim loại",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-12-cb-013",
+      "content": "Thành phần chính của quặng Hematit là gì?",
+      "options": [],
+      "answer": "Fe₂O₃",
+      "question_type": "tu_luan",
+      "grade": 12,
+      "difficulty": "co_ban",
+      "topic": "Quặng kim loại",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-12-cb-014",
+      "content": "Thủy phân chất béo trong môi trường kiềm thu được muối của acid béo và gì?",
+      "options": [
+        "A. Ethanol",
+        "B. Methanol",
+        "C. Glycerol",
+        "D. Ethylene glycol"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "co_ban",
+      "topic": "Este - Lipit",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-12-cb-015",
+      "content": "Dung dịch Glucose có khả năng tham gia phản ứng tráng bạc.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "co_ban",
+      "topic": "Cacbohidrat",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-12-cb-016",
+      "content": "Protein được cấu tạo từ các chuỗi peptide.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "co_ban",
+      "topic": "Protein",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-12-tb-001",
+      "content": "Polyme nào được dùng làm chảo chống dính?",
+      "options": [
+        "A. PVC",
+        "B. Teflon",
+        "C. PE",
+        "D. Cao su buna"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "trung_binh",
+      "topic": "Polyme",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-12-tb-002",
+      "content": "Tên gọi của Fe₂O₃ là gì?",
+      "options": [
+        "A. Sắt (II) oxide",
+        "B. Sắt (III) oxide",
+        "C. Oxide sắt từ",
+        "D. Sắt oxide"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "trung_binh",
+      "topic": "Hợp chất sắt",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-12-tb-003",
+      "content": "Phản ứng este hóa là phản ứng một chiều.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "trung_binh",
+      "topic": "Este",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-12-tb-004",
+      "content": "Glucozơ và Fructozơ là đồng phân của nhau.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "trung_binh",
+      "topic": "Cacbohidrat",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-12-tb-005",
+      "content": "Số nguyên tử Hydro trong phân tử Oleic Acid (C₁₈H₃₄O₂) là bao nhiêu?",
+      "options": [
+        "A. 34",
+        "B. 33",
+        "C. 36",
+        "D. 31"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "trung_binh",
+      "topic": "Este - Lipit",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-12-tb-006",
+      "content": "Protein chỉ chứa các nguyên tố C, H, O.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "trung_binh",
+      "topic": "Protein",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-12-tb-007",
+      "content": "Phản ứng xà phòng hóa là phản ứng thuận nghịch.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "trung_binh",
+      "topic": "Este",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-12-tb-008",
+      "content": "Tất cả các este đều có mùi thơm của hoa quả.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "trung_binh",
+      "topic": "Este",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-12-tb-009",
+      "content": "Kim loại nào nhẹ nhất?",
+      "options": [],
+      "answer": "Liti (Li)",
+      "question_type": "tu_luan",
+      "grade": 12,
+      "difficulty": "trung_binh",
+      "topic": "Tính chất kim loại",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-12-tb-010",
+      "content": "Phản ứng nhiệt nhôm dùng để điều chế các kim loại khó nóng chảy.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "trung_binh",
+      "topic": "Điều chế kim loại",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-12-tb-011",
+      "content": "Ở điều kiện thường, kim loại nào phản ứng mãnh liệt với nước?",
+      "options": [
+        "A. Na",
+        "B. Fe",
+        "C. Cu",
+        "D. Al"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "trung_binh",
+      "topic": "Kim loại kiềm",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-12-tb-012",
+      "content": "Amino axit nào có 2 nhóm amino (-NH₂)?",
+      "options": [
+        "A. Glyxin",
+        "B. Alanin",
+        "C. Lysin",
+        "D. Valin"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "trung_binh",
+      "topic": "Amino axit",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-12-tb-013",
+      "content": "Thủy tinh hữu cơ có thành phần chính là polymethyl methacrylate.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "trung_binh",
+      "topic": "Polyme",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-12-tb-014",
+      "content": "Ăn mòn điện hóa cần có hai cực khác bản chất.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "trung_binh",
+      "topic": "Ăn mòn kim loại",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-12-tb-015",
+      "content": "Kim loại nào có nhiệt độ nóng chảy cao nhất?",
+      "options": [],
+      "answer": "Volfram (W)",
+      "question_type": "tu_luan",
+      "grade": 12,
+      "difficulty": "trung_binh",
+      "topic": "Tính chất kim loại",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-12-tb-016",
+      "content": "Hỗn hợp tecmit gồm nhôm và oxide của kim loại nào?",
+      "options": [],
+      "answer": "Sắt (Fe₂O₃)",
+      "question_type": "tu_luan",
+      "grade": 12,
+      "difficulty": "trung_binh",
+      "topic": "Nhiệt nhôm",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-12-tb-017",
+      "content": "Amino acid đơn giản nhất là gì?",
+      "options": [
+        "A. Alanine",
+        "B. Valine",
+        "C. Glycine",
+        "D. Lysine"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "trung_binh",
+      "topic": "Amino axit",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-12-tb-018",
+      "content": "Kim loại nào sau đây có tính dẫn điện tốt nhất?",
+      "options": [
+        "A. Cu",
+        "B. Al",
+        "C. Ag",
+        "D. Au"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "trung_binh",
+      "topic": "Tính chất kim loại",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-12-tb-019",
+      "content": "Tinh bột và Xenlulozo là đồng phân của nhau.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "trung_binh",
+      "topic": "Cacbohidrat",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-12-nc-001",
+      "content": "Thủy phân este CH₃COOC₂H₅ thu được sản phẩm gì?",
+      "options": [
+        "A. CH₃COOH và CH₃OH",
+        "B. C₂H₅COOH và CH₃OH",
+        "C. CH₃COOH và C₂H₅OH",
+        "D. CH₃OH và C₂H₅OH"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Este",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-12-nc-002",
+      "content": "Cho m gam Al tác dụng với HNO₃ loãng dư thu được 4,48 lít khí NO (đktc). Giá trị m là?",
+      "options": [
+        "A. 2,7g",
+        "B. 5,4g",
+        "C. 8,1g",
+        "D. 10,8g"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Bài toán kim loại",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-12-nc-003",
+      "content": "Polyme nào được điều chế bằng phản ứng trùng ngưng?",
+      "options": [
+        "A. Polyethylene",
+        "B. Nilon-6,6",
+        "C. PVC",
+        "D. Polystyrene"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Polyme",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-12-nc-004",
+      "content": "Công thức của phèn chua là gì?",
+      "options": [],
+      "answer": "K₂SO₄·Al₂(SO₄)₃·24H₂O",
+      "question_type": "tu_luan",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Hợp chất nhôm",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "hoahoc-12-nc-005",
+      "content": "Số đồng phân este của công thức C₃H₆O₂ là bao nhiêu?",
+      "options": [
+        "A. 1",
+        "B. 2",
+        "C. 3",
+        "D. 4"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Đồng phân este",
+      "solution": null,
+      "comment": null
+    }
+  ]
+}

@@ -1,0 +1,1471 @@
+{
+  "subject": "Sinh học",
+  "total": 100,
+  "questions": [
+    {
+      "id": "sinhhoc-06-cb-001",
+      "content": "Đơn vị cấu tạo cơ bản của mọi cơ thể sống là gì?",
+      "options": [
+        "A. Mô",
+        "B. Cơ quan",
+        "C. Tế bào",
+        "D. Hệ cơ quan"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Tế bào",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-06-cb-002",
+      "content": "Nhóm thực vật nào sau đây có mạch dẫn nhưng chưa có hạt?",
+      "options": [
+        "A. Rêu",
+        "B. Dương xỉ",
+        "C. Hạt trần",
+        "D. Hạt kín"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Thực vật",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-06-cb-003",
+      "content": "Ở thực vật, nước và muối khoáng được vận chuyển từ rễ lên lá nhờ:",
+      "options": [
+        "A. Mạch rây",
+        "B. Mạch gỗ",
+        "C. Tế bào biểu bì",
+        "D. Khí khổng"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Thực vật",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-06-cb-004",
+      "content": "Virus chưa có cấu tạo tế bào, chúng chỉ gồm vỏ protein và:",
+      "options": [
+        "A. Nhân tế bào",
+        "B. Lõi acid nucleic",
+        "C. Ti thể",
+        "D. Lục lạp"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Vi sinh vật",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-06-cb-005",
+      "content": "Quá trình giúp cây xanh tự tổng hợp chất hữu cơ dưới ánh sáng gọi là:",
+      "options": [
+        "A. Hô hấp",
+        "B. Thoát hơi nước",
+        "C. Quang hợp",
+        "D. Vận chuyển"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Quang hợp",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-06-cb-006",
+      "content": "Nấm là một loại thực vật vì chúng sống cố định một chỗ.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Phân loại sinh vật",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-06-cb-007",
+      "content": "Tất cả các loài vi khuẩn đều có hại cho con người.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Vi sinh vật",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-06-cb-008",
+      "content": "Cây xương rồng có lá biến thành gai để giúp cây quang hợp tốt hơn.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Thực vật",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-06-cb-009",
+      "content": "Virus có thể tự nhân lên bên ngoài tế bào chủ.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Vi sinh vật",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-06-cb-010",
+      "content": "Tập hợp các tế bào có hình dạng và chức năng giống nhau gọi là gì?",
+      "options": [],
+      "answer": "Mô",
+      "question_type": "tu_luan",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Tế bào",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-06-cb-011",
+      "content": "Điền tên loại khí mà thực vật thải ra trong quá trình quang hợp:",
+      "options": [],
+      "answer": "Oxy / O2",
+      "question_type": "tu_luan",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Quang hợp",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-06-cb-012",
+      "content": "Nhóm thực vật nào tiến hóa nhất trong giới thực vật?",
+      "options": [],
+      "answer": "Hạt kín",
+      "question_type": "tu_luan",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Thực vật",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-06-cb-013",
+      "content": "Tên gọi chung của các sinh vật có khả năng tự tổng hợp chất hữu cơ là sinh vật ____.",
+      "options": [],
+      "answer": "Tự dưỡng",
+      "question_type": "tu_luan",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Sinh thái",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-06-cb-014",
+      "content": "Chất nào tạo nên màu xanh cho lá cây?",
+      "options": [],
+      "answer": "Diệp lục",
+      "question_type": "tu_luan",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Quang hợp",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-07-cb-001",
+      "content": "Bào quan nào sau đây chỉ có ở tế bào thực vật, không có ở tế bào động vật?",
+      "options": [
+        "A. Nhân",
+        "B. Ti thể",
+        "C. Lục lạp",
+        "D. Ribôxôm"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 7,
+      "difficulty": "co_ban",
+      "topic": "Tế bào",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-07-cb-002",
+      "content": "Động vật nào sau đây thuộc nhóm biến nhiệt?",
+      "options": [
+        "A. Cá chép",
+        "B. Chim bồ câu",
+        "C. Mèo",
+        "D. Voi"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 7,
+      "difficulty": "co_ban",
+      "topic": "Động vật",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-07-cb-003",
+      "content": "Động vật không xương sống chiếm đa số lượng loài trong giới động vật.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 7,
+      "difficulty": "co_ban",
+      "topic": "Động vật",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-07-cb-004",
+      "content": "Côn trùng hô hấp bằng phổi giống con người.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 7,
+      "difficulty": "co_ban",
+      "topic": "Động vật",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-07-cb-005",
+      "content": "Con người thuộc lớp động vật nào?",
+      "options": [],
+      "answer": "Lớp Thú",
+      "question_type": "tu_luan",
+      "grade": 7,
+      "difficulty": "co_ban",
+      "topic": "Động vật",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-07-tb-001",
+      "content": "Ở động vật nhai lại, ngăn nào của dạ dày tương ứng với dạ dày chính thức?",
+      "options": [
+        "A. Dạ cỏ",
+        "B. Dạ tổ ong",
+        "C. Dạ lá sách",
+        "D. Dạ múi khế"
+      ],
+      "answer": "D",
+      "question_type": "trac_nghiem",
+      "grade": 7,
+      "difficulty": "trung_binh",
+      "topic": "Động vật",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-07-tb-002",
+      "content": "Hệ thần kinh dạng chuỗi hạch thường gặp ở nhóm động vật nào?",
+      "options": [
+        "A. Thủy tức",
+        "B. Côn trùng",
+        "C. Chim",
+        "D. Thú"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 7,
+      "difficulty": "trung_binh",
+      "topic": "Thần kinh",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-07-tb-003",
+      "content": "Tim cá có 2 ngăn: 1 tâm nhĩ và 1 tâm thất.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 7,
+      "difficulty": "trung_binh",
+      "topic": "Động vật",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-08-cb-001",
+      "content": "Cơ quan nào trong cơ thể người có chức năng trao đổi khí?",
+      "options": [
+        "A. Tim",
+        "B. Phổi",
+        "C. Dạ dày",
+        "D. Thận"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Cơ thể người",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-08-cb-002",
+      "content": "Thành phần nào của máu tham gia vào quá trình đông máu?",
+      "options": [
+        "A. Hồng cầu",
+        "B. Bạch cầu",
+        "C. Tiểu cầu",
+        "D. Huyết tương"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Cơ thể người",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-08-cb-003",
+      "content": "Nhóm máu nào sau đây có thể truyền cho tất cả các nhóm máu khác (trong điều kiện cho phép)?",
+      "options": [
+        "A. Nhóm A",
+        "B. Nhóm B",
+        "C. Nhóm AB",
+        "D. Nhóm O"
+      ],
+      "answer": "D",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Cơ thể người",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-08-cb-004",
+      "content": "Xương đùi là xương dài nhất trong cơ thể người.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Cơ thể người",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-08-cb-005",
+      "content": "Trái tim người trưởng thành bình thường có 4 ngăn.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Cơ thể người",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-08-cb-006",
+      "content": "Mắt người có thể nhìn rõ trong bóng tối hoàn toàn.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Cơ thể người",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-08-cb-007",
+      "content": "Vitamin A có nhiều trong các loại quả màu đỏ, cam.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Dinh dưỡng",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-08-cb-008",
+      "content": "Cơ quan chính thực hiện nhiệm vụ tiêu hóa thức ăn ở người là gì?",
+      "options": [],
+      "answer": "Dạ dày/Ruột non",
+      "question_type": "tu_luan",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Cơ thể người",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-08-cb-009",
+      "content": "Đơn vị chức năng của thận là gì?",
+      "options": [],
+      "answer": "Nephron",
+      "question_type": "tu_luan",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Cơ thể người",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-08-cb-010",
+      "content": "Quá trình cơ thể phản ứng lại các kích thích từ môi trường gọi là gì?",
+      "options": [],
+      "answer": "Phản xạ",
+      "question_type": "tu_luan",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Thần kinh",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-08-tb-001",
+      "content": "Hormone nào sau đây có tác dụng làm giảm đường huyết trong máu?",
+      "options": [
+        "A. Glucagon",
+        "B. Insulin",
+        "C. Adrenalin",
+        "D. Tyrosin"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "trung_binh",
+      "topic": "Nội tiết",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-08-tb-002",
+      "content": "Loại mạch máu nào có thành mỏng nhất và thực hiện trao đổi chất trực tiếp?",
+      "options": [],
+      "answer": "Mao mạch",
+      "question_type": "tu_luan",
+      "grade": 8,
+      "difficulty": "trung_binh",
+      "topic": "Tuần hoàn",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-08-tb-003",
+      "content": "Quá trình biến đổi thức ăn thành chất dinh dưỡng đơn giản gọi là gì?",
+      "options": [],
+      "answer": "Tiêu hóa",
+      "question_type": "tu_luan",
+      "grade": 8,
+      "difficulty": "trung_binh",
+      "topic": "Cơ thể người",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-08-tb-004",
+      "content": "Enzim tiêu hóa trong nước bọt có tên là gì?",
+      "options": [],
+      "answer": "Amylase",
+      "question_type": "tu_luan",
+      "grade": 8,
+      "difficulty": "trung_binh",
+      "topic": "Tiêu hóa",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-09-cb-001",
+      "content": "Bộ nhiễm sắc thể của một người bình thường gồm bao nhiêu chiếc?",
+      "options": [],
+      "answer": "46",
+      "question_type": "tu_luan",
+      "grade": 9,
+      "difficulty": "co_ban",
+      "topic": "Di truyền",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-09-tb-001",
+      "content": "Kiểu gen nào sau đây là kiểu gen dị hợp tử về một cặp gen?",
+      "options": [
+        "A. AA",
+        "B. Aa",
+        "C. aa",
+        "D. AABB"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Di truyền",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-09-tb-002",
+      "content": "Hiện tượng các con non mới sinh có các đặc điểm giống bố mẹ gọi là gì?",
+      "options": [
+        "A. Biến dị",
+        "B. Di truyền",
+        "C. Đột biến",
+        "D. Thích nghi"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Di truyền",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-09-tb-003",
+      "content": "Nhóm sinh vật nào sau đây thực hiện phân giải chất hữu cơ từ xác động thực vật?",
+      "options": [
+        "A. Sinh vật sản xuất",
+        "B. Sinh vật tiêu thụ bậc 1",
+        "C. Sinh vật phân giải",
+        "D. Động vật ăn thịt"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Sinh thái",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-09-tb-004",
+      "content": "Ở người, gen nằm trên nhiễm sắc thể Y chỉ truyền cho con trai.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Di truyền",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-09-tb-005",
+      "content": "Phép lai Xa x Xa luôn tạo ra 100% cá thể thuần chủng.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Di truyền",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-09-tb-006",
+      "content": "Tất cả các đột biến gen đều có hại cho sinh vật.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Đột biến",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-09-tb-007",
+      "content": "Hội chứng Đao ở người do có 3 nhiễm sắc thể ở cặp số mấy?",
+      "options": [],
+      "answer": "21",
+      "question_type": "tu_luan",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Đột biến",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-09-tb-008",
+      "content": "Hiện tượng con lai có sức sống cao hơn hẳn bố mẹ gọi là gì?",
+      "options": [],
+      "answer": "Ưu thế lai",
+      "question_type": "tu_luan",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Di truyền",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-10-tb-001",
+      "content": "Đường đơn nào sau đây là thành phần cấu tạo nên phân tử ADN?",
+      "options": [
+        "A. Glucose",
+        "B. Fructose",
+        "C. Deoxyribose",
+        "D. Ribose"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Sinh học phân tử",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-10-tb-002",
+      "content": "Bào quan nào sau đây được gọi là \"nhà máy năng lượng\" của tế bào?",
+      "options": [
+        "A. Ti thể",
+        "B. Trung thể",
+        "C. Lưới nội chất",
+        "D. Bộ máy Golgi"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Tế bào",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-10-tb-003",
+      "content": "Trong nguyên phân, các nhiễm sắc thể co xoắn cực đại và xếp thành một hàng ở mặt phẳng xích đạo vào:",
+      "options": [
+        "A. Kỳ đầu",
+        "B. Kỳ giữa",
+        "C. Kỳ sau",
+        "D. Kỳ cuối"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Phân bào",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-10-tb-004",
+      "content": "Enzim có bản chất hóa học chủ yếu là:",
+      "options": [
+        "A. Lipit",
+        "B. Carbonhydrate",
+        "C. Protein",
+        "D. Acid nucleic"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Sinh hóa",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-10-tb-005",
+      "content": "Cấu trúc gồm ADN và protein loại histon ở tế bào nhân thực gọi là:",
+      "options": [
+        "A. Nhân tử",
+        "B. Nhiễm sắc thể",
+        "C. Trung thể",
+        "D. Ribôxôm"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Tế bào",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-10-tb-006",
+      "content": "Sự thẩm thấu là hiện tượng:",
+      "options": [
+        "A. Sự khuếch tán của các phân tử chất tan qua màng",
+        "B. Sự vận chuyển chủ động các ion khoáng",
+        "C. Sự khuếch tán của các phân tử nước qua màng bán thấm",
+        "D. Sự thực bào các phân tử lớn"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Tế bào",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-10-tb-007",
+      "content": "Sản phẩm của quá trình giảm phân từ một tế bào mẹ 2n là:",
+      "options": [
+        "A. 2 tế bào con n",
+        "B. 4 tế bào con n",
+        "C. 2 tế bào con 2n",
+        "D. 4 tế bào con 2n"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Phân bào",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-10-tb-008",
+      "content": "Chất mang năng lượng phổ biến trong tế bào là:",
+      "options": [
+        "A. ADP",
+        "B. ATP",
+        "C. AMP",
+        "D. Axit béo"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Sinh hóa",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-10-tb-009",
+      "content": "Cấu trúc của phân tử ADN có dạng:",
+      "options": [
+        "A. Chuỗi xoắn đơn",
+        "B. Chuỗi xoắn kép",
+        "C. Dạng vòng hở",
+        "D. Dạng khối cầu"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Sinh học phân tử",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-10-tb-010",
+      "content": "Quá trình tổng hợp ARN dựa trên mạch khuôn của ADN được gọi là dịch mã.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Sinh học phân tử",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-10-tb-011",
+      "content": "Quá trình phân chia tế bào sinh dưỡng gọi là gì?",
+      "options": [],
+      "answer": "Nguyên phân",
+      "question_type": "tu_luan",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Phân bào",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-10-tb-012",
+      "content": "Điền từ: Mã di truyền là mã bộ ____",
+      "options": [],
+      "answer": "Ba",
+      "question_type": "tu_luan",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Sinh học phân tử",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-10-tb-013",
+      "content": "Bào quan nào thực hiện chức năng tổng hợp protein?",
+      "options": [],
+      "answer": "Ribosome",
+      "question_type": "tu_luan",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Tế bào",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-10-nc-001",
+      "content": "Điền tên giai đoạn đầu tiên của quá trình hô hấp tế bào:",
+      "options": [],
+      "answer": "Đường phân",
+      "question_type": "tu_luan",
+      "grade": 10,
+      "difficulty": "nang_cao",
+      "topic": "Hô hấp tế bào",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-11-tb-001",
+      "content": "Máu vận chuyển trong mạch rây theo một chiều từ rễ lên lá.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 11,
+      "difficulty": "trung_binh",
+      "topic": "Thực vật",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-11-tb-002",
+      "content": "Tập tính bẩm sinh là những tập tính sinh ra đã có, mang tính di truyền.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 11,
+      "difficulty": "trung_binh",
+      "topic": "Tập tính",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-11-tb-003",
+      "content": "Nước được hấp thụ vào rễ theo cơ chế vận chuyển chủ động.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 11,
+      "difficulty": "trung_binh",
+      "topic": "Thực vật",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-11-tb-004",
+      "content": "Auxin là một loại hormone kích thích sinh trưởng ở thực vật.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 11,
+      "difficulty": "trung_binh",
+      "topic": "Sinh trưởng",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-11-tb-005",
+      "content": "Cây ngày dài là cây ra hoa trong điều kiện thời gian chiếu sáng ____ 12 giờ.",
+      "options": [],
+      "answer": "Trên/Dài hơn",
+      "question_type": "tu_luan",
+      "grade": 11,
+      "difficulty": "trung_binh",
+      "topic": "Quang chu kỳ",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-11-tb-006",
+      "content": "Nhóm thực vật nào thực hiện chu trình C4?",
+      "options": [],
+      "answer": "Mía/Ngô/Rau dền",
+      "question_type": "tu_luan",
+      "grade": 11,
+      "difficulty": "trung_binh",
+      "topic": "Quang hợp",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-11-tb-007",
+      "content": "Động lực đầu trên của dòng mạch gỗ là lực gì?",
+      "options": [],
+      "answer": "Thoát hơi nước",
+      "question_type": "tu_luan",
+      "grade": 11,
+      "difficulty": "trung_binh",
+      "topic": "Thực vật",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-11-tb-008",
+      "content": "Nhóm vi khuẩn giúp chuyển hóa N2 không khí thành dạng đạm cây hấp thụ được?",
+      "options": [],
+      "answer": "Vi khuẩn cố định đạm",
+      "question_type": "tu_luan",
+      "grade": 11,
+      "difficulty": "trung_binh",
+      "topic": "Vi sinh vật",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-11-tb-009",
+      "content": "Phần lớn CO2 trong máu được vận chuyển dưới dạng ion nào?",
+      "options": [],
+      "answer": "HCO3- / Bicarbonate",
+      "question_type": "tu_luan",
+      "grade": 11,
+      "difficulty": "trung_binh",
+      "topic": "Hô hấp",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-11-tb-010",
+      "content": "Sự lan truyền xung thần kinh trên sợi có bao Myelin diễn ra theo kiểu gì?",
+      "options": [],
+      "answer": "Nhảy cóc",
+      "question_type": "tu_luan",
+      "grade": 11,
+      "difficulty": "trung_binh",
+      "topic": "Thần kinh",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-12-tb-001",
+      "content": "Trong hệ sinh thái, năng lượng được truyền theo một chiều và không tuần hoàn.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "trung_binh",
+      "topic": "Sinh thái",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-12-tb-002",
+      "content": "Tên gọi của các yếu tố môi trường tác động lên sinh vật?",
+      "options": [],
+      "answer": "Nhân tố sinh thái",
+      "question_type": "tu_luan",
+      "grade": 12,
+      "difficulty": "trung_binh",
+      "topic": "Sinh thái",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-12-nc-001",
+      "content": "Một phân tử ADN có 3000 nucleotit, trong đó A=600. Số nucleotit loại G của ADN này là:",
+      "options": [
+        "A. 600",
+        "B. 900",
+        "C. 1200",
+        "D. 1500"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Sinh học phân tử",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-12-nc-002",
+      "content": "Theo thuyết tiến hóa hiện đại, nhân tố nào sau đây có thể làm xuất hiện các alen mới trong quần thể?",
+      "options": [
+        "A. Chọn lọc tự nhiên",
+        "B. Đột biến",
+        "C. Giao phối không ngẫu nhiên",
+        "D. Cách ly địa lý"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Tiến hóa",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-12-nc-003",
+      "content": "Trong một chuỗi thức ăn: Cỏ -> Châu chấu -> Ếch -> Rắn. Nếu số lượng ếch bị giảm mạnh thì:",
+      "options": [
+        "A. Số lượng châu chấu giảm",
+        "B. Số lượng cỏ giảm",
+        "C. Số lượng rắn tăng",
+        "D. Số lượng châu chấu tăng"
+      ],
+      "answer": "D",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Sinh thái",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-12-nc-004",
+      "content": "Cơ quan tương đồng là những cơ quan có:",
+      "options": [
+        "A. Cùng nguồn gốc, chức năng khác nhau",
+        "B. Khác nguồn gốc, chức năng giống nhau",
+        "C. Cùng nguồn gốc, chức năng giống nhau",
+        "D. Khác nguồn gốc, chức năng khác nhau"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Tiến hóa",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-12-nc-005",
+      "content": "Nhân tố tiến hóa nào làm thay đổi tần số alen của quần thể theo một hướng xác định?",
+      "options": [
+        "A. Đột biến",
+        "B. Di - nhập gen",
+        "C. Các yếu tố ngẫu nhiên",
+        "D. Chọn lọc tự nhiên"
+      ],
+      "answer": "D",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Tiến hóa",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-12-nc-006",
+      "content": "Ở một loài thực vật, A quy định hoa đỏ trội hoàn toàn so với a quy định hoa trắng. Phép lai Aa x Aa cho đời con có tỉ lệ kiểu hình là:",
+      "options": [
+        "A. 1 đỏ : 1 trắng",
+        "B. 3 đỏ : 1 trắng",
+        "C. 100% đỏ",
+        "D. 9 đỏ : 7 trắng"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Di truyền",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-12-nc-007",
+      "content": "Điều kiện quan trọng nhất để định luật Menđen nghiệm đúng là:",
+      "options": [
+        "A. Bố mẹ phải thuần chủng",
+        "B. Tính trạng trội phải trội hoàn toàn",
+        "C. Quá trình giảm phân diễn ra bình thường",
+        "D. Số lượng cá thể lai phải đủ lớn"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Di truyền",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-12-nc-008",
+      "content": "Sự mềm dẻo kiểu hình (thường biến) có đặc điểm nào sau đây?",
+      "options": [
+        "A. Di truyền được cho đời sau",
+        "B. Là những biến đổi đồng loạt theo hướng xác định",
+        "C. Do biến đổi trong cấu trúc gen",
+        "D. Xuất hiện riêng lẻ ở từng cá thể"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Biến dị",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-12-nc-009",
+      "content": "Trong mô hình operon Lac, protein ức chế liên kết với vị trí nào để ngăn cản phiên mã?",
+      "options": [
+        "A. Vùng khởi động (P)",
+        "B. Vùng vận hành (O)",
+        "C. Nhóm gen cấu trúc",
+        "D. Gen điều hòa"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Điều hòa gen",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-12-nc-010",
+      "content": "Hiện tượng một kiểu gen có thể thay đổi kiểu hình trước các điều kiện môi trường khác nhau gọi là:",
+      "options": [
+        "A. Mức phản ứng",
+        "B. Thường biến",
+        "C. Đột biến",
+        "D. Tương tác gen"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Biến dị",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-12-nc-011",
+      "content": "Quá trình nhân đôi ADN diễn ra theo nguyên tắc bổ sung và nguyên tắc bán bảo toàn.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Sinh học phân tử",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-12-nc-012",
+      "content": "Cánh chim và cánh côn trùng là hai cơ quan tương đồng.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Tiến hóa",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-12-nc-013",
+      "content": "Trong quần thể tự phối, tỉ lệ kiểu gen dị hợp tăng dần qua các thế hệ.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Di truyền quần thể",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-12-nc-014",
+      "content": "Di - nhập gen luôn làm tăng sự đa dạng di truyền của quần thể nhận.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Tiến hóa",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-12-nc-015",
+      "content": "Di sản di truyền của quần thể được thể hiện qua vốn gen.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Di truyền quần thể",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-12-nc-016",
+      "content": "Cách ly địa lý chắc chắn sẽ dẫn đến cách ly sinh sản và hình thành loài mới.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Tiến hóa",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-12-nc-017",
+      "content": "Hệ sinh thái nhân tạo có tính ổn định cao hơn hệ sinh thái tự nhiên.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Sinh thái",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-12-nc-018",
+      "content": "Kỹ thuật chuyển gen sử dụng thể truyền là Plasmid của vi khuẩn.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Công nghệ gen",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-12-nc-019",
+      "content": "Một bộ ba mã hóa (codon) có thể mã hóa cho nhiều loại acid amin khác nhau.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Sinh học phân tử",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-12-nc-020",
+      "content": "Tiến hóa nhỏ là quá trình biến đổi cấu trúc di truyền của quần thể dẫn đến hình thành loài mới.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Tiến hóa",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-12-nc-021",
+      "content": "Những gen cùng nằm trên một nhiễm sắc thể và cùng phân ly về giao tử gọi là nhóm gen ____.",
+      "options": [],
+      "answer": "Liên kết",
+      "question_type": "tu_luan",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Di truyền",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-12-nc-022",
+      "content": "Loại đột biến nào làm thay đổi số lượng nhiễm sắc thể ở một hoặc một số cặp?",
+      "options": [],
+      "answer": "Đột biến lệch bội",
+      "question_type": "tu_luan",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Đột biến",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-12-nc-023",
+      "content": "Tên gọi của mối quan hệ giữa hai loài mà một bên có lợi, bên kia không có lợi cũng không có hại?",
+      "options": [],
+      "answer": "Hội sinh",
+      "question_type": "tu_luan",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Sinh thái",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-12-nc-024",
+      "content": "Diễn thế sinh thái bắt đầu từ một môi trường trống trơn (chưa có sinh vật) gọi là diễn thế ____.",
+      "options": [],
+      "answer": "Nguyên sinh",
+      "question_type": "tu_luan",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Sinh thái",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-12-nc-025",
+      "content": "Khoảng giá trị của một nhân tố sinh thái mà ở đó sinh vật có thể tồn tại và phát triển gọi là ____ sinh thái.",
+      "options": [],
+      "answer": "Giới hạn",
+      "question_type": "tu_luan",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Sinh thái",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-12-nc-026",
+      "content": "Hiện tượng các nhiễm sắc thể không phân ly ở kỳ sau của giảm phân tạo ra đột biến ____.",
+      "options": [],
+      "answer": "Số lượng NST / Đa bội / Lệch bội",
+      "question_type": "tu_luan",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Đột biến",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-12-nc-027",
+      "content": "Trong kĩ thuật ADN tái bản, enzim dùng để nối đoạn ADN của tế bào cho vào ADN của thể truyền là?",
+      "options": [],
+      "answer": "Ligase",
+      "question_type": "tu_luan",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Công nghệ gen",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-12-nc-028",
+      "content": "Cấu trúc hình cây thể hiện mối quan hệ họ hàng giữa các loài gọi là gì?",
+      "options": [],
+      "answer": "Cây phát sinh chủng loại",
+      "question_type": "tu_luan",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Tiến hóa",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "sinhhoc-12-nc-029",
+      "content": "Tập hợp các cá thể cùng loài, cùng sống trong một khoảng không gian và thời gian xác định gọi là ____.",
+      "options": [],
+      "answer": "Quần thể",
+      "question_type": "tu_luan",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Sinh thái",
+      "solution": null,
+      "comment": null
+    }
+  ]
+}

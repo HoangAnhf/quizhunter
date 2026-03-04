@@ -1,0 +1,1471 @@
+{
+  "subject": "Tin học",
+  "total": 100,
+  "questions": [
+    {
+      "id": "tinhoc-06-cb-001",
+      "content": "Thiết bị nào sau đây được coi là \"bộ não\" của máy tính?",
+      "options": [
+        "A. RAM",
+        "B. CPU",
+        "C. Ổ cứng",
+        "D. Màn hình"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Phần cứng",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-06-cb-002",
+      "content": "Phím tắt nào dùng để sao chép (Copy) một đối tượng?",
+      "options": [
+        "A. Ctrl + V",
+        "B. Ctrl + X",
+        "C. Ctrl + C",
+        "D. Ctrl + Z"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Thao tác cơ bản",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-06-cb-003",
+      "content": "Đuôi tệp tin nào sau đây thường là của tệp hình ảnh?",
+      "options": [
+        "A. .mp3",
+        "B. .jpg",
+        "C. .exe",
+        "D. .docx"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Tệp tin",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-06-cb-004",
+      "content": "Thiết bị nào sau đây là thiết bị ra (Output)?",
+      "options": [
+        "A. Bàn phím",
+        "B. Chuột",
+        "C. Máy in",
+        "D. Máy quét (Scanner)"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Phần cứng",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-06-cb-005",
+      "content": "Bộ nhớ RAM của máy tính có đặc điểm gì?",
+      "options": [
+        "A. Lưu trữ dữ liệu vĩnh viễn",
+        "B. Dữ liệu bị mất khi tắt máy",
+        "C. Chỉ dùng để cài đặt Windows",
+        "D. Là bộ nhớ ngoài"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Phần cứng",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-06-cb-006",
+      "content": "Biểu tượng \"Thùng rác\" trong Windows có tên là gì?",
+      "options": [
+        "A. My Computer",
+        "B. Control Panel",
+        "C. Recycle Bin",
+        "D. Internet Explorer"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Hệ điều hành",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-06-cb-007",
+      "content": "Đơn vị nhỏ nhất để đo thông tin là gì?",
+      "options": [
+        "A. Byte",
+        "B. Kilobyte",
+        "C. Bit",
+        "D. Gigabyte"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Biểu diễn thông tin",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-06-cb-008",
+      "content": "Phần cứng là các chương trình chạy bên trong máy tính.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Phần cứng",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-06-cb-009",
+      "content": "Một Byte bằng 10 Bit.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Biểu diễn thông tin",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-06-cb-010",
+      "content": "Loa máy tính là thiết bị vào.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Phần cứng",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-06-cb-011",
+      "content": "Tắt máy tính bằng cách rút dây điện đột ngột là cách tốt nhất.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Sử dụng máy tính",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-06-cb-012",
+      "content": "Phím tắt để dán (Paste) dữ liệu đã sao chép là gì?",
+      "options": [],
+      "answer": "Ctrl + V",
+      "question_type": "tu_luan",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Thao tác cơ bản",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-06-cb-013",
+      "content": "Thiết bị dùng để lưu trữ dữ liệu lâu dài ngay cả khi mất điện là ____.",
+      "options": [],
+      "answer": "Ổ cứng / USB / Thẻ nhớ",
+      "question_type": "tu_luan",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Phần cứng",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-06-cb-014",
+      "content": "1 Kilobyte (KB) bằng bao nhiêu Byte?",
+      "options": [],
+      "answer": "1024",
+      "question_type": "tu_luan",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Biểu diễn thông tin",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-06-cb-015",
+      "content": "Thiết bị dùng để di chuyển con trỏ trên màn hình máy tính là ____.",
+      "options": [],
+      "answer": "Chuột",
+      "question_type": "tu_luan",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Phần cứng",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-07-cb-001",
+      "content": "Trong Microsoft Word, để in đậm văn bản ta dùng tổ hợp phím:",
+      "options": [
+        "A. Ctrl + B",
+        "B. Ctrl + I",
+        "C. Ctrl + U",
+        "D. Ctrl + E"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 7,
+      "difficulty": "co_ban",
+      "topic": "Soạn thảo văn bản",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-07-cb-002",
+      "content": "Để truy cập một trang web, chúng ta cần phần mềm nào?",
+      "options": [
+        "A. Trình duyệt web",
+        "B. Word",
+        "C. Excel",
+        "D. Photoshop"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 7,
+      "difficulty": "co_ban",
+      "topic": "Internet",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-07-cb-003",
+      "content": "Trong Excel, các hàng được ký hiệu bằng gì?",
+      "options": [
+        "A. Các chữ cái (A, B, C...)",
+        "B. Các số (1, 2, 3...)",
+        "C. Các ký hiệu đặc biệt",
+        "D. Các màu sắc"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 7,
+      "difficulty": "co_ban",
+      "topic": "Bảng tính",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-07-cb-004",
+      "content": "Mật khẩu càng ngắn thì càng dễ nhớ và càng an toàn.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 7,
+      "difficulty": "co_ban",
+      "topic": "An toàn thông tin",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-07-cb-005",
+      "content": "Google là một công cụ tìm kiếm trên Internet.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 7,
+      "difficulty": "co_ban",
+      "topic": "Internet",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-07-cb-006",
+      "content": "Có thể gửi tệp tin đính kèm thông qua thư điện tử (Email).",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 7,
+      "difficulty": "co_ban",
+      "topic": "Internet",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-07-cb-007",
+      "content": "Phần mềm Unikey dùng để hỗ trợ gõ tiếng Việt.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 7,
+      "difficulty": "co_ban",
+      "topic": "Phần mềm",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-07-cb-008",
+      "content": "Word là phần mềm chuyên dùng để tính toán và lập bảng biểu.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 7,
+      "difficulty": "co_ban",
+      "topic": "Phần mềm",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-07-cb-009",
+      "content": "Virus máy tính là một loại vi khuẩn sinh học.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 7,
+      "difficulty": "co_ban",
+      "topic": "An toàn thông tin",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-07-cb-010",
+      "content": "Mạng kết nối các máy tính trên phạm vi toàn cầu gọi là gì?",
+      "options": [],
+      "answer": "Internet",
+      "question_type": "tu_luan",
+      "grade": 7,
+      "difficulty": "co_ban",
+      "topic": "Mạng máy tính",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-07-cb-011",
+      "content": "Trong Excel, mọi công thức tính toán đều phải bắt đầu bằng dấu ____.",
+      "options": [],
+      "answer": "= (dấu bằng)",
+      "question_type": "tu_luan",
+      "grade": 7,
+      "difficulty": "co_ban",
+      "topic": "Bảng tính",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-07-cb-012",
+      "content": "Hệ điều hành phổ biến nhất thế giới hiện nay cho máy tính cá nhân là ____.",
+      "options": [],
+      "answer": "Windows",
+      "question_type": "tu_luan",
+      "grade": 7,
+      "difficulty": "co_ban",
+      "topic": "Hệ điều hành",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-07-cb-013",
+      "content": "Tên miền của các trang web giáo dục thường kết thúc bằng đuôi gì?",
+      "options": [],
+      "answer": ".edu",
+      "question_type": "tu_luan",
+      "grade": 7,
+      "difficulty": "co_ban",
+      "topic": "Internet",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-07-cb-014",
+      "content": "Phím nào dùng để xóa ký tự đứng trước con trỏ văn bản?",
+      "options": [],
+      "answer": "Backspace",
+      "question_type": "tu_luan",
+      "grade": 7,
+      "difficulty": "co_ban",
+      "topic": "Thao tác cơ bản",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-07-cb-015",
+      "content": "Phần mềm hỗ trợ trình chiếu phổ biến nhất của Microsoft là ____.",
+      "options": [],
+      "answer": "PowerPoint",
+      "question_type": "tu_luan",
+      "grade": 7,
+      "difficulty": "co_ban",
+      "topic": "Phần mềm",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-07-tb-001",
+      "content": "WWW là viết tắt của từ gì?",
+      "options": [],
+      "answer": "World Wide Web",
+      "question_type": "tu_luan",
+      "grade": 7,
+      "difficulty": "trung_binh",
+      "topic": "Internet",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-07-tb-002",
+      "content": "Phím nào trên bàn phím dùng để bật/tắt chế độ gõ chữ hoa?",
+      "options": [],
+      "answer": "Caps Lock",
+      "question_type": "tu_luan",
+      "grade": 7,
+      "difficulty": "trung_binh",
+      "topic": "Thao tác cơ bản",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-08-tb-001",
+      "content": "Trong bảng tính Excel, công thức =SUM(5, 10, 15) cho kết quả là:",
+      "options": [
+        "A. 15",
+        "B. 20",
+        "C. 30",
+        "D. 51015"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "trung_binh",
+      "topic": "Bảng tính",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-08-tb-002",
+      "content": "Địa chỉ ô nào sau đây là địa chỉ tuyệt đối trong Excel?",
+      "options": [
+        "A. A1",
+        "B. $A1",
+        "C. A$1",
+        "D. $A$1"
+      ],
+      "answer": "D",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "trung_binh",
+      "topic": "Bảng tính",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-08-tb-003",
+      "content": "Đâu là địa chỉ Email hợp lệ?",
+      "options": [
+        "A. abc.gmail.com",
+        "B. abc@gmail@com",
+        "C. abc@gmail.com",
+        "D. abc#gmail.com"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "trung_binh",
+      "topic": "Internet",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-08-tb-004",
+      "content": "Để ngắt trang trong Word, ta dùng tổ hợp phím:",
+      "options": [
+        "A. Ctrl + Enter",
+        "B. Shift + Enter",
+        "C. Alt + Enter",
+        "D. Tab + Enter"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "trung_binh",
+      "topic": "Soạn thảo văn bản",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-08-tb-005",
+      "content": "Trong Excel, hàm AVERAGE dùng để làm gì?",
+      "options": [
+        "A. Tìm số lớn nhất",
+        "B. Tính tổng",
+        "C. Tính trung bình cộng",
+        "D. Đếm các ô có dữ liệu"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "trung_binh",
+      "topic": "Bảng tính",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-08-tb-006",
+      "content": "Hệ nhị phân chỉ sử dụng hai ký số nào?",
+      "options": [
+        "A. 1 và 2",
+        "B. 0 và 1",
+        "C. A và B",
+        "D. 0 và 10"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "trung_binh",
+      "topic": "Biểu diễn thông tin",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-08-tb-007",
+      "content": "Một tệp tin có dung lượng 2GB tương đương với khoảng bao nhiêu MB?",
+      "options": [
+        "A. 200 MB",
+        "B. 2000 MB",
+        "C. 2048 MB",
+        "D. 1024 MB"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "trung_binh",
+      "topic": "Biểu diễn thông tin",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-08-tb-008",
+      "content": "Chức năng \"Mail Merge\" trong Word dùng để:",
+      "options": [
+        "A. Gửi email",
+        "B. Trộn thư (tạo hàng loạt văn bản giống mẫu)",
+        "C. Kiểm tra lỗi chính tả",
+        "D. Vẽ hình"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "trung_binh",
+      "topic": "Soạn thảo văn bản",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-08-tb-009",
+      "content": "Trong Excel, hàm IF chỉ có thể trả về một kết quả duy nhất.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "trung_binh",
+      "topic": "Bảng tính",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-08-tb-010",
+      "content": "Không thể thay đổi hình nền máy tính trong Windows.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "trung_binh",
+      "topic": "Hệ điều hành",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-08-tb-011",
+      "content": "Việc nén tệp giúp giảm dung lượng của tệp đó.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "trung_binh",
+      "topic": "Tệp tin",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-08-tb-012",
+      "content": "Một tệp Word có thể lưu dưới dạng tệp PDF.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "trung_binh",
+      "topic": "Soạn thảo văn bản",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-08-tb-013",
+      "content": "Điền số: Số 10 trong hệ thập phân chuyển sang hệ nhị phân là ____.",
+      "options": [],
+      "answer": "1010",
+      "question_type": "tu_luan",
+      "grade": 8,
+      "difficulty": "trung_binh",
+      "topic": "Biểu diễn thông tin",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-08-tb-014",
+      "content": "Trong Excel, hàm nào dùng để tìm giá trị nhỏ nhất?",
+      "options": [],
+      "answer": "MIN",
+      "question_type": "tu_luan",
+      "grade": 8,
+      "difficulty": "trung_binh",
+      "topic": "Bảng tính",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-08-tb-015",
+      "content": "Một Megabyte (MB) bằng bao nhiêu Kilobyte (KB)?",
+      "options": [],
+      "answer": "1024",
+      "question_type": "tu_luan",
+      "grade": 8,
+      "difficulty": "trung_binh",
+      "topic": "Biểu diễn thông tin",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-08-tb-016",
+      "content": "Để chọn tất cả đối tượng trong một thư mục, ta dùng phím tắt ____.",
+      "options": [],
+      "answer": "Ctrl + A",
+      "question_type": "tu_luan",
+      "grade": 8,
+      "difficulty": "trung_binh",
+      "topic": "Thao tác cơ bản",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-08-tb-017",
+      "content": "Trong bảng tính, giao của một hàng và một cột gọi là một ____.",
+      "options": [],
+      "answer": "Ô / Cell",
+      "question_type": "tu_luan",
+      "grade": 8,
+      "difficulty": "trung_binh",
+      "topic": "Bảng tính",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-08-tb-018",
+      "content": "Tên của ngôn ngữ lập trình sử dụng các khối lệnh kéo thả dành cho trẻ em?",
+      "options": [],
+      "answer": "Scratch",
+      "question_type": "tu_luan",
+      "grade": 8,
+      "difficulty": "trung_binh",
+      "topic": "Lập trình",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-09-tb-001",
+      "content": "Giao thức nào được sử dụng để truyền tải các trang web?",
+      "options": [
+        "A. FTP",
+        "B. HTTP",
+        "C. SMTP",
+        "D. TCP"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Mạng máy tính",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-09-tb-002",
+      "content": "Mạng LAN là loại mạng kết nối máy tính trong phạm vi:",
+      "options": [
+        "A. Toàn thế giới",
+        "B. Một quốc gia",
+        "C. Một thành phố",
+        "D. Một khu vực nhỏ (văn phòng, trường học)"
+      ],
+      "answer": "D",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Mạng máy tính",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-09-tb-003",
+      "content": "Bộ nhớ Cache nằm ở đâu?",
+      "options": [
+        "A. Trên CPU hoặc giữa CPU và RAM",
+        "B. Trên ổ cứng",
+        "C. Trên chuột",
+        "D. Trên bàn phím"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Phần cứng",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-09-tb-004",
+      "content": "Phần mềm nào sau đây là phần mềm nguồn mở?",
+      "options": [
+        "A. Microsoft Office",
+        "B. Windows 10",
+        "C. Linux",
+        "D. Adobe Photoshop"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Phần mềm",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-09-tb-005",
+      "content": "Firewall (Tường lửa) có chức năng chính là gì?",
+      "options": [
+        "A. Diệt virus",
+        "B. Tăng tốc độ internet",
+        "C. Ngăn chặn truy cập trái phép từ bên ngoài vào mạng nội bộ",
+        "D. Làm mát máy tính"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "An toàn thông tin",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-09-tb-006",
+      "content": "Ổ cứng SSD có tốc độ truy xuất dữ liệu nhanh hơn ổ cứng HDD.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Phần cứng",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-09-tb-007",
+      "content": "Địa chỉ IP là duy nhất cho mỗi thiết bị khi tham gia vào mạng.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Mạng máy tính",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-09-tb-008",
+      "content": "RAM là viết tắt của Read Access Memory.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Phần cứng",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-09-tb-009",
+      "content": "Thiết bị dùng để kết nối mạng máy tính và định tuyến dữ liệu gọi là ____.",
+      "options": [],
+      "answer": "Router",
+      "question_type": "tu_luan",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Mạng máy tính",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-09-tb-010",
+      "content": "Tên viết tắt của bộ nhớ chỉ đọc, không bị mất dữ liệu khi mất điện là ____.",
+      "options": [],
+      "answer": "ROM",
+      "question_type": "tu_luan",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Phần cứng",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-09-tb-011",
+      "content": "Chế độ ẩn danh trên trình duyệt giúp người dùng không lưu lại ____ duyệt web.",
+      "options": [],
+      "answer": "Lịch sử",
+      "question_type": "tu_luan",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Internet",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-09-tb-012",
+      "content": "Tên gọi của các chương trình giúp phần cứng máy tính giao tiếp được với hệ điều hành là ____.",
+      "options": [],
+      "answer": "Driver",
+      "question_type": "tu_luan",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Phần mềm",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-10-tb-001",
+      "content": "Thuật toán là gì?",
+      "options": [
+        "A. Là một ngôn ngữ lập trình",
+        "B. Là một thiết bị máy tính",
+        "C. Là dãy các chỉ dẫn cụ thể để giải quyết một bài toán",
+        "D. Là lỗi phần mềm"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Thuật toán",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-10-tb-002",
+      "content": "Trong Python, để in một chuỗi ra màn hình, ta dùng lệnh:",
+      "options": [
+        "A. write()",
+        "B. print()",
+        "C. output()",
+        "D. display()"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Lập trình Python",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-10-tb-003",
+      "content": "Python là một ngôn ngữ lập trình bậc cao.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Lập trình",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-10-tb-004",
+      "content": "Lệnh `input()` trong Python luôn trả về dữ liệu kiểu số nguyên.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Lập trình Python",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-10-tb-005",
+      "content": "Cấu trúc lặp \"while\" trong lập trình sẽ dừng lại khi điều kiện sai.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Lập trình",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-10-tb-006",
+      "content": "Trong lập trình, lỗi cú pháp được gọi là ____ error.",
+      "options": [],
+      "answer": "Syntax",
+      "question_type": "tu_luan",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Lập trình",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-10-tb-007",
+      "content": "Biến trong lập trình dùng để làm gì?",
+      "options": [],
+      "answer": "Lưu trữ dữ liệu",
+      "question_type": "tu_luan",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Lập trình",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-10-tb-008",
+      "content": "Ký hiệu của phép chia trong hầu hết các ngôn ngữ lập trình là dấu gì?",
+      "options": [],
+      "answer": "/",
+      "question_type": "tu_luan",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Lập trình",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-11-nc-001",
+      "content": "Tầng nào trong mô hình OSI chịu trách nhiệm định tuyến các gói tin?",
+      "options": [
+        "A. Tầng vật lý",
+        "B. Tầng liên kết dữ liệu",
+        "C. Tầng mạng (Network)",
+        "D. Tầng vận chuyển"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 11,
+      "difficulty": "nang_cao",
+      "topic": "Mạng máy tính",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-11-nc-002",
+      "content": "Trong Python, kết quả của biểu thức `3 + 2 * 2 ** 3` là:",
+      "options": [
+        "A. 40",
+        "B. 19",
+        "C. 25",
+        "D. 13"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 11,
+      "difficulty": "nang_cao",
+      "topic": "Lập trình Python",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-11-nc-003",
+      "content": "Hệ quản trị cơ sở dữ liệu phổ biến nhất là:",
+      "options": [
+        "A. Microsoft Word",
+        "B. MySQL",
+        "C. Windows Explorer",
+        "D. Python IDLE"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 11,
+      "difficulty": "nang_cao",
+      "topic": "Cơ sở dữ liệu",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-11-nc-004",
+      "content": "Một địa chỉ IPv4 gồm bao nhiêu bit?",
+      "options": [
+        "A. 16 bit",
+        "B. 32 bit",
+        "C. 64 bit",
+        "D. 128 bit"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 11,
+      "difficulty": "nang_cao",
+      "topic": "Mạng máy tính",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-11-nc-005",
+      "content": "Trong lập trình hướng đối tượng, khái niệm nào cho phép một lớp con sử dụng lại các thuộc tính của lớp cha?",
+      "options": [
+        "A. Đóng gói",
+        "B. Đa hình",
+        "C. Kế thừa",
+        "D. Trừu tượng"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 11,
+      "difficulty": "nang_cao",
+      "topic": "Lập trình OOP",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-11-nc-006",
+      "content": "Giao thức SMTP được dùng để làm gì?",
+      "options": [
+        "A. Truyền file",
+        "B. Gửi thư điện tử",
+        "C. Nhận thư điện tử",
+        "D. Phân giải tên miền"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 11,
+      "difficulty": "nang_cao",
+      "topic": "Mạng máy tính",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-11-nc-007",
+      "content": "IPv6 ra đời để thay thế IPv4 vì kho địa chỉ IPv4 đã cạn kiệt.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 11,
+      "difficulty": "nang_cao",
+      "topic": "Mạng máy tính",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-11-nc-008",
+      "content": "Trong Python, danh sách (list) là một kiểu dữ liệu không thể thay đổi (immutable).",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 11,
+      "difficulty": "nang_cao",
+      "topic": "Lập trình Python",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-11-nc-009",
+      "content": "Cookies là những tệp tin nhỏ dùng để ghi nhớ thông tin người dùng trên trình duyệt.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 11,
+      "difficulty": "nang_cao",
+      "topic": "Internet",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-11-nc-010",
+      "content": "Giao thức HTTPS không bảo mật bằng giao thức HTTP.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 11,
+      "difficulty": "nang_cao",
+      "topic": "Mạng máy tính",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-11-nc-011",
+      "content": "Hệ cơ số 16 còn được gọi là hệ gì?",
+      "options": [],
+      "answer": "Hexadecimal",
+      "question_type": "tu_luan",
+      "grade": 11,
+      "difficulty": "nang_cao",
+      "topic": "Biểu diễn thông tin",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-11-nc-012",
+      "content": "Điền kết quả phép tính nhị phân: `1010 + 0001 =` ____.",
+      "options": [],
+      "answer": "1011",
+      "question_type": "tu_luan",
+      "grade": 11,
+      "difficulty": "nang_cao",
+      "topic": "Biểu diễn thông tin",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-11-nc-013",
+      "content": "Tên của chuẩn kết nối không dây tầm ngắn phổ biến dùng cho tai nghe, điện thoại?",
+      "options": [],
+      "answer": "Bluetooth",
+      "question_type": "tu_luan",
+      "grade": 11,
+      "difficulty": "nang_cao",
+      "topic": "Phần cứng",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-11-nc-014",
+      "content": "Trong Python, hàm nào dùng để trả về độ dài của một danh sách?",
+      "options": [],
+      "answer": "len()",
+      "question_type": "tu_luan",
+      "grade": 11,
+      "difficulty": "nang_cao",
+      "topic": "Lập trình Python",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-11-nc-015",
+      "content": "DNS là viết tắt của Domain Name ____.",
+      "options": [],
+      "answer": "System",
+      "question_type": "tu_luan",
+      "grade": 11,
+      "difficulty": "nang_cao",
+      "topic": "Mạng máy tính",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-11-nc-016",
+      "content": "Bộ phận nào trong CPU thực hiện các phép toán số học và logic?",
+      "options": [],
+      "answer": "ALU",
+      "question_type": "tu_luan",
+      "grade": 11,
+      "difficulty": "nang_cao",
+      "topic": "Phần cứng",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-12-nc-001",
+      "content": "Thuật toán sắp xếp nào có độ phức tạp trung bình là O(n log n)?",
+      "options": [
+        "A. Bubble Sort",
+        "B. Selection Sort",
+        "C. Quick Sort",
+        "D. Insertion Sort"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Thuật toán",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-12-nc-002",
+      "content": "Trong SQL, câu lệnh nào dùng để lấy dữ liệu từ bảng?",
+      "options": [
+        "A. GET",
+        "B. FETCH",
+        "C. SELECT",
+        "D. UPDATE"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Cơ sở dữ liệu",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-12-nc-003",
+      "content": "Trí tuệ nhân tạo (AI) học từ dữ liệu thông qua quá trình gọi là:",
+      "options": [
+        "A. Web Scraping",
+        "B. Machine Learning",
+        "C. Data Mining",
+        "D. Cloud Computing"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Trí tuệ nhân tạo",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-12-nc-004",
+      "content": "\"Phishing\" là gì trong an ninh mạng?",
+      "options": [
+        "A. Một kỹ thuật nén ảnh",
+        "B. Một hình thức tấn công lừa đảo để lấy thông tin cá nhân",
+        "C. Một thuật toán tìm kiếm",
+        "D. Tên một loại máy chủ"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "An ninh mạng",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-12-nc-005",
+      "content": "Độ phức tạp của thuật toán tìm kiếm nhị phân trên dãy đã sắp xếp là O(log n).",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Thuật toán",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-12-nc-006",
+      "content": "Phần mềm độc hại Ransomware mã hóa dữ liệu của nạn nhân để đòi tiền chuộc.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "An ninh mạng",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-12-nc-007",
+      "content": "Điện toán đám mây yêu cầu người dùng phải có máy chủ vật lý tại nhà.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Điện toán đám mây",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-12-nc-008",
+      "content": "Khóa chính (Primary Key) trong một bảng cơ sở dữ liệu có thể chứa giá trị Null (trống).",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Cơ sở dữ liệu",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-12-nc-009",
+      "content": "Thuật toán đệ quy luôn chạy nhanh hơn thuật toán lặp.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Thuật toán",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-12-nc-010",
+      "content": "Deep Learning là một tập con của Machine Learning.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Trí tuệ nhân tạo",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-12-nc-011",
+      "content": "Kỹ thuật chia một mạng lớn thành nhiều mạng nhỏ hơn gọi là ____.",
+      "options": [],
+      "answer": "Subnetting",
+      "question_type": "tu_luan",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Mạng máy tính",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-12-nc-012",
+      "content": "Trong HTML, thẻ nào dùng để tạo một đường link liên kết?",
+      "options": [],
+      "answer": "<a>",
+      "question_type": "tu_luan",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Lập trình web",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-12-nc-013",
+      "content": "Kiểu tấn công làm tràn ngập lưu lượng truy cập khiến máy chủ bị tê liệt gọi là ____.",
+      "options": [],
+      "answer": "DDoS",
+      "question_type": "tu_luan",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "An ninh mạng",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tinhoc-12-nc-014",
+      "content": "Công nghệ lưu trữ dữ liệu phân tán, là nền tảng của Bitcoin?",
+      "options": [],
+      "answer": "Blockchain",
+      "question_type": "tu_luan",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Công nghệ mới",
+      "solution": null,
+      "comment": null
+    }
+  ]
+}

@@ -1,16 +1,12 @@
 import io
 from typing import List
+import PyPDF2
 
 from backend.schemas.exam import Question
 from backend.core.text_processor import TextProcessor
 
 
 def extract_from_pdf(file_bytes: bytes) -> List[Question]:
-    try:
-        import PyPDF2
-    except ImportError:
-        raise ImportError("Cần cài đặt PyPDF2: pip install PyPDF2")
-
     reader = PyPDF2.PdfReader(io.BytesIO(file_bytes))
     full_text = ""
     for page in reader.pages:

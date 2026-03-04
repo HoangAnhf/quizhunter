@@ -1,0 +1,1471 @@
+{
+  "subject": "GDCD",
+  "total": 100,
+  "questions": [
+    {
+      "id": "gdcd-06-cb-001",
+      "content": "Hành vi nào sau đây biểu hiện sự tôn trọng kỷ luật?",
+      "options": [
+        "A. Đi học muộn thường xuyên",
+        "B. Đi xe dàn hàng ngang",
+        "C. Đi học đúng giờ",
+        "D. Nói chuyện trong giờ học"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Đạo đức",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-06-cb-002",
+      "content": "Việc sử dụng hợp lý tiền bạc, thời gian, sức lực của mình và người khác gọi là gì?",
+      "options": [
+        "A. Keo kiệt",
+        "B. Tiết kiệm",
+        "C. Hoang phí",
+        "D. Siêng năng"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Đạo đức",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-06-cb-003",
+      "content": "Hành động nhặt được của rơi trả lại người mất thể hiện đức tính:",
+      "options": [
+        "A. Trung thực",
+        "B. Khiêm tốn",
+        "C. Dũng cảm",
+        "D. Yêu thương con người"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Đạo đức",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-06-cb-004",
+      "content": "Câu tục ngữ \"Ăn quả nhớ kẻ trồng cây\" nói về truyền thống nào?",
+      "options": [
+        "A. Hiếu thảo",
+        "B. Đoàn kết",
+        "C. Biết ơn",
+        "D. Hiếu học"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Truyền thống",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-06-cb-005",
+      "content": "Chỉ những người giàu có mới cần thực hiện tiết kiệm.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Đạo đức",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-06-cb-006",
+      "content": "Gia đình văn hóa là gia đình chỉ cần có nhiều tiền.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Gia đình",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-06-cb-007",
+      "content": "Câu tục ngữ \"Lá lành đùm lá rách\" nói về tinh thần ____.",
+      "options": [],
+      "answer": "Tương thân tương ái / Đoàn kết",
+      "question_type": "tu_luan",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Truyền thống",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-07-cb-001",
+      "content": "Theo quy định của pháp luật giao thông, người đi xe đạp không được làm gì?",
+      "options": [
+        "A. Đi bên phải",
+        "B. Đội mũ bảo hiểm",
+        "C. Buông cả hai tay",
+        "D. Quan sát trước khi rẽ"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 7,
+      "difficulty": "co_ban",
+      "topic": "Pháp luật giao thông",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-07-cb-002",
+      "content": "Học sinh có bổn phận gì đối với cha mẹ?",
+      "options": [
+        "A. Chỉ học không cần làm việc nhà",
+        "B. Kính trọng, lễ phép và giúp đỡ cha mẹ",
+        "C. Đòi hỏi mua đồ đắt tiền",
+        "D. Cãi lại khi cha mẹ nhắc nhở"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 7,
+      "difficulty": "co_ban",
+      "topic": "Gia đình",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-07-cb-003",
+      "content": "Biểu hiện của sự tự tin là:",
+      "options": [
+        "A. Luôn dựa dẫm vào người khác",
+        "B. Tin tưởng vào khả năng của bản thân",
+        "C. Kiêu căng, xem thường người khác",
+        "D. Luôn lo sợ khi đứng trước đám đông"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 7,
+      "difficulty": "co_ban",
+      "topic": "Đạo đức",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-07-cb-004",
+      "content": "Lòng khoan dung là sự rộng lượng, tha thứ cho lỗi lầm của người khác khi họ biết hối cải.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 7,
+      "difficulty": "co_ban",
+      "topic": "Đạo đức",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-07-cb-005",
+      "content": "Giữ chữ tín là giữ đúng lời hứa và tin tưởng lẫn nhau.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 7,
+      "difficulty": "co_ban",
+      "topic": "Đạo đức",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-07-cb-006",
+      "content": "Chỉ có người lớn mới cần tham gia các hoạt động thiện nguyện.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 7,
+      "difficulty": "co_ban",
+      "topic": "Đạo đức",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-07-cb-007",
+      "content": "Sống ____ là sống phù hợp với những quy tắc, chuẩn mực đạo đức của xã hội.",
+      "options": [],
+      "answer": "Có đạo đức",
+      "question_type": "tu_luan",
+      "grade": 7,
+      "difficulty": "co_ban",
+      "topic": "Đạo đức",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-07-cb-008",
+      "content": "Tên gọi của ngày 20/11 hàng năm là ngày gì?",
+      "options": [],
+      "answer": "Nhà giáo Việt Nam",
+      "question_type": "tu_luan",
+      "grade": 7,
+      "difficulty": "co_ban",
+      "topic": "Xã hội",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-07-cb-009",
+      "content": "Người đi bộ phải đi trên ____ hoặc sát mép đường.",
+      "options": [],
+      "answer": "Hè phố / Vỉa hè",
+      "question_type": "tu_luan",
+      "grade": 7,
+      "difficulty": "co_ban",
+      "topic": "Pháp luật giao thông",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-08-cb-001",
+      "content": "Bảo vệ môi trường là trách nhiệm của:",
+      "options": [
+        "A. Chỉ các cấp chính quyền",
+        "B. Chỉ các công ty môi trường",
+        "C. Tất cả mọi người",
+        "D. Chỉ người lớn"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Môi trường",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-08-cb-002",
+      "content": "Quyền nào sau đây là quyền cơ bản của trẻ em?",
+      "options": [
+        "A. Quyền được khai sinh và có quốc tịch",
+        "B. Quyền được đi làm kiếm tiền sớm",
+        "C. Quyền được bỏ học",
+        "D. Quyền được lái xe máy"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Quyền trẻ em",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-08-cb-003",
+      "content": "Khi thấy bạn mình có hành vi quay cóp trong giờ kiểm tra, em nên làm gì?",
+      "options": [
+        "A. Lờ đi như không biết",
+        "B. Quay cóp giống bạn",
+        "C. Nhắc nhở và khuyên bạn không nên làm thế",
+        "D. Xin bạn cho xem cùng"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Đạo đức",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-08-cb-004",
+      "content": "Trẻ em không có quyền tham gia ý kiến vào các vấn đề của gia đình.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Quyền trẻ em",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-08-cb-005",
+      "content": "Học sinh trung học cơ sở có thể đi xe gắn máy có dung tích xi lanh từ 50cm3 trở lên.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Pháp luật giao thông",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-08-cb-006",
+      "content": "Bảo vệ di sản văn hóa là việc làm góp phần giữ gìn bản sắc dân tộc.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Di sản văn hóa",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-08-cb-007",
+      "content": "Hành vi vi phạm nội quy trường học gọi là vi phạm ____.",
+      "options": [],
+      "answer": "Kỷ luật",
+      "question_type": "tu_luan",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Pháp luật",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-08-cb-008",
+      "content": "Di sản văn hóa bao gồm di sản văn hóa phi vật thể và di sản văn hóa ____.",
+      "options": [],
+      "answer": "Vật thể",
+      "question_type": "tu_luan",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Di sản văn hóa",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-09-cb-001",
+      "content": "Học tập là quyền và cũng là nghĩa vụ của mỗi công dân.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "co_ban",
+      "topic": "Quyền công dân",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-09-cb-002",
+      "content": "Công dân có quyền tự ý vào nhà người khác khi chưa được đồng ý.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "co_ban",
+      "topic": "Quyền công dân",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-09-cb-003",
+      "content": "Điền từ: \"Dân ta có một lòng nồng nàn yêu nước. Đó là một truyền thống ____ của ta.\"",
+      "options": [],
+      "answer": "Quý báu",
+      "question_type": "tu_luan",
+      "grade": 9,
+      "difficulty": "co_ban",
+      "topic": "Truyền thống",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-09-cb-004",
+      "content": "Cơ quan quyền lực cao nhất của nước Cộng hòa XHCN Việt Nam là ____.",
+      "options": [],
+      "answer": "Quốc hội",
+      "question_type": "tu_luan",
+      "grade": 9,
+      "difficulty": "co_ban",
+      "topic": "Nhà nước",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-09-cb-005",
+      "content": "Mọi người đều có quyền tự do ____ và tin tưởng hoặc không tin tưởng một tôn giáo nào đó.",
+      "options": [],
+      "answer": "Tín ngưỡng",
+      "question_type": "tu_luan",
+      "grade": 9,
+      "difficulty": "co_ban",
+      "topic": "Quyền công dân",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-09-cb-006",
+      "content": "Tuổi tối thiểu để kết hôn đối với Nam theo Luật Hôn nhân và Gia đình là bao nhiêu?",
+      "options": [],
+      "answer": "Từ đủ 20 tuổi",
+      "question_type": "tu_luan",
+      "grade": 9,
+      "difficulty": "co_ban",
+      "topic": "Pháp luật",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-10-tb-001",
+      "content": "Hình thức thực hiện pháp luật nào mà cá nhân, tổ chức làm những gì pháp luật cho phép?",
+      "options": [
+        "A. Sử dụng pháp luật",
+        "B. Thi hành pháp luật",
+        "C. Tuân thủ pháp luật",
+        "D. Áp dụng pháp luật"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Pháp luật",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-10-tb-002",
+      "content": "Vi phạm dân sự là hành vi vi phạm pháp luật, xâm phạm tới các quan hệ:",
+      "options": [
+        "A. Chính trị",
+        "B. Tài sản và nhân thân",
+        "C. Quản lý nhà nước",
+        "D. An ninh quốc gia"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Pháp luật",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-10-tb-003",
+      "content": "Người ở độ tuổi nào sau đây phải chịu trách nhiệm hình sự về mọi tội phạm?",
+      "options": [
+        "A. Từ đủ 14 tuổi",
+        "B. Từ đủ 15 tuổi",
+        "C. Từ đủ 16 tuổi",
+        "D. Từ đủ 18 tuổi"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Pháp luật hình sự",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-10-tb-004",
+      "content": "Quyền bầu cử của công dân Việt Nam bắt đầu từ khi công dân đủ:",
+      "options": [
+        "A. 16 tuổi",
+        "B. 18 tuổi",
+        "C. 20 tuổi",
+        "D. 21 tuổi"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Quyền công dân",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-10-tb-005",
+      "content": "Hình thức dân chủ thông qua các đại biểu và cơ quan đại diện gọi là:",
+      "options": [
+        "A. Dân chủ trực tiếp",
+        "B. Dân chủ gián tiếp",
+        "C. Dân chủ tập trung",
+        "D. Dân chủ tự do"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Nhà nước",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-10-tb-006",
+      "content": "Công dân có quyền khiếu nại khi nào?",
+      "options": [
+        "A. Khi thấy hành vi vi phạm pháp luật gây thiệt hại cho nhà nước",
+        "B. Khi lợi ích hợp pháp của mình bị xâm phạm bởi quyết định hành chính",
+        "C. Khi muốn tố cáo một tội phạm hình sự",
+        "D. Khi muốn tham gia quản lý nhà nước"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Quyền công dân",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-10-tb-007",
+      "content": "Hệ thống các quy tắc xử sự chung do Nhà nước ban hành và bảo đảm thực hiện là:",
+      "options": [
+        "A. Đạo đức",
+        "B. Pháp luật",
+        "C. Tập quán",
+        "D. Tín ngưỡng"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Pháp luật",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-10-tb-008",
+      "content": "Mọi người đều bình đẳng trước pháp luật.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Pháp luật",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-10-tb-009",
+      "content": "Người mất năng lực hành vi dân sự vẫn có quyền tự mình thực hiện các giao dịch mua bán nhà đất.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Pháp luật dân sự",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-10-tb-010",
+      "content": "Tôn giáo và tín ngưỡng là hai khái niệm hoàn toàn giống nhau.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Tôn giáo",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-10-tb-011",
+      "content": "Quyền bất khả xâm phạm về thân thể có nghĩa là không ai bị bắt nếu không có quyết định của Tòa án hoặc phê chuẩn của Viện kiểm sát (trừ trường hợp phạm tội quả tang).",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Quyền công dân",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-10-tb-012",
+      "content": "Pháp luật mang tính quyền lực, bắt buộc chung.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Pháp luật",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-10-tb-013",
+      "content": "Điền từ: \"Dân biết, dân bàn, dân làm, dân ____.\"",
+      "options": [],
+      "answer": "Kiểm tra",
+      "question_type": "tu_luan",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Nhà nước",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-10-tb-014",
+      "content": "Ngân sách nhà nước do cơ quan nào quyết định?",
+      "options": [],
+      "answer": "Quốc hội",
+      "question_type": "tu_luan",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Nhà nước",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-10-tb-015",
+      "content": "Công dân đủ ____ tuổi trở lên có quyền ứng cử vào Quốc hội.",
+      "options": [],
+      "answer": "21",
+      "question_type": "tu_luan",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Quyền công dân",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-10-tb-016",
+      "content": "Hành vi cố ý hoặc vô ý vi phạm các quy tắc quản lý nhà nước mà không phải là tội phạm hình sự gọi là vi phạm ____.",
+      "options": [],
+      "answer": "Hành chính",
+      "question_type": "tu_luan",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Pháp luật",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-10-tb-017",
+      "content": "Cơ quan nào thực hiện chức năng thực hành quyền công tố và kiểm sát hoạt động tư pháp?",
+      "options": [],
+      "answer": "Viện kiểm sát",
+      "question_type": "tu_luan",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Nhà nước",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-10-tb-018",
+      "content": "Bản Hiến pháp đang có hiệu lực tại Việt Nam là Hiến pháp năm ____.",
+      "options": [],
+      "answer": "2013",
+      "question_type": "tu_luan",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Pháp luật",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-10-tb-019",
+      "content": "Quyền được đảm bảo an toàn và bí mật thư tín, điện thoại là quyền ____ của cá nhân.",
+      "options": [],
+      "answer": "Riêng tư / Nhân thân",
+      "question_type": "tu_luan",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Quyền công dân",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-11-tb-001",
+      "content": "Sự ganh đua giữa các chủ thể kinh tế nhằm giành giật những điều kiện thuận lợi để thu lợi nhuận gọi là:",
+      "options": [
+        "A. Hợp tác",
+        "B. Cạnh tranh",
+        "C. Đấu tranh",
+        "D. Liên kết"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 11,
+      "difficulty": "trung_binh",
+      "topic": "Kinh tế",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-11-tb-002",
+      "content": "Quy luật kinh tế cơ bản của sản xuất và trao đổi hàng hóa là quy luật nào?",
+      "options": [
+        "A. Quy luật cung - cầu",
+        "B. Quy luật giá trị",
+        "C. Quy luật lưu thông tiền tệ",
+        "D. Quy luật cạnh tranh"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 11,
+      "difficulty": "trung_binh",
+      "topic": "Kinh tế",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-11-tb-003",
+      "content": "Khi giá cả hàng hóa tăng lên, các doanh nghiệp thường có xu hướng:",
+      "options": [
+        "A. Thu hẹp sản xuất",
+        "B. Mở rộng sản xuất",
+        "C. Giữ nguyên sản xuất",
+        "D. Ngừng sản xuất"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 11,
+      "difficulty": "trung_binh",
+      "topic": "Kinh tế",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-11-tb-004",
+      "content": "Đâu là hành vi cạnh tranh không lành mạnh?",
+      "options": [
+        "A. Cải tiến kỹ thuật",
+        "B. Giảm giá thành sản phẩm do tiết kiệm chi phí",
+        "C. Tung tin đồn thất thiệt về đối thủ",
+        "D. Nâng cao chất lượng phục vụ"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 11,
+      "difficulty": "trung_binh",
+      "topic": "Kinh tế",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-11-tb-005",
+      "content": "Thuế là khoản thu:",
+      "options": [
+        "A. Tự nguyện của người dân",
+        "B. Bắt buộc vào ngân sách nhà nước",
+        "C. Vay mượn của nước ngoài",
+        "D. Lợi nhuận của doanh nghiệp nhà nước"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 11,
+      "difficulty": "trung_binh",
+      "topic": "Kinh tế",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-11-tb-006",
+      "content": "Hợp đồng lao động là sự thỏa thuận giữa:",
+      "options": [
+        "A. Người lao động và người môi giới",
+        "B. Người lao động và người sử dụng lao động",
+        "C. Người sử dụng lao động và cơ quan nhà nước",
+        "D. Tập thể người lao động và chính quyền"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 11,
+      "difficulty": "trung_binh",
+      "topic": "Luật lao động",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-11-tb-007",
+      "content": "Nơi diễn ra các hoạt động mua bán hàng hóa, dịch vụ gọi là:",
+      "options": [
+        "A. Hội chợ",
+        "B. Thị trường",
+        "C. Cửa hàng",
+        "D. Ngân hàng"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 11,
+      "difficulty": "trung_binh",
+      "topic": "Kinh tế",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-11-tb-008",
+      "content": "Tiền tệ thực hiện chức năng nào khi dùng để trả nợ, nộp thuế?",
+      "options": [
+        "A. Phương tiện lưu thông",
+        "B. Phương tiện thanh toán",
+        "C. Thước đo giá trị",
+        "D. Phương tiện cất trữ"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 11,
+      "difficulty": "trung_binh",
+      "topic": "Kinh tế",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-11-tb-009",
+      "content": "Lạm phát là tình trạng mức giá chung của nền kinh tế tăng lên liên tục trong một thời gian nhất định.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 11,
+      "difficulty": "trung_binh",
+      "topic": "Kinh tế vĩ mô",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-11-tb-010",
+      "content": "Công dân có quyền tự do kinh doanh bất cứ ngành nghề nào mà mình thích, kể cả nghề cấm.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 11,
+      "difficulty": "trung_binh",
+      "topic": "Kinh tế",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-11-tb-011",
+      "content": "Cung là số lượng hàng hóa mà người mua sẵn sàng mua tại các mức giá khác nhau.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 11,
+      "difficulty": "trung_binh",
+      "topic": "Kinh tế",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-11-tb-012",
+      "content": "Thất nghiệp là tình trạng người lao động muốn có việc làm nhưng chưa tìm được việc làm.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 11,
+      "difficulty": "trung_binh",
+      "topic": "Kinh tế vĩ mô",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-11-tb-013",
+      "content": "Kinh tế thị trường không cần sự quản lý của Nhà nước.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 11,
+      "difficulty": "trung_binh",
+      "topic": "Kinh tế",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-11-tb-014",
+      "content": "Loại thất nghiệp xảy ra khi có sự mất cân đối về cung cầu lao động giữa các ngành gọi là thất nghiệp ____.",
+      "options": [],
+      "answer": "Cơ cấu",
+      "question_type": "tu_luan",
+      "grade": 11,
+      "difficulty": "trung_binh",
+      "topic": "Kinh tế vĩ mô",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-11-tb-015",
+      "content": "Tên gọi của hình thức vay mượn tiền tệ có hoàn trả cả gốc và lãi sau một thời gian gọi là ____.",
+      "options": [],
+      "answer": "Tín dụng",
+      "question_type": "tu_luan",
+      "grade": 11,
+      "difficulty": "trung_binh",
+      "topic": "Kinh tế",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-11-tb-016",
+      "content": "Giá trị của hàng hóa được biểu hiện bằng một lượng tiền nhất định gọi là ____.",
+      "options": [],
+      "answer": "Giá cả",
+      "question_type": "tu_luan",
+      "grade": 11,
+      "difficulty": "trung_binh",
+      "topic": "Kinh tế",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-11-tb-017",
+      "content": "Điền từ còn thiếu: \"Sản xuất hàng hóa là kiểu tổ chức kinh tế mà sản phẩm làm ra để ____.\"",
+      "options": [],
+      "answer": "Trao đổi / Bán",
+      "question_type": "tu_luan",
+      "grade": 11,
+      "difficulty": "trung_binh",
+      "topic": "Kinh tế",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-11-tb-018",
+      "content": "Khi cung lớn hơn cầu thì giá cả thường có xu hướng ____.",
+      "options": [],
+      "answer": "Giảm",
+      "question_type": "tu_luan",
+      "grade": 11,
+      "difficulty": "trung_binh",
+      "topic": "Kinh tế",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-11-tb-019",
+      "content": "Thuế thu nhập cá nhân thuộc loại thuế ____ thu.",
+      "options": [],
+      "answer": "Trực",
+      "question_type": "tu_luan",
+      "grade": 11,
+      "difficulty": "trung_binh",
+      "topic": "Kinh tế",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-11-tb-020",
+      "content": "Người lao động tối thiểu phải đủ bao nhiêu tuổi?",
+      "options": [],
+      "answer": "15",
+      "question_type": "tu_luan",
+      "grade": 11,
+      "difficulty": "trung_binh",
+      "topic": "Luật lao động",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-11-tb-021",
+      "content": "Tiền lãi mà người cho vay nhận được gọi là ____.",
+      "options": [],
+      "answer": "Lãi suất",
+      "question_type": "tu_luan",
+      "grade": 11,
+      "difficulty": "trung_binh",
+      "topic": "Kinh tế",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-12-nc-001",
+      "content": "Nội dung nào sau đây thể hiện quyền bình đẳng giữa các dân tộc về chính trị?",
+      "options": [
+        "A. Các dân tộc đều có quyền dùng tiếng nói, chữ viết của mình",
+        "B. Các dân tộc đều có đại biểu trong hệ thống cơ quan nhà nước",
+        "C. Các dân tộc đều được nhà nước hỗ trợ phát triển kinh tế",
+        "D. Các dân tộc đều có quyền hưởng các chế độ bảo hiểm xã hội"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Bình đẳng dân tộc",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-12-nc-002",
+      "content": "Anh A lái xe máy vượt đèn đỏ và gây tai nạn khiến anh B bị thương nhẹ, hỏng xe. Anh A phải chịu những loại trách nhiệm pháp lý nào?",
+      "options": [
+        "A. Hình sự và kỷ luật",
+        "B. Hành chính và dân sự",
+        "C. Hành chính và hình sự",
+        "D. Dân sự và kỷ luật"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Pháp luật",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-12-nc-003",
+      "content": "Việc nhà nước áp dụng các biện pháp ưu tiên cho học sinh vùng sâu, vùng xa trong tuyển sinh đại học thể hiện:",
+      "options": [
+        "A. Sự bất bình đẳng",
+        "B. Quyền bình đẳng về cơ hội học tập",
+        "C. Sự thiên vị",
+        "D. Quyền tự do tuyệt đối"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Bình đẳng giáo dục",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-12-nc-004",
+      "content": "Cơ quan nào có thẩm quyền ban hành Luật và Nghị quyết?",
+      "options": [
+        "A. Chính phủ",
+        "B. Chủ tịch nước",
+        "C. Quốc hội",
+        "D. Tòa án nhân dân tối cao"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Nhà nước",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-12-nc-005",
+      "content": "Trong các hình thức thực hiện pháp luật, hình thức nào có sự tham gia của cơ quan nhà nước có thẩm quyền?",
+      "options": [
+        "A. Tuân thủ pháp luật",
+        "B. Thi hành pháp luật",
+        "C. Sử dụng pháp luật",
+        "D. Áp dụng pháp luật"
+      ],
+      "answer": "D",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Pháp luật",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-12-nc-006",
+      "content": "Chỉ số CPI thường được dùng để đo lường:",
+      "options": [
+        "A. Tăng trưởng kinh tế",
+        "B. Lạm phát",
+        "C. Thất nghiệp",
+        "D. Thu nhập bình quân"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Kinh tế vĩ mô",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-12-nc-007",
+      "content": "Nội dung nào không thuộc quyền tự do ngôn luận?",
+      "options": [
+        "A. Phát biểu tại các cuộc họp cơ sở",
+        "B. Viết bài gửi đăng báo",
+        "C. Xuyên tạc sự thật về lãnh đạo trên mạng xã hội",
+        "D. Đóng góp ý kiến vào dự thảo luật"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Quyền công dân",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-12-nc-008",
+      "content": "Sự thỏa thuận giữa các bên về việc xác lập, thay đổi hoặc chấm dứt quyền, nghĩa vụ dân sự gọi là:",
+      "options": [
+        "A. Nghị định",
+        "B. Giao dịch dân sự (Hợp đồng)",
+        "C. Di chúc",
+        "D. Quyết định"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Pháp luật dân sự",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-12-nc-009",
+      "content": "Việc đưa ra các quy định về bảo vệ môi trường trong sản xuất kinh doanh thể hiện vai trò nào của pháp luật?",
+      "options": [
+        "A. Công cụ quản lý xã hội của nhà nước",
+        "B. Phương tiện bảo vệ quyền lợi cá nhân",
+        "C. Công cụ kiềm chế kinh tế",
+        "D. Phương tiện giải quyết tranh chấp"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Vai trò pháp luật",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-12-nc-010",
+      "content": "Một quốc gia có GDP tăng trưởng nhưng khoảng cách giàu nghèo quá lớn sẽ dẫn đến hệ lụy gì?",
+      "options": [
+        "A. Ổn định chính trị",
+        "B. Bất ổn xã hội",
+        "C. Tăng cường đoàn kết",
+        "D. Giảm lạm phát"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Kinh tế xã hội",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-12-nc-011",
+      "content": "Người từ đủ 14 tuổi đến dưới 16 tuổi chỉ phải chịu trách nhiệm hình sự về tội phạm rất nghiêm trọng hoặc đặc biệt nghiêm trọng.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Pháp luật hình sự",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-12-nc-012",
+      "content": "Doanh nghiệp có quyền sa thải người lao động nữ vì lý do kết hôn.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Luật lao động",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-12-nc-013",
+      "content": "Trong trường hợp khẩn cấp, bất kỳ ai cũng có quyền khám xét chỗ ở của người khác mà không cần lệnh.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Quyền công dân",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-12-nc-014",
+      "content": "Việt Nam là một quốc gia đa dân tộc, các dân tộc đều bình đẳng về quyền và nghĩa vụ.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Bình đẳng dân tộc",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-12-nc-015",
+      "content": "Tăng trưởng kinh tế luôn đi đôi với phát triển bền vững.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Kinh tế vĩ mô",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-12-nc-016",
+      "content": "Mọi tranh chấp trong kinh doanh đều phải giải quyết tại Tòa án.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Pháp luật kinh doanh",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-12-nc-017",
+      "content": "Công dân có quyền học bằng nhiều hình thức và học suốt đời.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Quyền công dân",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-12-nc-018",
+      "content": "Hiến pháp là văn bản pháp luật có giá trị pháp lý cao nhất, mọi văn bản khác phải phù hợp với Hiến pháp.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Pháp luật",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-12-nc-019",
+      "content": "Nhà nước không can thiệp vào thị trường trong bất cứ trường hợp nào.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Kinh tế vĩ mô",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-12-nc-020",
+      "content": "Bầu cử đại biểu Quốc hội là quyền và nghĩa vụ của công dân.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Quyền công dân",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-12-nc-021",
+      "content": "Hệ thống các quy phạm pháp luật có mối liên hệ mật thiết với nhau, được chia thành các ngành luật và chế định luật gọi là ____ pháp luật.",
+      "options": [],
+      "answer": "Hệ thống",
+      "question_type": "tu_luan",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Pháp luật",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-12-nc-022",
+      "content": "Điền cụm từ: \"Người bị bắt, tạm giữ, tạm giam, khởi tố, điều tra, truy tố, xét xử có quyền tự ____ hoặc nhờ người khác bào chữa.\"",
+      "options": [],
+      "answer": "Bào chữa",
+      "question_type": "tu_luan",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Quyền công dân",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-12-nc-023",
+      "content": "Loại thuế tính trên giá trị tăng thêm của hàng hóa, dịch vụ phát sinh trong quá trình sản xuất đến tiêu dùng là thuế ____.",
+      "options": [],
+      "answer": "VAT / Giá trị gia tăng",
+      "question_type": "tu_luan",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Kinh tế",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-12-nc-024",
+      "content": "Thời hạn tạm giữ người theo thủ tục hành chính thông thường không quá bao nhiêu giờ?",
+      "options": [],
+      "answer": "12 giờ / tối đa 24 giờ",
+      "question_type": "tu_luan",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Pháp luật",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-12-nc-025",
+      "content": "Văn bản quy phạm pháp luật do Hội đồng nhân dân ban hành gọi là ____.",
+      "options": [],
+      "answer": "Nghị quyết",
+      "question_type": "tu_luan",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Pháp luật",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-12-nc-026",
+      "content": "Sự phát triển kinh tế dựa trên việc nâng cao chất lượng nhân lực, ứng dụng khoa học công nghệ gọi là phát triển theo chiều ____.",
+      "options": [],
+      "answer": "Sâu",
+      "question_type": "tu_luan",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Kinh tế",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-12-nc-027",
+      "content": "Công dân có quyền tự do lựa chọn nghề nghiệp, nơi làm việc theo khả năng gọi là quyền ____.",
+      "options": [],
+      "answer": "Lao động",
+      "question_type": "tu_luan",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Quyền công dân",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-12-nc-028",
+      "content": "Năng lực của một người có thể nhận thức và điều khiển hành vi của mình, chịu trách nhiệm về hành vi đó gọi là năng lực ____.",
+      "options": [],
+      "answer": "Trách nhiệm pháp lý",
+      "question_type": "tu_luan",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Pháp luật",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-12-nc-029",
+      "content": "Người đứng đầu Nhà nước, thay mặt nước Cộng hòa XHCN Việt Nam về đối nội và đối ngoại là ____.",
+      "options": [],
+      "answer": "Chủ tịch nước",
+      "question_type": "tu_luan",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Nhà nước",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "gdcd-12-nc-030",
+      "content": "Khi một người thực hiện hành vi nguy hiểm cho xã hội được quy định trong Bộ luật Hình sự thì bị gọi là ____.",
+      "options": [],
+      "answer": "Tội phạm",
+      "question_type": "tu_luan",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Pháp luật hình sự",
+      "solution": null,
+      "comment": null
+    }
+  ]
+}

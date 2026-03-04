@@ -1,0 +1,317 @@
+{
+  "subject": "Công nghệ",
+  "total": 23,
+  "questions": [
+    {
+      "id": "congnghe-06-cb-001",
+      "content": "Kể tên 3 loại vật liệu thường dùng trong gia đình?",
+      "options": [],
+      "answer": "Gỗ, kim loại (sắt, nhôm), nhựa (polymer)",
+      "question_type": "tu_luan",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Vật liệu",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "congnghe-06-cb-002",
+      "content": "Dụng cụ nào dùng để đo chiều dài trong kỹ thuật?",
+      "options": [
+        "A. Thước kẻ, thước cuộn",
+        "B. Cân",
+        "C. Đồng hồ",
+        "D. Nhiệt kế"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Đo lường kỹ thuật",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "congnghe-06-tb-001",
+      "content": "Nêu các bước cơ bản để trồng rau?",
+      "options": [],
+      "answer": "1. Chọn giống. 2. Làm đất (xới, bón lót). 3. Gieo hạt/trồng cây con. 4. Chăm sóc (tưới, bón, làm cỏ). 5. Thu hoạch",
+      "question_type": "tu_luan",
+      "grade": 6,
+      "difficulty": "trung_binh",
+      "topic": "Trồng trọt",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "congnghe-07-cb-001",
+      "content": "Cây lương thực chính ở Việt Nam là gì?",
+      "options": [
+        "A. Lúa",
+        "B. Ngô",
+        "C. Sắn",
+        "D. Khoai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 7,
+      "difficulty": "co_ban",
+      "topic": "Trồng trọt",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "congnghe-07-tb-001",
+      "content": "Nêu tác hại của việc lạm dụng thuốc trừ sâu?",
+      "options": [],
+      "answer": "Ô nhiễm đất, nước; tồn dư hóa chất trong thực phẩm gây bệnh; tiêu diệt côn trùng có ích; ảnh hưởng sức khỏe người phun",
+      "question_type": "tu_luan",
+      "grade": 7,
+      "difficulty": "trung_binh",
+      "topic": "Trồng trọt",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "congnghe-07-tb-002",
+      "content": "Vaccine cho vật nuôi có tác dụng gì?",
+      "options": [
+        "A. Phòng bệnh bằng kích thích miễn dịch",
+        "B. Chữa bệnh",
+        "C. Tăng trọng",
+        "D. Làm đẹp"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 7,
+      "difficulty": "trung_binh",
+      "topic": "Chăn nuôi",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "congnghe-07-nc-001",
+      "content": "Thiết kế quy trình nuôi gà thả vườn an toàn sinh học?",
+      "options": [],
+      "answer": "Chọn giống khỏe → tiêm phòng đầy đủ → chuồng trại thoáng, sạch → thức ăn tự nhiên kết hợp cám → không dùng kháng sinh tăng trưởng → cách ly khi có dịch",
+      "question_type": "tu_luan",
+      "grade": 7,
+      "difficulty": "nang_cao",
+      "topic": "Chăn nuôi",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "congnghe-08-cb-001",
+      "content": "Bản vẽ kỹ thuật dùng để làm gì?",
+      "options": [
+        "A. Diễn tả hình dạng, kích thước sản phẩm",
+        "B. Trang trí",
+        "C. Viết văn",
+        "D. Vẽ tranh"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Vẽ kỹ thuật",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "congnghe-08-tb-001",
+      "content": "Hình chiếu đứng, hình chiếu bằng, hình chiếu cạnh là gì?",
+      "options": [],
+      "answer": "Là các hình biểu diễn vật thể nhìn từ phía trước (đứng), từ trên xuống (bằng), và từ bên cạnh (cạnh) trên bản vẽ",
+      "question_type": "tu_luan",
+      "grade": 8,
+      "difficulty": "trung_binh",
+      "topic": "Vẽ kỹ thuật",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "congnghe-08-tb-002",
+      "content": "Chi tiết máy là gì? Cho ví dụ.",
+      "options": [],
+      "answer": "Chi tiết máy là phần tử có cấu tạo hoàn chỉnh, không thể tháo rời hơn. VD: bu-lông, đai ốc, trục, bánh răng",
+      "question_type": "tu_luan",
+      "grade": 8,
+      "difficulty": "trung_binh",
+      "topic": "Cơ khí",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "congnghe-08-nc-001",
+      "content": "So sánh mối ghép tháo được và mối ghép không tháo được?",
+      "options": [],
+      "answer": "Tháo được: bu-lông, đai ốc, chốt → có thể tháo lắp nhiều lần. Không tháo được: hàn, tán rivê → không tháo rời được mà không phá hỏng",
+      "question_type": "tu_luan",
+      "grade": 8,
+      "difficulty": "nang_cao",
+      "topic": "Cơ khí",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "congnghe-09-cb-001",
+      "content": "Dòng điện xoay chiều khác dòng một chiều ở điểm nào?",
+      "options": [
+        "A. Chiều dòng điện thay đổi tuần hoàn",
+        "B. Chỉ chạy một chiều",
+        "C. Không có điện áp",
+        "D. Không tạo nhiệt"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "co_ban",
+      "topic": "Kỹ thuật điện",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "congnghe-09-tb-001",
+      "content": "Nguyên lý hoạt động của động cơ điện?",
+      "options": [],
+      "answer": "Dựa trên tác dụng của từ trường lên dây dẫn mang dòng điện: khung dây trong từ trường chịu lực từ → quay → biến điện năng thành cơ năng",
+      "question_type": "tu_luan",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Kỹ thuật điện",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "congnghe-09-tb-002",
+      "content": "Tại sao dùng cầu dao/aptomat bảo vệ mạch điện?",
+      "options": [],
+      "answer": "Khi dòng điện quá tải hoặc ngắn mạch, aptomat tự động ngắt mạch → bảo vệ thiết bị và phòng cháy",
+      "question_type": "tu_luan",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Kỹ thuật điện",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "congnghe-09-nc-001",
+      "content": "Thiết kế mạch điện gồm: nguồn 12V, công tắc, 2 bóng đèn mắc song song. Vẽ sơ đồ và giải thích.",
+      "options": [],
+      "answer": "Nguồn 12V → công tắc → phân nhánh song song 2 đèn → nối lại về nguồn. Ưu: 1 đèn hỏng đèn kia vẫn sáng, mỗi đèn chịu 12V",
+      "question_type": "tu_luan",
+      "grade": 9,
+      "difficulty": "nang_cao",
+      "topic": "Kỹ thuật điện",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "congnghe-10-cb-001",
+      "content": "CAD là viết tắt của gì?",
+      "options": [
+        "A. Computer-Aided Design",
+        "B. Computer Art Design",
+        "C. Central Auto Design",
+        "D. Creative Art Drawing"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "co_ban",
+      "topic": "Vẽ kỹ thuật",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "congnghe-10-tb-001",
+      "content": "So sánh vẽ kỹ thuật bằng tay và bằng máy tính (CAD)?",
+      "options": [],
+      "answer": "Tay: linh hoạt, không cần thiết bị. CAD: chính xác hơn, dễ chỉnh sửa, lưu trữ, chia sẻ, tạo mô hình 3D",
+      "question_type": "tu_luan",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Vẽ kỹ thuật",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "congnghe-10-nc-001",
+      "content": "Nêu quy trình thiết kế một sản phẩm cơ khí đơn giản?",
+      "options": [],
+      "answer": "1. Xác định yêu cầu. 2. Tìm hiểu, nghiên cứu. 3. Thiết kế bản vẽ (phác thảo → bản vẽ kỹ thuật). 4. Chế tạo mẫu thử. 5. Kiểm tra, đánh giá. 6. Hoàn thiện",
+      "question_type": "tu_luan",
+      "grade": 10,
+      "difficulty": "nang_cao",
+      "topic": "Cơ khí",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "congnghe-11-cb-001",
+      "content": "Transistor có chức năng gì trong mạch điện tử?",
+      "options": [
+        "A. Khuếch đại và chuyển mạch tín hiệu",
+        "B. Lưu trữ dữ liệu",
+        "C. Đo nhiệt độ",
+        "D. Tạo ánh sáng"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 11,
+      "difficulty": "co_ban",
+      "topic": "Điện tử",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "congnghe-11-tb-001",
+      "content": "Phân biệt tín hiệu analog và digital?",
+      "options": [],
+      "answer": "Analog: tín hiệu liên tục, biến đổi mượt. Digital: tín hiệu rời rạc (0 và 1), chính xác, ít nhiễu, dễ xử lý bằng máy tính",
+      "question_type": "tu_luan",
+      "grade": 11,
+      "difficulty": "trung_binh",
+      "topic": "Điện tử",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "congnghe-11-nc-001",
+      "content": "Arduino là gì? Nêu ứng dụng?",
+      "options": [],
+      "answer": "Arduino: board vi điều khiển mã nguồn mở, lập trình bằng C/C++. Ứng dụng: robot, nhà thông minh, cảm biến IoT, đèn LED tự động",
+      "question_type": "tu_luan",
+      "grade": 11,
+      "difficulty": "nang_cao",
+      "topic": "Điện tử",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "congnghe-12-tb-001",
+      "content": "Nêu các nguồn năng lượng tái tạo và ưu điểm?",
+      "options": [],
+      "answer": "Mặt trời, gió, nước, sinh khối, địa nhiệt. Ưu: sạch, không cạn kiệt, giảm phát thải CO₂, giảm phụ thuộc nhiên liệu hóa thạch",
+      "question_type": "tu_luan",
+      "grade": 12,
+      "difficulty": "trung_binh",
+      "topic": "Năng lượng",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "congnghe-12-nc-001",
+      "content": "Đề xuất mô hình nhà thông minh (smart home) tiết kiệm năng lượng?",
+      "options": [],
+      "answer": "Pin mặt trời + bình ắc quy, đèn LED cảm biến chuyển động, điều hòa tự điều chỉnh theo nhiệt độ, hệ thống tưới vườn tự động, app điều khiển từ xa",
+      "question_type": "tu_luan",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Công nghệ hiện đại",
+      "solution": null,
+      "comment": null
+    }
+  ]
+}

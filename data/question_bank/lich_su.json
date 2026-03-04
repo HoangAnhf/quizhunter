@@ -1,0 +1,1471 @@
+{
+  "subject": "Lịch sử",
+  "total": 100,
+  "questions": [
+    {
+      "id": "lichsu-06-cb-001",
+      "content": "Kim tự tháp là thành tựu kiến trúc vĩ đại của quốc gia cổ đại nào?",
+      "options": [
+        "A. Hy Lạp",
+        "B. La Mã",
+        "C. Ai Cập",
+        "D. Ấn Độ"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Lịch sử thế giới cổ đại",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-06-cb-002",
+      "content": "Người tối cổ đã biết cách làm ra thứ gì để sưởi ấm và nướng thức ăn?",
+      "options": [
+        "A. Lửa",
+        "B. Quần áo",
+        "C. Nhà tầng",
+        "D. Đồ gốm"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Lịch sử thế giới cổ đại",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-06-cb-003",
+      "content": "Hai Bà Trưng đã phất cờ khởi nghĩa chống lại quân xâm lược nào?",
+      "options": [
+        "A. Quân Nam Hán",
+        "B. Quân Đông Hán",
+        "C. Quân Mông Cổ",
+        "D. Quân Minh"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Lịch sử Việt Nam",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-06-cb-004",
+      "content": "Ai là người đã cắm cọc trên sông Bạch Đằng để đánh tan quân Nam Hán năm 938?",
+      "options": [
+        "A. Đinh Bộ Lĩnh",
+        "B. Lê Hoàn",
+        "C. Ngô Quyền",
+        "D. Lý Thường Kiệt"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Lịch sử Việt Nam",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-06-cb-005",
+      "content": "Thế giới hiện nay có bao nhiêu châu lục?",
+      "options": [
+        "A. 5",
+        "B. 6",
+        "C. 7",
+        "D. 8"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Địa lý lịch sử",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-06-cb-006",
+      "content": "Văn Lang là nhà nước đầu tiên trong lịch sử Việt Nam.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Lịch sử Việt Nam cổ đại",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-06-cb-007",
+      "content": "Vạn Lý Trường Thành là công trình của người Nhật Bản.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Lịch sử thế giới",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-06-cb-008",
+      "content": "Nước ta từng bị phong kiến phương Bắc đô hộ hơn 1000 năm.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Lịch sử Việt Nam",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-06-cb-009",
+      "content": "Thủ đô của nước ta hiện nay là thành phố nào?",
+      "options": [],
+      "answer": "Hà Nội",
+      "question_type": "tu_luan",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Lịch sử Việt Nam",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-06-cb-010",
+      "content": "Thành Cổ Loa là kinh đô của nhà nước nào?",
+      "options": [],
+      "answer": "Âu Lạc",
+      "question_type": "tu_luan",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Lịch sử Việt Nam cổ đại",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-06-tb-001",
+      "content": "Thời đại đồ đá mới bắt đầu khi con người biết ____ đá.",
+      "options": [],
+      "answer": "Mài",
+      "question_type": "tu_luan",
+      "grade": 6,
+      "difficulty": "trung_binh",
+      "topic": "Lịch sử thế giới cổ đại",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-06-tb-002",
+      "content": "Hệ thống chữ cái A, B, C chúng ta dùng hiện nay có nguồn gốc từ đâu?",
+      "options": [],
+      "answer": "Hy Lạp và La Mã / Phương Tây",
+      "question_type": "tu_luan",
+      "grade": 6,
+      "difficulty": "trung_binh",
+      "topic": "Lịch sử thế giới",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-07-cb-001",
+      "content": "Vị vua nào đã ban \"Chiếu dời đô\" từ Hoa Lư về Thăng Long?",
+      "options": [
+        "A. Lý Thái Tổ",
+        "B. Lý Nhân Tông",
+        "C. Trần Thái Tông",
+        "D. Lê Lợi"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 7,
+      "difficulty": "co_ban",
+      "topic": "Lịch sử Việt Nam",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-07-cb-002",
+      "content": "Người anh hùng dân tộc nào gắn liền với chiến thắng giặc Thanh vào mùa xuân năm Kỷ Dậu (1789)?",
+      "options": [
+        "A. Nguyễn Huệ",
+        "B. Lê Lợi",
+        "C. Nguyễn Ánh",
+        "D. Hàm Nghi"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 7,
+      "difficulty": "co_ban",
+      "topic": "Lịch sử Việt Nam",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-07-cb-003",
+      "content": "Đinh Bộ Lĩnh là người có công dẹp loạn 12 sứ quân.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 7,
+      "difficulty": "co_ban",
+      "topic": "Lịch sử Việt Nam",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-07-cb-004",
+      "content": "Trạng lường Lương Thế Vinh là một nhà toán học nổi tiếng thời phong kiến.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 7,
+      "difficulty": "co_ban",
+      "topic": "Lịch sử Việt Nam",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-07-cb-005",
+      "content": "Nhà Trần đã 3 lần chiến thắng quân xâm lược Nguyên - Mông.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 7,
+      "difficulty": "co_ban",
+      "topic": "Lịch sử Việt Nam",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-07-cb-006",
+      "content": "Quốc hiệu nước ta dưới thời vua Đinh Tiên Hoàng là gì?",
+      "options": [],
+      "answer": "Đại Cồ Việt",
+      "question_type": "tu_luan",
+      "grade": 7,
+      "difficulty": "co_ban",
+      "topic": "Lịch sử Việt Nam",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-07-cb-007",
+      "content": "Năm 1010, kinh đô nước ta được dời về đâu?",
+      "options": [],
+      "answer": "Thăng Long",
+      "question_type": "tu_luan",
+      "grade": 7,
+      "difficulty": "co_ban",
+      "topic": "Lịch sử Việt Nam",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-07-cb-008",
+      "content": "Ai là người lãnh đạo cuộc khởi nghĩa Lam Sơn?",
+      "options": [],
+      "answer": "Lê Lợi",
+      "question_type": "tu_luan",
+      "grade": 7,
+      "difficulty": "co_ban",
+      "topic": "Lịch sử Việt Nam",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-07-tb-001",
+      "content": "Ai là tác giả của bài thơ thần \"Nam quốc sơn hà\"?",
+      "options": [
+        "A. Lý Thái Tổ",
+        "B. Lý Thường Kiệt",
+        "C. Trần Hưng Đạo",
+        "D. Nguyễn Trãi"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 7,
+      "difficulty": "trung_binh",
+      "topic": "Lịch sử Việt Nam",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-07-tb-002",
+      "content": "\"Bình Ngô Đại Cáo\" được viết sau khi đánh thắng quân xâm lược nào?",
+      "options": [
+        "A. Quân Tống",
+        "B. Quân Mông - Nguyên",
+        "C. Quân Minh",
+        "D. Quân Thanh"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 7,
+      "difficulty": "trung_binh",
+      "topic": "Lịch sử Việt Nam",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-07-tb-003",
+      "content": "Cuộc khởi nghĩa của nông dân Tây Sơn bắt đầu tại tỉnh nào hiện nay?",
+      "options": [],
+      "answer": "Bình Định",
+      "question_type": "tu_luan",
+      "grade": 7,
+      "difficulty": "trung_binh",
+      "topic": "Lịch sử Việt Nam",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-08-cb-001",
+      "content": "Điền tên vị vua cuối cùng của chế độ phong kiến Việt Nam:",
+      "options": [],
+      "answer": "Bảo Đại",
+      "question_type": "tu_luan",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Lịch sử Việt Nam",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-08-cb-002",
+      "content": "Cuộc phát kiến địa lý của Crít-tốp Cô-lôm-bô đã tìm ra châu lục nào?",
+      "options": [],
+      "answer": "Châu Mỹ",
+      "question_type": "tu_luan",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Lịch sử thế giới",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-08-tb-001",
+      "content": "Thực dân Pháp bắt đầu nổ súng xâm lược Việt Nam tại đâu?",
+      "options": [
+        "A. Hà Nội",
+        "B. Đà Nẵng",
+        "C. Gia Định",
+        "D. Huế"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "trung_binh",
+      "topic": "Lịch sử Việt Nam cận đại",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-08-tb-002",
+      "content": "Phong trào Đông Du do ai lãnh đạo?",
+      "options": [
+        "A. Phan Châu Trinh",
+        "B. Phan Bội Châu",
+        "C. Huỳnh Thúc Kháng",
+        "D. Nguyễn Ái Quốc"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "trung_binh",
+      "topic": "Lịch sử Việt Nam cận đại",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-08-tb-003",
+      "content": "Phan Châu Trinh chủ trương cứu nước bằng con đường bạo động vũ trang.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "trung_binh",
+      "topic": "Lịch sử Việt Nam cận đại",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-08-tb-004",
+      "content": "Phong trào Cần vương là phong trào giúp vua cứu nước cuối thế kỷ XIX.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "trung_binh",
+      "topic": "Lịch sử Việt Nam cận đại",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-08-tb-005",
+      "content": "Sau khi lên ngôi, vua Gia Long chọn nơi nào làm kinh đô?",
+      "options": [],
+      "answer": "Huế / Phú Xuân",
+      "question_type": "tu_luan",
+      "grade": 8,
+      "difficulty": "trung_binh",
+      "topic": "Lịch sử Việt Nam",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-09-cb-001",
+      "content": "Ngày Quốc khánh của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam là ngày nào?",
+      "options": [
+        "A. 30/4",
+        "B. 1/5",
+        "C. 2/9",
+        "D. 19/5"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "co_ban",
+      "topic": "Lịch sử Việt Nam hiện đại",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-09-cb-002",
+      "content": "Bác Hồ đọc bản Tuyên ngôn Độc lập tại địa điểm nào?",
+      "options": [
+        "A. Nhà hát Lớn",
+        "B. Quảng trường Ba Đình",
+        "C. Dinh Độc Lập",
+        "D. Cố đô Huế"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "co_ban",
+      "topic": "Lịch sử Việt Nam hiện đại",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-09-cb-003",
+      "content": "Tên gọi cũ của Thành phố Hồ Chí Minh trước năm 1976 là gì?",
+      "options": [
+        "A. Gia Định",
+        "B. Sài Gòn",
+        "C. Chợ Lớn",
+        "D. Huế"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "co_ban",
+      "topic": "Lịch sử Việt Nam",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-09-cb-004",
+      "content": "Bác Hồ sinh ra tại tỉnh Nghệ An.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "co_ban",
+      "topic": "Lịch sử Việt Nam",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-09-cb-005",
+      "content": "Chiến thắng Điện Biên Phủ kết thúc vào năm 1945.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "co_ban",
+      "topic": "Lịch sử Việt Nam hiện đại",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-09-cb-006",
+      "content": "Cách mạng tháng Tám năm 1945 nổ ra khi thực dân Pháp còn rất mạnh.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "co_ban",
+      "topic": "Lịch sử Việt Nam hiện đại",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-09-cb-007",
+      "content": "Hiến pháp là luật cơ bản, có giá trị cao nhất của nước ta.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "co_ban",
+      "topic": "Pháp luật",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-09-cb-008",
+      "content": "Chiến dịch mang tên Bác Hồ nhằm giải phóng miền Nam năm 1975 là chiến dịch ____.",
+      "options": [],
+      "answer": "Hồ Chí Minh",
+      "question_type": "tu_luan",
+      "grade": 9,
+      "difficulty": "co_ban",
+      "topic": "Lịch sử Việt Nam hiện đại",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-09-cb-009",
+      "content": "Tên gọi của tổ chức quốc tế lớn nhất thế giới hiện nay là gì?",
+      "options": [],
+      "answer": "Liên Hợp Quốc",
+      "question_type": "tu_luan",
+      "grade": 9,
+      "difficulty": "co_ban",
+      "topic": "Lịch sử thế giới",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-09-cb-010",
+      "content": "Tên thật của Bác Hồ là gì?",
+      "options": [],
+      "answer": "Nguyễn Sinh Cung",
+      "question_type": "tu_luan",
+      "grade": 9,
+      "difficulty": "co_ban",
+      "topic": "Lịch sử Việt Nam",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-09-tb-001",
+      "content": "Sự kiện nào đánh dấu Cách mạng tháng Tám năm 1945 giành thắng lợi hoàn toàn?",
+      "options": [
+        "A. Khởi nghĩa ở Hà Nội",
+        "B. Khởi nghĩa ở Huế",
+        "C. Khởi nghĩa ở Sài Gòn",
+        "D. Vua Bảo Đại thoái vị"
+      ],
+      "answer": "D",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Lịch sử Việt Nam hiện đại",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-09-tb-002",
+      "content": "Đảng Cộng sản Việt Nam ra đời là sự hợp nhất của mấy tổ chức cộng sản?",
+      "options": [
+        "A. 2",
+        "B. 3",
+        "C. 4",
+        "D. 5"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Lịch sử Việt Nam hiện đại",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-09-tb-003",
+      "content": "Bản \"Hiến pháp\" đầu tiên của nước Việt Nam Dân chủ Cộng hòa được ban hành năm nào?",
+      "options": [
+        "A. 1945",
+        "B. 1946",
+        "C. 1954",
+        "D. 1959"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Lịch sử Việt Nam hiện đại",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-09-tb-004",
+      "content": "Chiến dịch Điện Biên Phủ diễn ra trong bao nhiêu ngày đêm?",
+      "options": [
+        "A. 30 ngày đêm",
+        "B. 45 ngày đêm",
+        "C. 55 ngày đêm",
+        "D. 56 ngày đêm"
+      ],
+      "answer": "D",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Lịch sử Việt Nam hiện đại",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-09-tb-005",
+      "content": "Hiệp định Giơ-ne-vơ năm 1954 tạm thời chia cắt Việt Nam thành hai miền tại vĩ tuyến 17.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Lịch sử Việt Nam hiện đại",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-09-tb-006",
+      "content": "Nguyễn Ái Quốc ra đi tìm đường cứu nước tại bến cảng Nhà Rồng vào ngày 5/6/1911.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Lịch sử Việt Nam hiện đại",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-09-tb-007",
+      "content": "Cuộc khởi nghĩa Yên Bái (1930) do Đảng Cộng sản Việt Nam lãnh đạo.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Lịch sử Việt Nam hiện đại",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-09-tb-008",
+      "content": "Sau năm 1975, nước ta hoàn toàn độc lập và thống nhất.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Lịch sử Việt Nam hiện đại",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-09-tb-009",
+      "content": "Điền tên vị tướng chỉ huy chiến dịch Điện Biên Phủ của Việt Nam:",
+      "options": [],
+      "answer": "Võ Nguyên Giáp",
+      "question_type": "tu_luan",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Lịch sử Việt Nam hiện đại",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-09-tb-010",
+      "content": "Sự kiện Nhật đảo chính Pháp ở Đông Dương diễn ra vào ngày tháng năm nào?",
+      "options": [],
+      "answer": "9/3/1945",
+      "question_type": "tu_luan",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Lịch sử Việt Nam hiện đại",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-09-tb-011",
+      "content": "Ai là người sáng lập ra Đảng Cộng sản Việt Nam?",
+      "options": [],
+      "answer": "Hồ Chí Minh/Nguyễn Ái Quốc",
+      "question_type": "tu_luan",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Lịch sử Việt Nam hiện đại",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-09-tb-012",
+      "content": "Tên gọi của con đường mòn vận chuyển vũ khí, lương thực từ miền Bắc vào miền Nam trong kháng chiến chống Mỹ?",
+      "options": [],
+      "answer": "Đường mòn Hồ Chí Minh / Trường Sơn",
+      "question_type": "tu_luan",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Lịch sử Việt Nam hiện đại",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-09-tb-013",
+      "content": "Nước ta đổi tên thành Cộng hòa Xã hội Chủ nghĩa Việt Nam vào năm nào?",
+      "options": [],
+      "answer": "1976",
+      "question_type": "tu_luan",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Lịch sử Việt Nam hiện đại",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-09-tb-014",
+      "content": "\"Không có gì quý hơn ____\" là câu nói nổi tiếng của Bác Hồ.",
+      "options": [],
+      "answer": "Độc lập, tự do",
+      "question_type": "tu_luan",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Lịch sử Việt Nam hiện đại",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-09-tb-015",
+      "content": "Tên bản Hiệp định chấm dứt chiến tranh, lập lại hòa bình ở Việt Nam năm 1973?",
+      "options": [],
+      "answer": "Hiệp định Paris",
+      "question_type": "tu_luan",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Lịch sử Việt Nam hiện đại",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-09-tb-016",
+      "content": "Sự kiện \"Vịnh Bắc Bộ\" (1964) là cái cớ để Mỹ mở rộng chiến tranh ra miền ____.",
+      "options": [],
+      "answer": "Bắc",
+      "question_type": "tu_luan",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Lịch sử Việt Nam hiện đại",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-09-nc-001",
+      "content": "Chiến dịch Việt Bắc thu - đông năm 1947 là chiến dịch tấn công lớn nhất của ta.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "nang_cao",
+      "topic": "Lịch sử Việt Nam hiện đại",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-10-tb-001",
+      "content": "Tổ chức ASEAN được thành lập vào năm nào?",
+      "options": [
+        "A. 1945",
+        "B. 1967",
+        "C. 1975",
+        "D. 1995"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Lịch sử thế giới",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-10-tb-002",
+      "content": "Cuộc Cách mạng công nghiệp lần thứ nhất bắt đầu từ quốc gia nào?",
+      "options": [
+        "A. Mỹ",
+        "B. Pháp",
+        "C. Đức",
+        "D. Anh"
+      ],
+      "answer": "D",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Lịch sử thế giới",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-10-tb-003",
+      "content": "Tổng thống đầu tiên của nước Mỹ là ai?",
+      "options": [
+        "A. Abraham Lincoln",
+        "B. George Washington",
+        "C. Thomas Jefferson",
+        "D. Franklin Roosevelt"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Lịch sử thế giới",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-10-tb-004",
+      "content": "Cuộc cải cách của Minh Trị Thiên hoàng diễn ra ở quốc gia nào?",
+      "options": [
+        "A. Trung Quốc",
+        "B. Triều Tiên",
+        "C. Nhật Bản",
+        "D. Thái Lan"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Lịch sử thế giới",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-10-tb-005",
+      "content": "Thành tựu văn hóa tiêu biểu của Ấn Độ cổ đại là Phật giáo.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Lịch sử thế giới",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-10-tb-006",
+      "content": "Cuộc Cách mạng Pháp (1789) lật đổ chế độ nào?",
+      "options": [],
+      "answer": "Phong kiến/Quân chủ chuyên chế",
+      "question_type": "tu_luan",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Lịch sử thế giới",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-10-tb-007",
+      "content": "Quốc gia nào ở Đông Nam Á không bị biến thành thuộc địa của phương Tây?",
+      "options": [],
+      "answer": "Thái Lan/Xiêm",
+      "question_type": "tu_luan",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Lịch sử thế giới",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-11-tb-001",
+      "content": "Chiến tranh thế giới thứ hai (1939-1945) kết thúc với sự thất bại hoàn toàn của:",
+      "options": [
+        "A. Phe Liên minh",
+        "B. Phe Hiệp ước",
+        "C. Phe Phát xít",
+        "D. Phe Đồng minh"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 11,
+      "difficulty": "trung_binh",
+      "topic": "Lịch sử thế giới",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-11-tb-002",
+      "content": "Mỹ ném bom nguyên tử xuống hai thành phố nào của Nhật Bản năm 1945?",
+      "options": [
+        "A. Tokyo và Osaka",
+        "B. Hiroshima và Nagasaki",
+        "C. Kyoto và Nagoya",
+        "D. Sapporo và Kobe"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 11,
+      "difficulty": "trung_binh",
+      "topic": "Lịch sử thế giới",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-11-tb-003",
+      "content": "Hội nghị Ianta (2/1945) có sự tham gia của các nước nào?",
+      "options": [
+        "A. Anh, Pháp, Mỹ",
+        "B. Liên Xô, Mỹ, Anh",
+        "C. Đức, Ý, Nhật",
+        "D. Mỹ, Nhật, Trung Quốc"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 11,
+      "difficulty": "trung_binh",
+      "topic": "Lịch sử thế giới",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-11-tb-004",
+      "content": "Cách mạng tháng Mười Nga năm 1917 là cuộc cách mạng xã hội chủ nghĩa đầu tiên trên thế giới.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 11,
+      "difficulty": "trung_binh",
+      "topic": "Lịch sử thế giới",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-11-tb-005",
+      "content": "Liên Xô là quốc gia đầu tiên đưa con người lên Mặt Trăng.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 11,
+      "difficulty": "trung_binh",
+      "topic": "Lịch sử thế giới",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-11-tb-006",
+      "content": "Tổ chức Liên Hợp Quốc được thành lập sau Chiến tranh thế giới thứ nhất.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 11,
+      "difficulty": "trung_binh",
+      "topic": "Lịch sử thế giới",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-11-tb-007",
+      "content": "Chiến tranh lạnh là sự đối đầu giữa hai cực nào?",
+      "options": [],
+      "answer": "Mỹ và Liên Xô",
+      "question_type": "tu_luan",
+      "grade": 11,
+      "difficulty": "trung_binh",
+      "topic": "Lịch sử thế giới",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-11-nc-001",
+      "content": "Trong cuộc khai thác thuộc địa lần thứ hai (1919-1929), Pháp đầu tư vốn nhiều nhất vào ngành nào?",
+      "options": [
+        "A. Công nghiệp nặng",
+        "B. Thương nghiệp",
+        "C. Nông nghiệp và khai thác mỏ",
+        "D. Giao thông vận tải"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 11,
+      "difficulty": "nang_cao",
+      "topic": "Lịch sử Việt Nam cận đại",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-11-nc-002",
+      "content": "Cuộc khủng hoảng kinh tế thế giới (1929-1933) bắt đầu từ ngành nào ở Mỹ?",
+      "options": [],
+      "answer": "Tài chính/Chứng khoán",
+      "question_type": "tu_luan",
+      "grade": 11,
+      "difficulty": "nang_cao",
+      "topic": "Lịch sử thế giới",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-12-nc-001",
+      "content": "Sự kiện nào được coi là \"ngọn gió thần\" đối với kinh tế Nhật Bản sau Chiến tranh thế giới thứ hai?",
+      "options": [
+        "A. Cải cách ruộng đất",
+        "B. Chiến tranh Triều Tiên và Việt Nam",
+        "C. Đầu tư của Mỹ",
+        "D. Sự phát triển của giáo dục"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Lịch sử thế giới",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-12-nc-002",
+      "content": "Xu thế toàn cầu hóa bắt đầu từ thời điểm nào?",
+      "options": [
+        "A. Sau năm 1945",
+        "B. Những năm 70 của thế kỷ XX",
+        "C. Những năm 80 của thế kỷ XX",
+        "D. Sau khi Chiến tranh lạnh kết thúc"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Lịch sử thế giới",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-12-nc-003",
+      "content": "Ý nghĩa quan trọng nhất của chiến thắng Đường số 14 - Phước Long (1/1975) là gì?",
+      "options": [
+        "A. Giải phóng một tỉnh",
+        "B. Làm phá sản kế hoạch của địch",
+        "C. Cho thấy khả năng thắng lớn của quân ta và sự suy yếu của quân Sài Gòn",
+        "D. Buộc Mỹ phải rút quân"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Lịch sử Việt Nam hiện đại",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-12-nc-004",
+      "content": "Điểm giống nhau giữa phong trào Cần vương và khởi nghĩa Yên Thế là:",
+      "options": [
+        "A. Đều do văn thân sĩ phu lãnh đạo",
+        "B. Đều là phong trào yêu nước chống Pháp",
+        "C. Đều theo khuynh hướng dân chủ tư sản",
+        "D. Đều giành được thắng lợi cuối cùng"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Lịch sử Việt Nam cận đại",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-12-nc-005",
+      "content": "\"Kế hoạch Nava\" của Pháp và Mỹ năm 1953 nhằm mục đích:",
+      "options": [
+        "A. Kết thúc chiến tranh trong danh dự",
+        "B. Tiêu diệt cơ quan đầu não kháng chiến của ta",
+        "C. Giành thắng lợi quân sự quyết định để kết thúc chiến tranh trong 18 tháng",
+        "D. Phòng ngự chiến lược ở miền Bắc"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Lịch sử Việt Nam hiện đại",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-12-nc-006",
+      "content": "Nội dung nào không phải là nguyên nhân dẫn đến sự phát triển kinh tế của Mỹ sau năm 1945?",
+      "options": [
+        "A. Lãnh thổ không bị chiến tranh tàn phá",
+        "B. Áp dụng thành tựu khoa học kỹ thuật",
+        "C. Tài nguyên thiên nhiên phong phú",
+        "D. Không phải chi phí cho quốc phòng"
+      ],
+      "answer": "D",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Lịch sử thế giới",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-12-nc-007",
+      "content": "Cuộc khởi nghĩa nào mở đầu cho phong trào đấu tranh vũ trang của nhân dân miền Nam sau năm 1954?",
+      "options": [
+        "A. Khởi nghĩa Bắc Sơn",
+        "B. Phong trào Đồng khởi (Bến Tre)",
+        "C. Khởi nghĩa Ba Tơ",
+        "D. Khởi nghĩa Nam Kỳ"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Lịch sử Việt Nam hiện đại",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-12-nc-008",
+      "content": "Trật tự thế giới \"Hai cực Ianta\" sụp đổ do:",
+      "options": [
+        "A. Sự vươn lên của Nhật Bản và Tây Âu",
+        "B. Sự sụp đổ của chủ nghĩa xã hội ở Liên Xô và Đông Âu",
+        "C. Các cuộc chiến tranh cục bộ",
+        "D. Phong trào giải phóng dân tộc"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Lịch sử thế giới",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-12-nc-009",
+      "content": "Điểm khác biệt cơ bản giữa Luận cương chính trị (10/1930) và Cương lĩnh chính trị đầu tiên (2/1930) là về:",
+      "options": [
+        "A. Lãnh đạo cách mạng",
+        "B. Nhiệm vụ chiến lược (vấn đề dân tộc và dân chủ)",
+        "C. Động lực cách mạng",
+        "D. Mối quan hệ quốc tế"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Lịch sử Việt Nam hiện đại",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-12-nc-010",
+      "content": "Việt Nam gia nhập Liên Hợp Quốc vào năm 1977.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Lịch sử Việt Nam hiện đại",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-12-nc-011",
+      "content": "Sự kiện ngày 11/9/2001 tại Mỹ đã làm thay đổi chính sách đối nội và đối ngoại của Mỹ.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Lịch sử thế giới",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-12-nc-012",
+      "content": "Việt Nam là thành viên thứ 7 của tổ chức ASEAN.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Lịch sử Việt Nam hiện đại",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-12-nc-013",
+      "content": "Toàn cầu hóa là một quá trình chỉ mang lại lợi ích cho các nước phát triển.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Lịch sử thế giới",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-12-nc-014",
+      "content": "Trận \"Điện Biên Phủ trên không\" năm 1972 diễn ra chủ yếu ở miền Nam Việt Nam.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Lịch sử Việt Nam hiện đại",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-12-nc-015",
+      "content": "Sau năm 1991, Mỹ trở thành cường quốc duy nhất lãnh đạo thế giới (đơn cực).",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Lịch sử thế giới",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-12-nc-016",
+      "content": "Hiến chương Liên Hợp Quốc có mục đích duy trì hòa bình và an ninh thế giới.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Lịch sử thế giới",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-12-nc-017",
+      "content": "Nguyễn Ái Quốc đã tìm thấy con đường cứu nước sau khi đọc \"Sơ thảo lần thứ nhất những luận cương về vấn đề dân tộc và vấn đề thuộc địa\" của Lênin.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Lịch sử Việt Nam hiện đại",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-12-nc-018",
+      "content": "Đại hội đại biểu toàn quốc lần thứ VI của Đảng (1986) mở đầu công cuộc Đổi mới ở nước ta.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Lịch sử Việt Nam hiện đại",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-12-nc-019",
+      "content": "Tên tổ chức liên minh kinh tế - chính trị lớn nhất hành tinh của các nước châu Âu là gì?",
+      "options": [],
+      "answer": "Liên minh châu Âu / EU",
+      "question_type": "tu_luan",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Lịch sử thế giới",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-12-nc-020",
+      "content": "Điền tên chiến dịch giải phóng Sài Gòn năm 1975 bắt đầu từ ngày 26/4:",
+      "options": [],
+      "answer": "Chiến dịch Hồ Chí Minh",
+      "question_type": "tu_luan",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Lịch sử Việt Nam hiện đại",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-12-nc-021",
+      "content": "Cơ quan quyền lực cao nhất của Liên Hợp Quốc là gì?",
+      "options": [],
+      "answer": "Đại hội đồng",
+      "question_type": "tu_luan",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Lịch sử thế giới",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-12-nc-022",
+      "content": "Phong trào \"Vô sản hóa\" (1928) là chủ trương của tổ chức nào?",
+      "options": [],
+      "answer": "Hội Việt Nam Cách mạng Thanh niên",
+      "question_type": "tu_luan",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Lịch sử Việt Nam hiện đại",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-12-nc-023",
+      "content": "Sự kiện nào đánh dấu Việt Nam đã hoàn thành thống nhất đất nước về mặt Nhà nước sau năm 1975?",
+      "options": [],
+      "answer": "Kỳ họp thứ nhất Quốc hội khóa VI",
+      "question_type": "tu_luan",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Lịch sử Việt Nam hiện đại",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-12-nc-024",
+      "content": "Cuộc cách mạng khoa học - kĩ thuật hiện đại bắt đầu từ những năm nào của thế kỷ XX?",
+      "options": [],
+      "answer": "Những năm 40",
+      "question_type": "tu_luan",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Lịch sử thế giới",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-12-nc-025",
+      "content": "Ai là Tổng Bí thư đầu tiên của Đảng Cộng sản Việt Nam?",
+      "options": [],
+      "answer": "Trần Phú",
+      "question_type": "tu_luan",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Lịch sử Việt Nam hiện đại",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-12-nc-026",
+      "content": "Sự kiện nào báo hiệu sự kết thúc của Chiến tranh lạnh (tháng 12/1989)?",
+      "options": [],
+      "answer": "Cuộc gặp tại đảo Malta",
+      "question_type": "tu_luan",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Lịch sử thế giới",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "lichsu-12-nc-027",
+      "content": "Văn kiện nào được coi là \"bản tuyên ngôn độc lập đầu tiên\" của dân tộc Việt Nam?",
+      "options": [],
+      "answer": "Nam quốc sơn hà",
+      "question_type": "tu_luan",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Lịch sử Việt Nam",
+      "solution": null,
+      "comment": null
+    }
+  ]
+}

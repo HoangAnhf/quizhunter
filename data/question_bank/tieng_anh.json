@@ -1,0 +1,1319 @@
+{
+  "subject": "Tiếng Anh",
+  "total": 84,
+  "questions": [
+    {
+      "id": "tienganh-06-cb-001",
+      "content": "My brother _______ soccer every Sunday afternoon.",
+      "options": [
+        "A. play",
+        "B. plays",
+        "C. playing"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Present Simple",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-06-cb-002",
+      "content": "Is there _______ milk in the fridge?",
+      "options": [
+        "A. any",
+        "B. some",
+        "C. a"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Quantifiers",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-06-cb-003",
+      "content": "We _______ English at the moment.",
+      "options": [
+        "A. study",
+        "B. are studying",
+        "C. is studying"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Present Continuous",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-06-cb-004",
+      "content": "Where _______ you live?",
+      "options": [
+        "A. do",
+        "B. does",
+        "C. is"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Question words",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-06-cb-005",
+      "content": "The library is _______ the restaurant and the toy store.",
+      "options": [
+        "A. between",
+        "B. next",
+        "C. at"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Prepositions of place",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-06-cb-006",
+      "content": "How _______ apples do you want?",
+      "options": [
+        "A. much",
+        "B. many",
+        "C. often"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Quantifiers",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-06-cb-007",
+      "content": "My new school _______ a big playground.",
+      "options": [
+        "A. have",
+        "B. has",
+        "C. having"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Present Simple",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-06-cb-008",
+      "content": "What is _______ favorite subject?",
+      "options": [
+        "A. you",
+        "B. your",
+        "C. yours"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Possessive adjectives",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-06-tb-001",
+      "content": "You _______ turn left at the traffic lights.",
+      "options": [
+        "A. must",
+        "B. can",
+        "C. should"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 6,
+      "difficulty": "trung_binh",
+      "topic": "Modal verbs",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-06-tb-002",
+      "content": "Look! The children _______ in the pool.",
+      "options": [
+        "A. swim",
+        "B. swimming",
+        "C. are swimming"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 6,
+      "difficulty": "trung_binh",
+      "topic": "Present Continuous",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-07-cb-001",
+      "content": "I _______ a toothache yesterday.",
+      "options": [
+        "A. have",
+        "B. had",
+        "C. has"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 7,
+      "difficulty": "co_ban",
+      "topic": "Past Simple",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-07-cb-002",
+      "content": "You should _______ your teeth after every meal.",
+      "options": [
+        "A. brush",
+        "B. brushing",
+        "C. to brush"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 7,
+      "difficulty": "co_ban",
+      "topic": "Modal verbs",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-07-cb-003",
+      "content": "How _______ is it from your house to school?",
+      "options": [
+        "A. long",
+        "B. far",
+        "C. much"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 7,
+      "difficulty": "co_ban",
+      "topic": "Question words",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-07-cb-004",
+      "content": "I _______ to the cinema last night.",
+      "options": [
+        "A. go",
+        "B. went",
+        "C. gone"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 7,
+      "difficulty": "co_ban",
+      "topic": "Past Simple",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-07-cb-005",
+      "content": "We _______ to Ho Chi Minh City 2 years ago.",
+      "options": [
+        "A. move",
+        "B. moved",
+        "C. moving"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 7,
+      "difficulty": "co_ban",
+      "topic": "Past Simple",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-07-cb-006",
+      "content": "Eating too much candy is bad _______ your teeth.",
+      "options": [
+        "A. for",
+        "B. at",
+        "C. with"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 7,
+      "difficulty": "co_ban",
+      "topic": "Prepositions",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-07-cb-007",
+      "content": "Don't eat too _______ junk food.",
+      "options": [
+        "A. many",
+        "B. much",
+        "C. a lot"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 7,
+      "difficulty": "co_ban",
+      "topic": "Quantifiers",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-07-tb-001",
+      "content": "Walking is _______ than riding a motorbike.",
+      "options": [
+        "A. healthy",
+        "B. healthier",
+        "C. more healthy"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 7,
+      "difficulty": "trung_binh",
+      "topic": "Comparatives",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-07-tb-002",
+      "content": "My father enjoys _______ stamps.",
+      "options": [
+        "A. collect",
+        "B. collects",
+        "C. collecting"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 7,
+      "difficulty": "trung_binh",
+      "topic": "Gerund",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-07-tb-003",
+      "content": "_______ do you go to the gym? - Twice a week.",
+      "options": [
+        "A. How long",
+        "B. How often",
+        "C. How many"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 7,
+      "difficulty": "trung_binh",
+      "topic": "Question words",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-08-cb-001",
+      "content": "The air is polluted _______ there is too much smoke.",
+      "options": [
+        "A. because",
+        "B. so",
+        "C. but"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Conjunctions",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-08-cb-002",
+      "content": "I used to _______ swimming when I was a child.",
+      "options": [
+        "A. go",
+        "B. going",
+        "C. went"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Used to",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-08-cb-003",
+      "content": "The internet is a very _______ invention.",
+      "options": [
+        "A. use",
+        "B. useful",
+        "C. useless"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Word formation",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-08-cb-004",
+      "content": "I'm afraid _______ spiders.",
+      "options": [
+        "A. of",
+        "B. with",
+        "C. at"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Prepositions",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-08-cb-005",
+      "content": "She is the _______ student in my class.",
+      "options": [
+        "A. goodest",
+        "B. better",
+        "C. best"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Superlatives",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-08-tb-001",
+      "content": "If we _______ water, we will save money.",
+      "options": [
+        "A. save",
+        "B. will save",
+        "C. saved"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "trung_binh",
+      "topic": "Conditional Type 1",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-08-tb-002",
+      "content": "This house _______ in 1990.",
+      "options": [
+        "A. built",
+        "B. was built",
+        "C. is built"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "trung_binh",
+      "topic": "Passive voice",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-08-tb-003",
+      "content": "He speaks English _______ than I do.",
+      "options": [
+        "A. more fluently",
+        "B. fluent",
+        "C. most fluently"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "trung_binh",
+      "topic": "Comparatives",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-08-tb-004",
+      "content": "Look at those clouds! It _______ rain.",
+      "options": [
+        "A. is going to",
+        "B. will",
+        "C. shall"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "trung_binh",
+      "topic": "Future tense",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-08-tb-005",
+      "content": "She asked me if I _______ a student.",
+      "options": [
+        "A. am",
+        "B. was",
+        "C. were"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "trung_binh",
+      "topic": "Reported speech",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-08-tb-006",
+      "content": "They have lived here _______ 2010.",
+      "options": [
+        "A. for",
+        "B. since",
+        "C. in"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "trung_binh",
+      "topic": "Present Perfect",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-08-tb-007",
+      "content": "Would you mind _______ the window?",
+      "options": [
+        "A. close",
+        "B. closing",
+        "C. to close"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "trung_binh",
+      "topic": "Gerund",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-09-cb-001",
+      "content": "The man _______ lives next door is a doctor.",
+      "options": [
+        "A. who",
+        "B. which",
+        "C. whom"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "co_ban",
+      "topic": "Relative clauses",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-09-cb-002",
+      "content": "This is the _______ beautiful girl I've ever met.",
+      "options": [
+        "A. more",
+        "B. most",
+        "C. best"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "co_ban",
+      "topic": "Superlatives",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-09-cb-003",
+      "content": "Can you turn _______ the light? It's too dark.",
+      "options": [
+        "A. off",
+        "B. on",
+        "C. up"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "co_ban",
+      "topic": "Phrasal verbs",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-09-cb-004",
+      "content": "I don't know _______ to use this machine.",
+      "options": [
+        "A. what",
+        "B. how",
+        "C. where"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "co_ban",
+      "topic": "Question words",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-09-tb-001",
+      "content": "I wish I _______ a billionaire.",
+      "options": [
+        "A. am",
+        "B. was",
+        "C. were"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Wish clauses",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-09-tb-002",
+      "content": "Although it rained heavily, _______ they went to school.",
+      "options": [
+        "A. delete 'but'",
+        "B. but",
+        "C. however"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Conjunctions",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-09-tb-003",
+      "content": "He suggested _______ to the beach this weekend.",
+      "options": [
+        "A. go",
+        "B. going",
+        "C. to go"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Suggest + V-ing",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-09-tb-004",
+      "content": "If I _______ you, I would tell the truth.",
+      "options": [
+        "A. am",
+        "B. was",
+        "C. were"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Conditional Type 2",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-09-tb-005",
+      "content": "She _______ English for 5 years now.",
+      "options": [
+        "A. studied",
+        "B. has studied",
+        "C. is studying"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Present Perfect",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-09-tb-006",
+      "content": "The exam was _______ difficult that I couldn't finish it.",
+      "options": [
+        "A. such",
+        "B. so",
+        "C. too"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "So...that",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-09-tb-007",
+      "content": "We should go to the beach, _______?",
+      "options": [
+        "A. don't we",
+        "B. shall we",
+        "C. shouldn't we"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Tag questions",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-09-tb-008",
+      "content": "By the time the police arrived, the thief _______.",
+      "options": [
+        "A. escaped",
+        "B. had escaped",
+        "C. was escaping"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Past Perfect",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-09-tb-009",
+      "content": "The man _______ you met yesterday is my uncle.",
+      "options": [
+        "A. who",
+        "B. whom",
+        "C. which"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Relative pronouns",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-09-tb-010",
+      "content": "I suggested _______ a taxi to the airport.",
+      "options": [
+        "A. take",
+        "B. taking",
+        "C. to take"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Suggest + V-ing",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-10-cb-001",
+      "content": "People _______ should protect the environment.",
+      "options": [
+        "A. which",
+        "B. who",
+        "C. whose"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "co_ban",
+      "topic": "Relative clauses",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-10-cb-002",
+      "content": "We should _______ our plastic waste.",
+      "options": [
+        "A. reduce",
+        "B. reduction",
+        "C. reducing"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "co_ban",
+      "topic": "Vocabulary",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-10-cb-003",
+      "content": "Computers _______ our lives more convenient.",
+      "options": [
+        "A. make",
+        "B. do",
+        "C. take"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "co_ban",
+      "topic": "Collocations",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-10-cb-004",
+      "content": "In the past, people _______ letters.",
+      "options": [
+        "A. write",
+        "B. wrote",
+        "C. written"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "co_ban",
+      "topic": "Past Simple",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-10-cb-005",
+      "content": "Now people send _______ instead of letters.",
+      "options": [
+        "A. emails",
+        "B. books",
+        "C. papers"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "co_ban",
+      "topic": "Vocabulary",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-10-tb-001",
+      "content": "Gender _______ should be promoted in all fields.",
+      "options": [
+        "A. equal",
+        "B. equality",
+        "C. equally"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Word formation",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-10-tb-002",
+      "content": "My mother _______ the housework by the time we got home.",
+      "options": [
+        "A. finish",
+        "B. had finished",
+        "C. finishes"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Past Perfect",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-10-tb-003",
+      "content": "A new hospital _______ in this area next month.",
+      "options": [
+        "A. will build",
+        "B. will be built",
+        "C. builds"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Passive voice",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-10-tb-004",
+      "content": "Ecotourism _______ can help preserve nature.",
+      "options": [
+        "A. active",
+        "B. activities",
+        "C. actor"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Word formation",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-10-tb-005",
+      "content": "To stay healthy, you should eat a _______ diet.",
+      "options": [
+        "A. balance",
+        "B. balanced",
+        "C. balancing"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Word formation",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-10-tb-006",
+      "content": "I am _______ in learning about new cultures.",
+      "options": [
+        "A. interest",
+        "B. interested",
+        "C. interesting"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Participle adjectives",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-10-tb-007",
+      "content": "Have you ever _______ to a foreign country?",
+      "options": [
+        "A. be",
+        "B. been",
+        "C. went"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Present Perfect",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-10-tb-008",
+      "content": "Choose the word with different pronunciation of the underlined part: hands, legs, knees, foots",
+      "options": [
+        "A. hands",
+        "B. legs",
+        "C. knees",
+        "D. foots"
+      ],
+      "answer": "D",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Pronunciation /s/ vs /z/",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-10-tb-009",
+      "content": "Choose the word with different pronunciation: learn, teach, eat, clean",
+      "options": [
+        "A. learn",
+        "B. teach",
+        "C. eat",
+        "D. clean"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Pronunciation /ɜː/ vs /iː/",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-10-tb-010",
+      "content": "Choose the word with different pronunciation of 'th': thought, thin, thank, there",
+      "options": [
+        "A. thought",
+        "B. thin",
+        "C. thank",
+        "D. there"
+      ],
+      "answer": "D",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Pronunciation /θ/ vs /ð/",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-10-tb-011",
+      "content": "Choose the word with different pronunciation of 'i': knife, child, live (v), drive",
+      "options": [
+        "A. knife",
+        "B. child",
+        "C. live",
+        "D. drive"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Pronunciation /ɪ/ vs /aɪ/",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-10-tb-012",
+      "content": "Choose the word with different stress: nature, culture, support, island",
+      "options": [
+        "A. nature",
+        "B. culture",
+        "C. support",
+        "D. island"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Word stress",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-10-tb-013",
+      "content": "Choose the word with different stress: preserve, damage, protect, recycle",
+      "options": [
+        "A. preserve",
+        "B. damage",
+        "C. protect",
+        "D. recycle"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Word stress",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-10-tb-014",
+      "content": "Choose the word with different stress: energy, article, envelope, device",
+      "options": [
+        "A. energy",
+        "B. article",
+        "C. envelope",
+        "D. device"
+      ],
+      "answer": "D",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Word stress",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-10-tb-015",
+      "content": "Choose the word with different stress: modern, patient, pleasant, afraid",
+      "options": [
+        "A. modern",
+        "B. patient",
+        "C. pleasant",
+        "D. afraid"
+      ],
+      "answer": "D",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Word stress",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-10-tb-016",
+      "content": "My friend _______ in Japan for two years now.",
+      "options": [
+        "A. lives",
+        "B. lived",
+        "C. has been living"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Present Perfect Continuous",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-10-tb-017",
+      "content": "The Internet has _______ changed the way we communicate.",
+      "options": [
+        "A. complete",
+        "B. completely",
+        "C. completion"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Word formation",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-10-tb-018",
+      "content": "Email is much _______ and cheaper than letters.",
+      "options": [
+        "A. fast",
+        "B. faster",
+        "C. fastest"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Comparatives",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-10-tb-019",
+      "content": "We should be _______ with our personal information online.",
+      "options": [
+        "A. care",
+        "B. careful",
+        "C. careless"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Word formation",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-11-tb-001",
+      "content": "Choose the word with different stress: education, political, community, economy",
+      "options": [
+        "A. education",
+        "B. political",
+        "C. community",
+        "D. economy"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 11,
+      "difficulty": "trung_binh",
+      "topic": "Word stress",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-11-tb-002",
+      "content": "It's no use _______ to him. He never listens.",
+      "options": [
+        "A. to talk",
+        "B. talking",
+        "C. talk"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 11,
+      "difficulty": "trung_binh",
+      "topic": "Gerund patterns",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-11-tb-003",
+      "content": "The more you exercise, _______ you will be.",
+      "options": [
+        "A. the healthy",
+        "B. the healthier",
+        "C. healthier"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 11,
+      "difficulty": "trung_binh",
+      "topic": "Double comparatives",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-11-tb-004",
+      "content": "Tìm lỗi sai: \"She is enough old to drive a car.\"",
+      "options": [],
+      "answer": "Sửa \"enough old\" thành \"old enough\" (adj + enough)",
+      "question_type": "tu_luan",
+      "grade": 11,
+      "difficulty": "trung_binh",
+      "topic": "Error correction",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-11-tb-005",
+      "content": "Tìm lỗi sai: \"Neither Lan or her friends are going to the party.\"",
+      "options": [],
+      "answer": "Sửa \"or\" thành \"nor\" (Neither...nor)",
+      "question_type": "tu_luan",
+      "grade": 11,
+      "difficulty": "trung_binh",
+      "topic": "Error correction",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-11-tb-006",
+      "content": "Tìm lỗi sai: \"When I was a child, I use to cry a lot.\"",
+      "options": [],
+      "answer": "Sửa \"use to\" thành \"used to\"",
+      "question_type": "tu_luan",
+      "grade": 11,
+      "difficulty": "trung_binh",
+      "topic": "Error correction",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-11-tb-007",
+      "content": "I don't have a map, so I can't find the way. Viết lại câu với If.",
+      "options": [],
+      "answer": "If I had a map, I could find the way",
+      "question_type": "tu_luan",
+      "grade": 11,
+      "difficulty": "trung_binh",
+      "topic": "Conditional Type 2",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-11-nc-001",
+      "content": "If I had known the truth, I _______ so angry.",
+      "options": [
+        "A. won't be",
+        "B. wouldn't be",
+        "C. wouldn't have been"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 11,
+      "difficulty": "nang_cao",
+      "topic": "Conditional Type 3",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-11-nc-002",
+      "content": "Tìm lỗi sai: \"The information he gave me were very useful.\"",
+      "options": [],
+      "answer": "Sửa \"were\" thành \"was\" (information không đếm được)",
+      "question_type": "tu_luan",
+      "grade": 11,
+      "difficulty": "nang_cao",
+      "topic": "Error correction",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-11-nc-003",
+      "content": "Tìm lỗi sai: \"Despite it was cold, they went swimming.\"",
+      "options": [],
+      "answer": "Sửa \"Despite\" thành \"Although\" (Despite + N/V-ing, Although + clause)",
+      "question_type": "tu_luan",
+      "grade": 11,
+      "difficulty": "nang_cao",
+      "topic": "Error correction",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-11-nc-004",
+      "content": "\"Don't touch the wire!\" he said to me. Viết lại câu dùng \"warned\".",
+      "options": [],
+      "answer": "He warned me not to touch the wire",
+      "question_type": "tu_luan",
+      "grade": 11,
+      "difficulty": "nang_cao",
+      "topic": "Reported speech",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-12-cb-001",
+      "content": "It is a three-hour drive from here to the beach. Viết lại với It takes.",
+      "options": [],
+      "answer": "It takes three hours to drive from here to the beach",
+      "question_type": "tu_luan",
+      "grade": 12,
+      "difficulty": "co_ban",
+      "topic": "Sentence transformation",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-12-tb-001",
+      "content": "People say that he is a good doctor. Viết lại câu bị động.",
+      "options": [],
+      "answer": "He is said to be a good doctor",
+      "question_type": "tu_luan",
+      "grade": 12,
+      "difficulty": "trung_binh",
+      "topic": "Passive report",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "tienganh-12-tb-002",
+      "content": "Although the traffic was bad, she arrived on time. Viết lại với In spite of.",
+      "options": [],
+      "answer": "In spite of the bad traffic, she arrived on time",
+      "question_type": "tu_luan",
+      "grade": 12,
+      "difficulty": "trung_binh",
+      "topic": "Connectors",
+      "solution": null,
+      "comment": null
+    }
+  ]
+}

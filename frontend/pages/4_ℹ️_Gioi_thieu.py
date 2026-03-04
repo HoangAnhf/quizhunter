@@ -30,7 +30,7 @@ st.markdown("""
 3. **📚 Quản lý kho đề:** Theo dõi tất cả đề thi tại trang Kho Đề. Tại đây bạn có thể mở xem trực tiếp câu hỏi đáp án trên giao diện hoặc Tải xuống dạng văn bản Text để dễ dàng in ấn.
 
 ### 👤 Thông tin liên hệ
-- **Tác giả:** QuizHunter Developer Team
-- **GitHub Repo:** [https://github.com/quizhunter/quizhunter-app](#)
-- **Email Hỗ trợ:** contact@quizhunter.edu.vn
+- **Tác giả:** Hoàng Tuấn Anh
+- **GitHub Repo:** [https://github.com/HoangAnhf/quizhunter](https://github.com/HoangAnhf/quizhunter)
+- **Email Hỗ trợ:** anh917015@gmail.com
 """)

@@ -1,0 +1,1144 @@
+{
+  "subject": "Toán học",
+  "total": 78,
+  "questions": [
+    {
+      "id": "toan-06-cb-001",
+      "content": "Trong các số sau, số nào là số nguyên tố?",
+      "options": [
+        "A. 15",
+        "B. 17",
+        "C. 21",
+        "D. 9"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Số nguyên tố",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "toan-06-cb-002",
+      "content": "Trong các hình dưới đây, hình nào có 4 cạnh bằng nhau?",
+      "options": [
+        "A. Hình chữ nhật",
+        "B. Hình thang cân",
+        "C. Hình thoi",
+        "D. Hình bình hành"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "Hình học phẳng",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "toan-06-cb-003",
+      "content": "Xét tính Đúng hay Sai cho mỗi mệnh đề sau:\n1) 3,14 > 3,2\n2) -1,5 > -2,0",
+      "options": [],
+      "answer": "1) Sai — vì 3,14 < 3,2 (so hàng phần mười: 1 < 2)\n2) Đúng — vì -1,5 nằm bên phải -2,0 trên trục số",
+      "question_type": "bai_tap",
+      "grade": 6,
+      "difficulty": "co_ban",
+      "topic": "So sánh số thập phân",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "toan-06-tb-001",
+      "content": "Thực hiện phép tính: (-15) + 40.",
+      "options": [
+        "A. 25",
+        "B. -25",
+        "C. 55",
+        "D. -55"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 6,
+      "difficulty": "trung_binh",
+      "topic": "Số nguyên",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "toan-06-tb-002",
+      "content": "Nối tỉ số phần trăm với phân số tối giản:",
+      "options": [],
+      "answer": "1-c, 2-a, 3-b",
+      "question_type": "noi_cot",
+      "grade": 6,
+      "difficulty": "trung_binh",
+      "topic": "Phần trăm và phân số",
+      "solution": null,
+      "comment": null,
+      "column_a": [
+        "25%",
+        "50%",
+        "75%"
+      ],
+      "column_b": [
+        "1/2",
+        "3/4",
+        "1/4"
+      ]
+    },
+    {
+      "id": "toan-06-tb-003",
+      "content": "Trên tia Ox, lấy hai điểm A và B sao cho OA = 3 cm, OB = 8 cm. Độ dài đoạn thẳng AB là bao nhiêu cm?",
+      "options": [],
+      "answer": "5",
+      "question_type": "tu_luan",
+      "grade": 6,
+      "difficulty": "trung_binh",
+      "topic": "Đoạn thẳng",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "toan-06-nc-001",
+      "content": "Học sinh khối 6 của một trường khi xếp hàng 10, hàng 12, hàng 15 đều vừa đủ hàng. Biết số học sinh trong khoảng từ 100 đến 150 em. Tính số học sinh khối 6.",
+      "options": [
+        "A. 120",
+        "B. 130",
+        "C. 140",
+        "D. 150"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 6,
+      "difficulty": "nang_cao",
+      "topic": "Bội chung nhỏ nhất",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "toan-06-nc-002",
+      "content": "Tìm tất cả các số nguyên n để phân số A = (3n + 2)/(n - 1) có giá trị là một số nguyên.",
+      "options": [],
+      "answer": "n ∈ {-4, 0, 2, 6}",
+      "question_type": "tu_luan",
+      "grade": 6,
+      "difficulty": "nang_cao",
+      "topic": "Chia hết",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "toan-06-nc-003",
+      "content": "Một vòi nước chảy đầy một cái bể cạn trong 3 giờ. Trong 1 giờ vòi đó chảy được 1/3 thể tích bể.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 6,
+      "difficulty": "nang_cao",
+      "topic": "Phân số",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "toan-06-nc-004",
+      "content": "BCNN(12, 15) có giá trị là bao nhiêu?",
+      "options": [],
+      "answer": "60",
+      "question_type": "tu_luan",
+      "grade": 6,
+      "difficulty": "nang_cao",
+      "topic": "Bội chung nhỏ nhất",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "toan-06-nc-005",
+      "content": "Có bao nhiêu số nguyên x thỏa mãn (x - 2)(x + 3) ≤ 0?",
+      "options": [],
+      "answer": "6 số: -3, -2, -1, 0, 1, 2",
+      "question_type": "tu_luan",
+      "grade": 6,
+      "difficulty": "nang_cao",
+      "topic": "Bất phương trình",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "toan-07-cb-001",
+      "content": "Chọn khẳng định đúng trong các câu sau:",
+      "options": [
+        "A. Hai góc đối đỉnh thì bù nhau",
+        "B. Hai góc bằng nhau thì đối đỉnh",
+        "C. Hai góc đối đỉnh thì bằng nhau",
+        "D. Hai góc kề bù thì bằng nhau"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 7,
+      "difficulty": "co_ban",
+      "topic": "Góc",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "toan-07-cb-002",
+      "content": "Công thức tính diện tích xung quanh của hình lăng trụ đứng là gì?",
+      "options": [
+        "A. Sxq = C_đáy · h",
+        "B. Sxq = S_đáy · h",
+        "C. Sxq = 1/2 · C_đáy · h",
+        "D. Sxq = 2 · C_đáy · h"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 7,
+      "difficulty": "co_ban",
+      "topic": "Hình lăng trụ",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "toan-07-cb-003",
+      "content": "Xét tính Đúng hay Sai cho mỗi mệnh đề sau:\n1) Từ a/b = c/d suy ra a·d = b·c\n2) Từ a/b = c/d suy ra a/b = (a+c)/(b-d)",
+      "options": [],
+      "answer": "1) Đúng — tính chất cơ bản của tỉ lệ thức\n2) Sai — đúng phải là (a+c)/(b+d), không phải (b-d)",
+      "question_type": "bai_tap",
+      "grade": 7,
+      "difficulty": "co_ban",
+      "topic": "Tỉ lệ thức",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "toan-07-tb-001",
+      "content": "Tìm x, biết: x/4 = 3/2.",
+      "options": [
+        "A. x = 2",
+        "B. x = 6",
+        "C. x = 8",
+        "D. x = 12"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 7,
+      "difficulty": "trung_binh",
+      "topic": "Tỉ lệ thức",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "toan-07-tb-002",
+      "content": "Nối phép tính lũy thừa với kết quả:",
+      "options": [],
+      "answer": "1-c, 2-a, 3-b",
+      "question_type": "noi_cot",
+      "grade": 7,
+      "difficulty": "trung_binh",
+      "topic": "Lũy thừa",
+      "solution": null,
+      "comment": null,
+      "column_a": [
+        "3²·3³",
+        "(3²)³",
+        "3¹⁰:3²"
+      ],
+      "column_b": [
+        "3⁶",
+        "3⁸",
+        "3⁵"
+      ]
+    },
+    {
+      "id": "toan-07-tb-003",
+      "content": "Cho x và y tỉ lệ thuận. Khi x = 2 thì y = -6. Hệ số tỉ lệ của y đối với x là bao nhiêu?",
+      "options": [],
+      "answer": "-3",
+      "question_type": "tu_luan",
+      "grade": 7,
+      "difficulty": "trung_binh",
+      "topic": "Đại lượng tỉ lệ thuận",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "toan-07-nc-001",
+      "content": "Cho tam giác ABC có chu vi bằng 24 cm. Các cạnh a, b, c của tam giác lần lượt tỉ lệ với 3; 4; 5. Tính độ dài cạnh lớn nhất của tam giác.",
+      "options": [
+        "A. 6 cm",
+        "B. 8 cm",
+        "C. 10 cm",
+        "D. 12 cm"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 7,
+      "difficulty": "nang_cao",
+      "topic": "Tam giác",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "toan-07-nc-002",
+      "content": "Cho ba số a, b, c khác 0 thỏa mãn (a + b - c)/c = (b + c - a)/a = (c + a - b)/b. Tính giá trị của biểu thức P = (1 + b/a)(1 + c/b)(1 + a/c).",
+      "options": [],
+      "answer": "P = 8",
+      "question_type": "tu_luan",
+      "grade": 7,
+      "difficulty": "nang_cao",
+      "topic": "Tỉ lệ thức",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "toan-07-nc-003",
+      "content": "Giao điểm của ba đường phân giác trong một tam giác cách đều ba cạnh của tam giác đó.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 7,
+      "difficulty": "nang_cao",
+      "topic": "Tam giác",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "toan-07-nc-004",
+      "content": "Cho tam giác ABC cân tại A có góc A = 50°. Số đo của góc B là bao nhiêu độ?",
+      "options": [],
+      "answer": "65",
+      "question_type": "tu_luan",
+      "grade": 7,
+      "difficulty": "nang_cao",
+      "topic": "Tam giác cân",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "toan-07-nc-005",
+      "content": "Cho x/2 = y/3 = z/4 và x + 2y - z = 16. Tìm giá trị của x.",
+      "options": [],
+      "answer": "x = 8",
+      "question_type": "tu_luan",
+      "grade": 7,
+      "difficulty": "nang_cao",
+      "topic": "Tỉ lệ thức",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "toan-08-cb-001",
+      "content": "Khai triển hằng đẳng thức (x - 3)² ta được kết quả là:",
+      "options": [
+        "A. x² - 9",
+        "B. x² + 9",
+        "C. x² - 6x + 9",
+        "D. x² - 3x + 9"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Hằng đẳng thức đáng nhớ",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "toan-08-cb-002",
+      "content": "Hàm số bậc nhất y = ax + b, tham số a phải thỏa mãn điều kiện a ≠ ?",
+      "options": [],
+      "answer": "0",
+      "question_type": "tu_luan",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Hàm số bậc nhất",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "toan-08-cb-003",
+      "content": "Xét tính Đúng hay Sai cho mỗi mệnh đề sau:\n1) Tổng 4 góc trong tứ giác lồi = 360°\n2) Hình thang có 1 góc vuông là hình chữ nhật",
+      "options": [],
+      "answer": "1) Đúng — tổng các góc trong tứ giác luôn bằng 360°\n2) Sai — hình thang có 1 góc vuông chỉ là hình thang vuông, không phải hình chữ nhật",
+      "question_type": "bai_tap",
+      "grade": 8,
+      "difficulty": "co_ban",
+      "topic": "Tứ giác",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "toan-08-tb-001",
+      "content": "Kết quả của phép phân tích đa thức x² - 4x + 4 thành nhân tử là:",
+      "options": [
+        "A. (x - 2)(x + 2)",
+        "B. (x - 2)²",
+        "C. (x + 2)²",
+        "D. (x - 4)²"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "trung_binh",
+      "topic": "Phân tích đa thức thành nhân tử",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "toan-08-tb-002",
+      "content": "Nối hằng đẳng thức với kết quả khai triển:",
+      "options": [],
+      "answer": "1-c, 2-a, 3-b",
+      "question_type": "noi_cot",
+      "grade": 8,
+      "difficulty": "trung_binh",
+      "topic": "Hằng đẳng thức đáng nhớ",
+      "solution": null,
+      "comment": null,
+      "column_a": [
+        "(A+B)³",
+        "(A-B)³",
+        "A³+B³"
+      ],
+      "column_b": [
+        "A³-3A²B+3AB²-B³",
+        "(A+B)(A²-AB+B²)",
+        "A³+3A²B+3AB²+B³"
+      ]
+    },
+    {
+      "id": "toan-08-tb-003",
+      "content": "Rút gọn phân thức (x² - 1)/(x - 1) với x ≠ 1 ta được:",
+      "options": [
+        "A. x + 1",
+        "B. x - 1",
+        "C. x",
+        "D. 1"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "trung_binh",
+      "topic": "Phân thức đại số",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "toan-08-nc-001",
+      "content": "Một ô tô đi từ A đến B với vận tốc 40 km/h. Lúc về ô tô đi với vận tốc 50 km/h nên thời gian về ít hơn thời gian đi là 30 phút. Tính quãng đường AB.",
+      "options": [],
+      "answer": "AB = 100 km",
+      "question_type": "tu_luan",
+      "grade": 8,
+      "difficulty": "nang_cao",
+      "topic": "Giải bài toán bằng phương trình",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "toan-08-nc-002",
+      "content": "Tìm giá trị nhỏ nhất của biểu thức P = x² + 2y² - 2xy - 4y + 2026.",
+      "options": [],
+      "answer": "P_min = 2022 khi x = y = 2",
+      "question_type": "tu_luan",
+      "grade": 8,
+      "difficulty": "nang_cao",
+      "topic": "Biểu thức đại số",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "toan-08-nc-003",
+      "content": "Điểm M(1; 3) thuộc đồ thị hàm số y = 2x + 1.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 8,
+      "difficulty": "nang_cao",
+      "topic": "Hàm số bậc nhất",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "toan-08-nc-004",
+      "content": "Tam giác ABC vuông tại A, AB = 6 cm, AC = 8 cm. Kẻ đường cao AH. Độ dài AH bằng bao nhiêu cm?",
+      "options": [],
+      "answer": "4,8",
+      "question_type": "tu_luan",
+      "grade": 8,
+      "difficulty": "nang_cao",
+      "topic": "Tam giác vuông",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "toan-08-nc-005",
+      "content": "Tính số dư của phép chia P(x) = x²⁰²⁶ - 1 cho Q(x) = x - 1.",
+      "options": [],
+      "answer": "0",
+      "question_type": "tu_luan",
+      "grade": 8,
+      "difficulty": "nang_cao",
+      "topic": "Chia đa thức",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "toan-09-cb-001",
+      "content": "Biểu thức √(x - 2) xác định khi và chỉ khi:",
+      "options": [
+        "A. x > 2",
+        "B. x < 2",
+        "C. x ≥ 2",
+        "D. x ≤ 2"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "co_ban",
+      "topic": "Căn bậc hai",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "toan-09-cb-002",
+      "content": "Biểu thức Δ (Delta) của phương trình bậc hai ax² + bx + c = 0 (a ≠ 0) là:",
+      "options": [
+        "A. Δ = b² - 4ac",
+        "B. Δ = b² + 4ac",
+        "C. Δ = a² - 4bc",
+        "D. Δ = -b² - 4ac"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "co_ban",
+      "topic": "Phương trình bậc hai",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "toan-09-cb-003",
+      "content": "Xét hàm số y = x²:\n1) Đồ thị là parabol có đỉnh tại gốc tọa độ O → Đúng hay Sai?\n2) Hàm số đồng biến khi x < 0 và nghịch biến khi x > 0 → Đúng hay Sai?",
+      "options": [],
+      "answer": "1) Đúng — đồ thị y = x² là parabol đi qua O(0;0).\n2) Sai — y = x² nghịch biến khi x < 0 và đồng biến khi x > 0.",
+      "question_type": "bai_tap",
+      "grade": 9,
+      "difficulty": "co_ban",
+      "topic": "Hàm số bậc hai",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "toan-09-tb-001",
+      "content": "Cho tam giác ABC vuông tại A, đường cao AH. Biết BH = 4 cm, CH = 9 cm. Độ dài đường cao AH là:",
+      "options": [
+        "A. 6 cm",
+        "B. 36 cm",
+        "C. 5 cm",
+        "D. 13 cm"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Hệ thức lượng trong tam giác vuông",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "toan-09-tb-002",
+      "content": "Nối vị trí tương đối 2 đường tròn với hệ thức:",
+      "options": [],
+      "answer": "1-c, 2-a, 3-b",
+      "question_type": "noi_cot",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Đường tròn",
+      "solution": null,
+      "comment": null,
+      "column_a": [
+        "Cắt nhau",
+        "Tiếp xúc ngoài",
+        "Ngoài nhau"
+      ],
+      "column_b": [
+        "d = R+r",
+        "d > R+r",
+        "|R-r| < d < R+r"
+      ]
+    },
+    {
+      "id": "toan-09-tb-003",
+      "content": "Đường thẳng y = -3x + 5 có hệ số góc bằng bao nhiêu?",
+      "options": [],
+      "answer": "-3",
+      "question_type": "tu_luan",
+      "grade": 9,
+      "difficulty": "trung_binh",
+      "topic": "Hàm số bậc nhất",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "toan-09-nc-001",
+      "content": "Hai vòi nước cùng chảy vào một bể không có nước thì sau 4 giờ đầy bể. Nếu mở vòi 1 chảy trong 2 giờ và vòi 2 chảy trong 3 giờ thì được 7/12 bể. Hỏi nếu chảy một mình thì mỗi vòi chảy đầy bể trong bao lâu?",
+      "options": [],
+      "answer": "Vòi 1: 6 giờ, Vòi 2: 12 giờ",
+      "question_type": "tu_luan",
+      "grade": 9,
+      "difficulty": "nang_cao",
+      "topic": "Giải bài toán bằng hệ phương trình",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "toan-09-nc-002",
+      "content": "Giải phương trình vô tỉ: √(x² + x + 5) = 5.",
+      "options": [],
+      "answer": "x = -5 hoặc x = 4",
+      "question_type": "tu_luan",
+      "grade": 9,
+      "difficulty": "nang_cao",
+      "topic": "Phương trình vô tỉ",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "toan-09-nc-003",
+      "content": "Phương trình x² - 5x + 6 = 0 có hai nghiệm. Theo Viète, tổng hai nghiệm x₁ + x₂ = -5.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 9,
+      "difficulty": "nang_cao",
+      "topic": "Hệ thức Viète",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "toan-09-nc-004",
+      "content": "Tam giác vuông có cạnh huyền 10, một cạnh góc vuông 6. Cạnh góc vuông còn lại là bao nhiêu?",
+      "options": [],
+      "answer": "8",
+      "question_type": "tu_luan",
+      "grade": 9,
+      "difficulty": "nang_cao",
+      "topic": "Định lý Pythagore",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "toan-09-nc-005",
+      "content": "Tính giá trị P = √(x + 2√(x-1)) + √(x - 2√(x-1)) tại x = 4/3.",
+      "options": [],
+      "answer": "2",
+      "question_type": "tu_luan",
+      "grade": 9,
+      "difficulty": "nang_cao",
+      "topic": "Biểu thức chứa căn",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "toan-10-cb-001",
+      "content": "Tập xác định của hàm số y = (2x - 1)/(x - 3) là:",
+      "options": [
+        "A. R \\ {3}",
+        "B. R \\ {-3}",
+        "C. (3; +∞)",
+        "D. R"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "co_ban",
+      "topic": "Hàm số",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "toan-10-cb-002",
+      "content": "Phương trình tham số đường thẳng qua M₀(x₀; y₀) có vectơ chỉ phương u = (a; b): x = x₀ + at, y = ?",
+      "options": [],
+      "answer": "y₀ + bt",
+      "question_type": "tu_luan",
+      "grade": 10,
+      "difficulty": "co_ban",
+      "topic": "Phương trình đường thẳng",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "toan-10-cb-003",
+      "content": "Xét tam thức bậc hai f(x) = ax² + bx + c (a ≠ 0):\n1) Nếu Δ < 0 thì f(x) cùng dấu với a với mọi x → Đúng hay Sai?\n2) Nếu Δ = 0 thì phương trình f(x) = 0 vô nghiệm → Đúng hay Sai?",
+      "options": [],
+      "answer": "1) Đúng — khi Δ < 0, tam thức không có nghiệm thực nên luôn cùng dấu với a.\n2) Sai — khi Δ = 0, phương trình có nghiệm kép x = -b/(2a).",
+      "question_type": "bai_tap",
+      "grade": 10,
+      "difficulty": "co_ban",
+      "topic": "Tam thức bậc hai",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "toan-10-tb-001",
+      "content": "Tập nghiệm của bất phương trình x² - 5x + 6 ≤ 0 là:",
+      "options": [
+        "A. (-∞; 2] ∪ [3; +∞)",
+        "B. [2; 3]",
+        "C. (2; 3)",
+        "D. R"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Bất phương trình bậc hai",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "toan-10-tb-002",
+      "content": "Nối phép toán tập hợp với ý nghĩa:",
+      "options": [],
+      "answer": "1-c, 2-a, 3-b",
+      "question_type": "noi_cot",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Tập hợp",
+      "solution": null,
+      "comment": null,
+      "column_a": [
+        "A∪B",
+        "A∩B",
+        "A\\B"
+      ],
+      "column_b": [
+        "phần tử thuộc cả A và B",
+        "thuộc A không thuộc B",
+        "phần tử thuộc A hoặc B"
+      ]
+    },
+    {
+      "id": "toan-10-tb-003",
+      "content": "Cung tròn bán kính R = 5 cm, số đo α = 2 rad. Độ dài cung là:",
+      "options": [
+        "A. 2,5 cm",
+        "B. 7 cm",
+        "C. 10 cm",
+        "D. 20 cm"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "trung_binh",
+      "topic": "Cung tròn",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "toan-10-nc-001",
+      "content": "Trong mặt phẳng tọa độ Oxy, cho tam giác ABC có A(1; 2), B(-1; 1), C(3; -1). Viết phương trình đường tròn ngoại tiếp tam giác ABC.",
+      "options": [],
+      "answer": "(x - 7/8)² + (y + 1/4)² = 325/64",
+      "question_type": "tu_luan",
+      "grade": 10,
+      "difficulty": "nang_cao",
+      "topic": "Đường tròn",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "toan-10-nc-002",
+      "content": "Cho hệ phương trình: x² + y² = 2 và x³ + y³ = 2m. Tìm tham số m để hệ có nghiệm duy nhất.",
+      "options": [],
+      "answer": "m = 1 hoặc m = -1",
+      "question_type": "tu_luan",
+      "grade": 10,
+      "difficulty": "nang_cao",
+      "topic": "Hệ phương trình",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "toan-10-nc-003",
+      "content": "Đường tròn tâm I(1; -2) bán kính R = 3 có phương trình (x-1)² + (y+2)² = 9.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 10,
+      "difficulty": "nang_cao",
+      "topic": "Phương trình đường tròn",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "toan-10-nc-004",
+      "content": "Cho A = [-2; 5] và B = (1; 7]. Tập A∩B = (a; b]. Giá trị a + b bằng bao nhiêu?",
+      "options": [],
+      "answer": "6",
+      "question_type": "tu_luan",
+      "grade": 10,
+      "difficulty": "nang_cao",
+      "topic": "Giao tập hợp",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "toan-10-nc-005",
+      "content": "Phương trình √(x² - 4x + 3) = x - 2 có bao nhiêu nghiệm thực?",
+      "options": [],
+      "answer": "0 nghiệm",
+      "question_type": "tu_luan",
+      "grade": 10,
+      "difficulty": "nang_cao",
+      "topic": "Phương trình vô tỉ",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "toan-11-cb-001",
+      "content": "Trong không gian, hai đường thẳng phân biệt không có điểm chung thì chúng:",
+      "options": [
+        "A. Song song với nhau",
+        "B. Chéo nhau",
+        "C. Song song hoặc chéo nhau",
+        "D. Cắt nhau"
+      ],
+      "answer": "C",
+      "question_type": "trac_nghiem",
+      "grade": 11,
+      "difficulty": "co_ban",
+      "topic": "Quan hệ song song trong không gian",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "toan-11-cb-002",
+      "content": "Trong không gian, hai mặt phẳng phân biệt song song với nhau khi và chỉ khi:",
+      "options": [
+        "A. Có 1 điểm chung",
+        "B. Không có điểm chung nào",
+        "C. Có vô số điểm chung",
+        "D. Cắt nhau theo giao tuyến"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 11,
+      "difficulty": "co_ban",
+      "topic": "Quan hệ song song",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "toan-11-cb-003",
+      "content": "Xét hàm số y = cos(x):\n1) Tập giá trị của hàm số là [-1; 1] → Đúng hay Sai?\n2) Hàm số tuần hoàn với chu kì T = π → Đúng hay Sai?",
+      "options": [],
+      "answer": "1) Đúng — giá trị cos(x) luôn nằm trong đoạn [-1; 1].\n2) Sai — chu kì của cos(x) là T = 2π, không phải π.",
+      "question_type": "bai_tap",
+      "grade": 11,
+      "difficulty": "co_ban",
+      "topic": "Hàm số lượng giác",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "toan-11-tb-001",
+      "content": "Giải phương trình lượng giác: sin(x) = 1/2.",
+      "options": [
+        "A. x = π/6 + k2π hoặc x = 5π/6 + k2π",
+        "B. x = π/3 + k2π hoặc x = 2π/3 + k2π"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 11,
+      "difficulty": "trung_binh",
+      "topic": "Phương trình lượng giác",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "toan-11-tb-002",
+      "content": "Nối góc trong không gian với cách xác định:",
+      "options": [],
+      "answer": "1-b, 2-a",
+      "question_type": "noi_cot",
+      "grade": 11,
+      "difficulty": "trung_binh",
+      "topic": "Góc trong không gian",
+      "solution": null,
+      "comment": null,
+      "column_a": [
+        "Góc giữa đường thẳng và mặt phẳng",
+        "Góc giữa 2 mặt phẳng"
+      ],
+      "column_b": [
+        "góc giữa 2 đường thẳng vuông góc giao tuyến",
+        "góc với hình chiếu"
+      ]
+    },
+    {
+      "id": "toan-11-tb-003",
+      "content": "Cấp số cộng (uₙ) có u₁ = 2, u₂ = 5. Công sai d bằng bao nhiêu?",
+      "options": [],
+      "answer": "3",
+      "question_type": "tu_luan",
+      "grade": 11,
+      "difficulty": "trung_binh",
+      "topic": "Cấp số cộng",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "toan-11-nc-001",
+      "content": "Từ các chữ số 0, 1, 2, 3, 4, 5 có thể lập được bao nhiêu số tự nhiên chẵn gồm 4 chữ số đôi một khác nhau?",
+      "options": [],
+      "answer": "156 số",
+      "question_type": "tu_luan",
+      "grade": 11,
+      "difficulty": "nang_cao",
+      "topic": "Tổ hợp",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "toan-11-nc-002",
+      "content": "Cho hình chóp S.ABCD có đáy ABCD là hình vuông cạnh a, SA vuông góc với đáy và SA = a√2. Tính khoảng cách giữa hai đường thẳng chéo nhau SB và AC.",
+      "options": [],
+      "answer": "d(SB, AC) = a√10/5",
+      "question_type": "tu_luan",
+      "grade": 11,
+      "difficulty": "nang_cao",
+      "topic": "Khoảng cách trong không gian",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "toan-11-nc-003",
+      "content": "Từ 5 chữ số 1,2,3,4,5 lập được đúng 120 số tự nhiên có 5 chữ số đôi một khác nhau.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 11,
+      "difficulty": "nang_cao",
+      "topic": "Hoán vị",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "toan-11-nc-004",
+      "content": "Giá trị giới hạn lim(n→+∞) (2n-1)/(n+3) bằng bao nhiêu?",
+      "options": [],
+      "answer": "2",
+      "question_type": "tu_luan",
+      "grade": 11,
+      "difficulty": "nang_cao",
+      "topic": "Giới hạn dãy số",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "toan-11-nc-005",
+      "content": "Tính đạo hàm cấp hai y'' của y = x³ - 3x² + 2 tại x = 1.",
+      "options": [],
+      "answer": "0",
+      "question_type": "tu_luan",
+      "grade": 11,
+      "difficulty": "nang_cao",
+      "topic": "Đạo hàm",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "toan-12-cb-001",
+      "content": "Đạo hàm của hàm số y = eˣ + x² là:",
+      "options": [
+        "A. y' = eˣ + 2x",
+        "B. y' = x·eˣ⁻¹ + 2x",
+        "C. y' = eˣ + x",
+        "D. y' = eˣ/x + 2x"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "co_ban",
+      "topic": "Đạo hàm",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "toan-12-cb-002",
+      "content": "Số phức z = 3 - 4i có phần thực bằng:",
+      "options": [
+        "A. 3",
+        "B. -4",
+        "C. 4",
+        "D. -4i"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "co_ban",
+      "topic": "Số phức",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "toan-12-cb-003",
+      "content": "Xét trong hệ tọa độ Oxyz:\n1) Điểm M(1; 2; 3) có nằm trên mặt phẳng (Oxy) không?\n2) Vectơ đơn vị của trục Ox là i = (1; 0; 0) → Đúng hay Sai?",
+      "options": [],
+      "answer": "1) Sai — M(1;2;3) có z = 3 ≠ 0 nên không nằm trên (Oxy).\n2) Đúng — vectơ đơn vị trục Ox là i = (1; 0; 0).",
+      "question_type": "bai_tap",
+      "grade": 12,
+      "difficulty": "co_ban",
+      "topic": "Hệ tọa độ không gian",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "toan-12-tb-001",
+      "content": "Phương trình tiệm cận đứng và tiệm cận ngang của đồ thị hàm số y = (2x - 1)/(x + 1) lần lượt là:",
+      "options": [
+        "A. x = -1; y = 2",
+        "B. x = 1; y = 2",
+        "C. x = 2; y = -1",
+        "D. x = -1; y = -1"
+      ],
+      "answer": "A",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "trung_binh",
+      "topic": "Tiệm cận",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "toan-12-tb-002",
+      "content": "Nối hàm số với tập xác định:",
+      "options": [],
+      "answer": "1-c, 2-a, 3-b",
+      "question_type": "noi_cot",
+      "grade": 12,
+      "difficulty": "trung_binh",
+      "topic": "Tập xác định",
+      "solution": null,
+      "comment": null,
+      "column_a": [
+        "y = eˣ",
+        "y = ln(x)",
+        "y = (x-1)⁻²"
+      ],
+      "column_b": [
+        "(0;+∞)",
+        "R\\{1\\}",
+        "R"
+      ]
+    },
+    {
+      "id": "toan-12-tb-003",
+      "content": "Nếu ∫₁³ f(x)dx = 5 thì ∫₁³ 2f(x)dx bằng bao nhiêu?",
+      "options": [],
+      "answer": "10",
+      "question_type": "tu_luan",
+      "grade": 12,
+      "difficulty": "trung_binh",
+      "topic": "Tích phân",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "toan-12-nc-001",
+      "content": "Cho hình chóp S.ABCD có đáy là hình vuông cạnh a, cạnh bên SA vuông góc với đáy, góc giữa SC và mặt đáy bằng 45°. Tính thể tích khối chóp S.ABCD.",
+      "options": [],
+      "answer": "V = a³√2/3",
+      "question_type": "tu_luan",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Thể tích khối chóp",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "toan-12-nc-002",
+      "content": "Cho hàm số f(x) liên tục trên R thỏa mãn f(x) + x·f'(x) = 4x³ + 4x + 2 và f(1) = 2. Tính tích phân I = ∫₁² f(x)dx.",
+      "options": [],
+      "answer": "I = 35/4 - 3·ln2",
+      "question_type": "tu_luan",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Tích phân",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "toan-12-nc-003",
+      "content": "Cho f'(x) = x(x-1)². Hàm số có 2 điểm cực trị.",
+      "options": [
+        "A. Đúng",
+        "B. Sai"
+      ],
+      "answer": "B",
+      "question_type": "trac_nghiem",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Cực trị hàm số",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "toan-12-nc-004",
+      "content": "Trong Oxyz, khoảng cách từ I(1; -2; 2) đến gốc tọa độ O bằng bao nhiêu?",
+      "options": [],
+      "answer": "3",
+      "question_type": "tu_luan",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Khoảng cách trong không gian",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "toan-12-nc-005",
+      "content": "Tìm môđun của số phức z thỏa mãn (1+i)z = 3-i.",
+      "options": [],
+      "answer": "√5",
+      "question_type": "tu_luan",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Số phức",
+      "solution": null,
+      "comment": null
+    },
+    {
+      "id": "toan-12-nc-006",
+      "content": "Khối chóp S.ABC, SA ⊥ đáy, đáy ABC vuông cân tại B, SA = AB = a. Thể tích V = ?·a³.",
+      "options": [],
+      "answer": "1/6",
+      "question_type": "tu_luan",
+      "grade": 12,
+      "difficulty": "nang_cao",
+      "topic": "Thể tích khối chóp",
+      "solution": null,
+      "comment": null
+    }
+  ]
+}

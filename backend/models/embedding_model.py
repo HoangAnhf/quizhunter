@@ -1,5 +1,6 @@
 from typing import List
 import numpy as np
+from sentence_transformers import SentenceTransformer
 
 from config import EMBEDDING_MODEL
 
@@ -17,13 +18,7 @@ class EmbeddingModel:
 
     def _load_model(self):
         if self._model is None:
-            try:
-                from sentence_transformers import SentenceTransformer
-                self._model = SentenceTransformer(EMBEDDING_MODEL)
-            except ImportError:
-                raise ImportError(
-                    "Cần cài đặt sentence-transformers: pip install sentence-transformers"
-                )
+            self._model = SentenceTransformer(EMBEDDING_MODEL)
 
     def encode(self, texts: List[str]) -> np.ndarray:
         self._load_model()
